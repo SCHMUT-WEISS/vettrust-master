@@ -1,0 +1,123 @@
+.news-page {
+  &__hero-image {
+    @apply h-[70vh] lg:h-[640px] min-h-[70vh] lg:min-h-[640px] #{!important};
+  }
+}
+
+.hero {
+  &__home {
+    @apply absolute left-0 bottom-[74px] lg:bottom-[214px];
+  }
+
+
+  &__about {
+    @apply absolute left-0 bottom-[20px] lg:bottom-[176px] text-white #{!important};
+  }
+
+  &__career {
+    @apply absolute left-0 bottom-[20px] lg:bottom-[146px] text-white #{!important};
+  }
+
+  &__become-vet {
+    @apply absolute left-0 bottom-[20px] lg:bottom-[110px] text-white #{!important};
+  }
+
+  &__bg-image {
+    @apply relative rounded-[12px];
+  }
+
+  &__news-page {
+    @apply h-[640px] lg:h-[640px];
+  }
+}
+
+@media (min-width: 268px) {
+  .hero {
+    &__section-animated {
+      animation: heroSectionAnimationMobile 1s ease-in-out;
+    }
+
+    &__search-animated {
+      animation: heroSearchAnimationMobile 1s ease-in-out;
+    }
+
+    &__shell-animated {
+      animation: heroShellAnimationMobile 1s ease-in-out;
+    }
+
+    &__shell-with-related-location-animated {
+      animation: heroShellAnimationMobileWithRelatedLocation 1s ease-in-out;
+    }
+  }
+}
+
+/* The md breakpoint is repeated here to have a place to change if the offsets of annimations were to change */
+@media (min-width: 768px) {
+  .hero {
+    &__section-animated {
+      animation: heroSectionAnimationTablet 1s ease-in-out;
+    }
+
+    &__search-animated {
+      animation: heroSearchAnimationMobile 1s ease-in-out;
+    }
+
+    &__shell-animated {
+      animation: heroShellAnimationMobile 1s ease-in-out;
+    }
+
+    &__shell-with-related-location-animated {
+      animation: heroShellAnimationMobileWithRelatedLocation 1s ease-in-out;
+    }
+  }
+}
+
+@media (min-width: 1024px) {
+  .hero {
+    &__section-animated {
+      animation: heroSectionAnimationDesktop 1s ease-in-out;
+    }
+
+    &__search-animated {
+      animation: heroSearchAnimationDesktop 1s ease-in-out;
+    }
+
+    &__shell-animated {
+      animation: heroShellAnimationDesktop 1s ease-in-out;
+    }
+
+    &__shell-with-related-location-animated {
+      animation: heroShellAnimationDesktopWithRelatedLocation 1s ease-in-out;
+    }
+  }
+}
+
+@media (max-width: 1024px) {
+  .animal-rescue__half-surface {
+    @apply mt-[430px]
+  }
+}
+
+@media (max-width: 768px) {
+  .animal-rescue__half-surface {
+    @apply mt-[430px]
+  }
+}
+
+@media (max-width: 640px) {
+  .animal-rescue__half-surface {
+    @apply mt-[530px]
+  }
+}
+
+@media (max-width: 490px) {
+  .animal-rescue__half-surface {
+    @apply mt-[581px]
+  }
+}
+
+@media (max-width: 375px) {
+  .animal-rescue__half-surface {
+    @apply mt-[636px]
+  }
+}

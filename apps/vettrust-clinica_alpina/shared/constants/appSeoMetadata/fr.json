@@ -1,0 +1,247 @@
+{
+  "/": {
+    "title": "VetTrust",
+    "description": "Allegra à la Clinica Alpina",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4kIMYZDAfLe7OWeC73vboG/381d523213b19e87910d251585b3beaf/hero_image_clinica_alpina_large__1_.png"
+  },
+  "/imprint": {
+    "title": "Mentions légales",
+    "description": "Adresse de contact \nVetTrust AG Bodenhof 2 6403 Küssnacht a/R Suisse Courriel : info@vettrust.ch \nRe...",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1aNoTal5kfdcBJOIIMpbQa/7e8fe8f8e6271e03845be37e60fbb2cc/C0056.jpg"
+  },
+  "/data-protection": {
+    "title": "Déclaration de confidentialité",
+    "description": "Avis général \nEn vertu de l'article 13 de la Constitution fédérale suisse et de la réglementation de...",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1aNoTal5kfdcBJOIIMpbQa/7e8fe8f8e6271e03845be37e60fbb2cc/C0056.jpg"
+  },
+  "/global-partners": {
+    "title": "Partenaire",
+    "description": "Tous nos partenariats en un coup d'œil",
+    "image": "https://assets.website-files.com/62695292ac31cd97968fa7b4/626a567107ae0558a9174bd4_VetTrust%20opengraph.png"
+  },
+  "/career": {
+    "title": "Carrière",
+    "description": "Vous souhaitez faire partie de VetTrust ? Cliquez ici pour en savoir plus !",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/50LxnbwM2wK6Wvx3x5grMY/81a9ffcc778e71fcfeae92352f31d70c/VT-Eingangsbereich_Tresen_Hund.jpg"
+  },
+  "/news": {
+    "title": "Actualités",
+    "description": "Toute l'actualité et les histoires quotidiennes de VetTrust.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3WoJKr29K3cIAGkR6TyxxS/8febfcc61f3585bc65a52438b09bbe3c/Esel_wei__es_Pferd_Wiese.jpg"
+  },
+  "/news/assurer-lavenir-de-la-clinica-alpina": {
+    "title": "Assurer l'avenir de la Clinica Alpina",
+    "description": "Clinica Alpina, avec ses sites, est le plus grand fournisseur de soins vétérinaires en Engadine. Le site de Scuol est l'une des cliniques vétérinaires les plus modernes d'Europe.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1a3LwGXkjoCMd1pYNzYrpJ/9f89702fd44e53a5578fa9e413edb22a/Clinica_Alpina.jpeg"
+  },
+  "/news/un-cas-passionnant-de-neurochirurgie": {
+    "title": "Un cas passionnant de neurochirurgie",
+    "description": "Les vétérinaires de VetTrust guérissent la paralysie d'un border collie de 9 ans",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3S1g6BK8rkQeXxAahMKRqN/0104812eedba188dd96df3fbf567ad42/dog-g5382b65d6_1920.jpg"
+  },
+  "/news/vettrust-cat-hotel-oensingen": {
+    "title": "VetTrust Cat Hotel Oensingen",
+    "description": "Nous avons reconstruit pour vous une partie de notre cabinet à Oensingen, afin de pouvoir garantir à l'avenir à vos chats un agréable séjour de vacances. Ce faisant, nous avons créé une oasis de bien-être unique pour les chats.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2zTyjtvjGyQHIuZtmUUQSh/33b144763927d378a02eff6216815129/News_Cat_Hotel_Oensingen.png"
+  },
+  "/news/vettrust-tierklinik-basel-donates-for-animal-welfare": {
+    "title": "VetTrust Tierklinik Basel donates for animal welfare",
+    "description": "L'équipe chirurgicale et de gestion de la clinique vétérinaire VetTrust de Bâle vient de remettre un grand équipement chirurgical complet, y compris un stérilisateur, au \"Vet Centar\" vétérinaire de Banja Luka, en Bosnie. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/7zUOXyRhgvWwz8oU1lUSEZ/fe9e066cba409e8f02a9e2fa1b2f0a48/Tierklinik_Basel_Spendet_News.jpeg"
+  },
+  "/news/mesures-actuelles-de-covid-19": {
+    "title": "Mesures actuelles de COVID-19",
+    "description": "Mesures actuellement en vigueur concernant le COVID-19 dans les pratiques de VetTrust",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/69rpett2BYiFiJGSBhMra/0102a07792503f95fbe0ceaa873b0975/Mitarbeiter.jpg"
+  },
+  "/news/la-nanoscopie-dans-la-chirurgie-des-articulations": {
+    "title": "La nanoscopie dans la chirurgie des articulations",
+    "description": "La nanoscopie dans la chirurgie des articulations, maintenant aussi pour les animaux ! VetTrust propose désormais ce service",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/HO8aoL7Mu0LNC3KoXtpjZ/86add6ebb3ce6d3d07648a178a75d6ab/Hund_Pfote_Hand.jpeg"
+  },
+  "/news/paquet-de-soins-complets-pour-chiots": {
+    "title": "Paquet de soins complets pour chiots",
+    "description": "Avec le forfait sans souci pour chiots de VetTrust, nous vous aidons à préparer au mieux votre nouveau membre de la famille et à penser à tout ce qui est important au cours de la première année. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5qS8wy3BW1GxSvbNeBTGn6/eeb9986634a12f068fc53ef6f48ead83/lydia-torrey-AovflqCt9Ws-unsplash.jpg"
+  },
+  "/blog": {
+    "title": "Connaissance des animaux &amp; notre quotidien",
+    "description": "Vous y lirez des connaissances utiles sur les animaux et des histoires de notre quotidien.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/7dqQEsHrVFo9BirGYRtirG/2920f2d5b87852c9acaca426552df58b/My-Photo__MYP8566.jpeg"
+  },
+  "/blog/pocdoc-pet-connect-systeme-de-premiers-soins-intelligent-pour-chiens-et-chats": {
+    "title": "PocDoc® Pet Connect système de soins intelligent pour annimaux",
+    "description": "Le PocDoc® Pet Connect est un kit de premiers soins intelligent qui comprend un code d'activation pour l'application. Chaque étape du traitement est expliquée dans l'appli en phrases courtes et concises et avec des images compréhensibles.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3kUeDKxDU3R9TqCK31sVXO/d03cc14cae1e9c71161de66febd2d0f2/PocDoc_Hund.jpg"
+  },
+  "/blog/apprentissage-de-la-proprete-le-bon-moment-est-important": {
+    "title": "Apprentissage de la propreté - Le bon moment est important ",
+    "description": "Avec la bonne technique et de la patience, il est généralement facile d'éduquer un chiot à la maison en quelques semaines. Comme toujours, la règle de base est de récompenser le comportement souhaité. VetTrust vous montre comment. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2QW1uxI58pToDnazj3jclr/6e978a4ccf2926bd35e74e81deab01d0/Hunde_auf_Wiese.jpg"
+  },
+  "/blog/les-animaux-ne-sont-pas-faits-pour-etre-des-cadeaux": {
+    "title": "Les animaux ne sont pas faits pour être des cadeaux !",
+    "description": "Bien qu'il soit clair qu'un animal de compagnie n'est pas un objet, il n'est pas rare que des idées fausses et des malentendus surgissent. La vétérinaire Gabrielle Brunner s'inquiète de la relation entre les humains et les animaux.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1GpLo4jRQCd7KhG7igrUVz/072142852abea208288cf5b3c01f61e5/My-Photo__MYP1749.jpg"
+  },
+  "/blog/quest-ce-qui-fait-quune-ecole-de-chiens-est-bonne": {
+    "title": "Qu'est-ce qui fait qu'une école de chiens est bonne ?",
+    "description": "Une bonne école de chiens est l'une des choses les plus importantes dans la vie d'un jeune chien. Pour les nouveaux propriétaires de chiens, pour lesquels le sujet de l'éducation est encore nouveau, l'aide qu'ils obtiennent est cruciale.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2mfezcGtMkRRIwO7BaUje1/7955a70952ada221dc0500e69453cde1/IMG_20200429_150959.jpg"
+  },
+  "/blog/geriatrie-je-suis-daccord": {
+    "title": "Gériatrie - Je suis d'accord !",
+    "description": "Nos animaux de compagnie vieillissent - c'est le cours de la nature, nous n'y pouvons rien. Ce que nous pouvons changer c'est notre attitude face à la vieillesse - et ainsi améliorer sensiblement la qualité de vie de nos museaux gris et la nôtre.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/RFTYN3pSPPzgDPJxBrM5B/0385cf8af26ba4784ce7ff875665f5a7/pexels-helena-lopes-2253275.jpg"
+  },
+  "/blog/puces-et-tiques-cela-ne-doit-pas-etre-le-cas": {
+    "title": "Puces et tiques - cela ne doit pas être le cas !",
+    "description": "Il est rassurant de savoir que les parasites qui vivent sur la peau et le pelage de nos animaux de compagnie ne passent généralement pas à l'homme et ne lui transmettent pas de maladies. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3jploLmwptUA0EKIq6CDmH/07c512323d1ba9985c5facd6f84a6a4b/vettrust-tierarzt-tierwissen-blog-flo_he-zecken.jpg"
+  },
+  "/blog/le-chemin-vers-la-sante-et-la-dentition-meme-a-un-age-avance": {
+    "title": "La voie vers des dents saines - même à un âge avancé",
+    "description": "Les besoins en soins dentaires de nos animaux sont le reflet des nôtres. Mieux vaut prévenir que guérir, le meilleur moment pour commencer est la première visite chez le vétérinaire - les contrôles VetTrust vous suivront, vous et votre animal pour la vie.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1sdRqbiHOS82cg6id5XWKz/78381489b0b96016afd188b223f15474/pexels-helena-lopes-3114143.jpg"
+  },
+  "/blog/la-demence-chez-les-chiens": {
+    "title": "La démence chez le chien",
+    "description": "La démence sénile chez le chien est une maladie grave qui ne doit pas être confondue avec la démence sénile normale. Le terme technique de cette maladie est le syndrome de dysfonctionnement cognitif et elle est actuellement souvent sous-diagnostiquée.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5Qz4epip2VSayyIhXzRxCC/53f9f1beba8d60ac67b22b3039f40d7e/pexels-shahar-michael-cohen-8774020.jpg"
+  },
+  "/blog/mon-chat-eternue-mon-chien-se-gratte-est-ce-le-rhume-des-foins": {
+    "title": "Mon chat éternue, mon chien se gratte, est-ce le rhume des foins?",
+    "description": "Les allergies sont un problème important chez les humains - de plus en plus de cas sont diagnostiqués. Et nos animaux de compagnie en souffrent également. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/27kxBOd3biPID1Cj25O7ix/10c6e20a7515f67d123bc18b9b8ed7e0/Sch__ferhund_liegt_.jpg"
+  },
+  "/blog/prevenir-c-est-soigner": {
+    "title": "Prévenir c'est soigner",
+    "description": "Une bonne alimentation, un exercice suffisant et l'occupation font partie d'une attitude saine du chat et du chien. Un examen de santé régulier en fait également partie.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/56lWVbqM7jxbPa3dXw64fl/3d01ca1c3ac31e913d302ce7538b0299/My-Photo__MYP1493.jpg"
+  },
+  "/jobs/open-positions": {
+    "title": "VetTrust - Nos offres d'emploi",
+    "description": "VetTrust - Chez nous, tu trouveras certainement un emploi correspondant non seulement à ta région, mais aussi au domaine d'activité que tu souhaites - les offres d'emploi actuelles sont répertoriées ici. Si tu ne trouves pas ce que tu cherches : Inscris-toi à notre réseau de carrière et nous te contacterons avec des offres d'emploi appropriées.",
+    "image": "https://assets.website-files.com/62695292ac31cd97968fa7b4/626a567107ae0558a9174bd4_VetTrust%20opengraph.png"
+  },
+  "/locations": {
+    "title": "Sites",
+    "description": "Trouvez un site près de chez vous",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5caOljdKFSuxnZ2qQLluos/39dfb2084ce4a44ee3dc86034f4ed11e/All_Locations_Hero__1_.png"
+  },
+  "/locations/tierklinik-clinica-alpina-celerina": {
+    "title": "Tierklinik Clinica Alpina Celerina (former Samedan)",
+    "description": "Le meilleur pour le bien-être de votre animal. Les vétérinaires de la clinique vétérinaire Clinica Alpina Celerina prennent soin de la santé de votre animal.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2A5Uo3MOl0d6FBfNAUKyEG/69ea275648e60f4cc6a3acb1c7d16c5a/IMG_0504.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-scuol": {
+    "title": "Tierklinik Clinica Alpina Scuol",
+    "description": "Le meilleur pour le bien-être de votre animal. Les vétérinaires de la clinique vétérinaire Clinica Alpina Scuol prennent soin de la santé de votre animal.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/0QvC15IzGv4Vg7ohWAfLO/1b62207d73d9f7b0a0342f67df167545/ClinicaAlpinaGeb__ude3.JPG"
+  },
+  "/locations/clinica-alpina-tierhotel-ramosch": {
+    "title": "Tierhotel Clinica Alpina Ramosch",
+    "description": "Bienvenue à la Clinica Alpina Tierhotel Ramosch !",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5P30Vgp5fR0TbcOKdeLd2W/22e65fb1fb8819235847c9df9ef04b58/HeroImage_Tierhotel_Ramosch_tinified.png"
+  },
+  "/locations/tierklinik-clinica-alpina-celerina/team": {
+    "title": "Tierklinik Clinica Alpina Celerina (former Samedan) - Notre équipe",
+    "description": "Avec plus de 15 spécialistes, nous sommes à vos côtés avec la plus grande compétence !",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2A5Uo3MOl0d6FBfNAUKyEG/69ea275648e60f4cc6a3acb1c7d16c5a/IMG_0504.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-scuol/team": {
+    "title": "Tierklinik Clinica Alpina Scuol - Notre équipe",
+    "description": "Avec plus de 15 spécialistes, nous sommes à vos côtés avec la plus grande compétence !",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/0QvC15IzGv4Vg7ohWAfLO/1b62207d73d9f7b0a0342f67df167545/ClinicaAlpinaGeb__ude3.JPG"
+  },
+  "/locations/clinica-alpina-tierhotel-ramosch/team": {
+    "title": "Tierhotel Clinica Alpina Ramosch - Notre équipe",
+    "description": "Avec plus de 15 spécialistes, nous sommes à vos côtés avec la plus grande compétence !",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5P30Vgp5fR0TbcOKdeLd2W/22e65fb1fb8819235847c9df9ef04b58/HeroImage_Tierhotel_Ramosch_tinified.png"
+  },
+  "/locations/tierklinik-clinica-alpina-celerina/services": {
+    "title": "Tierklinik Clinica Alpina Celerina (former Samedan) - Notre offre",
+    "description": "L'hôtel pour animaux de Ramosch permet à votre animal de compagnie de passer des vacances uniques, comme en rêvent tous les amis des animaux. Nous offrons la possibilité de combiner le séjour avec une rééducation professionnelle et/ou un toilettage pour chiens.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2A5Uo3MOl0d6FBfNAUKyEG/69ea275648e60f4cc6a3acb1c7d16c5a/IMG_0504.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-scuol/services": {
+    "title": "Tierklinik Clinica Alpina Scuol - Notre offre",
+    "description": "L'hôtel pour animaux de Ramosch permet à votre animal de compagnie de passer des vacances uniques, comme en rêvent tous les amis des animaux. Nous offrons la possibilité de combiner le séjour avec une rééducation professionnelle et/ou un toilettage pour chiens.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/0QvC15IzGv4Vg7ohWAfLO/1b62207d73d9f7b0a0342f67df167545/ClinicaAlpinaGeb__ude3.JPG"
+  },
+  "/locations/clinica-alpina-tierhotel-ramosch/services": {
+    "title": "Tierhotel Clinica Alpina Ramosch - Notre offre",
+    "description": "L'hôtel pour animaux de Ramosch permet à votre animal de compagnie de passer des vacances uniques, comme en rêvent tous les amis des animaux. Nous offrons la possibilité de combiner le séjour avec une rééducation professionnelle et/ou un toilettage pour chiens.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5P30Vgp5fR0TbcOKdeLd2W/22e65fb1fb8819235847c9df9ef04b58/HeroImage_Tierhotel_Ramosch_tinified.png"
+  },
+  "/locations/tierklinik-clinica-alpina-celerina/for-vets": {
+    "title": "Tierklinik Clinica Alpina Celerina (former Samedan) - Pour les cabinets référents ",
+    "description": "Chez VetTrust, nous apprécions la bonne collaboration avec nos collègues au sein et en dehors de notre groupe. Le bien-être de l'animal est notre priorité absolue, c'est pourquoi les transferts ne sont soumis à aucune condition. Nous nous réjouissons de toute forme de collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2A5Uo3MOl0d6FBfNAUKyEG/69ea275648e60f4cc6a3acb1c7d16c5a/IMG_0504.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-scuol/for-vets": {
+    "title": "Tierklinik Clinica Alpina Scuol - Pour les cabinets référents ",
+    "description": "Chez VetTrust, nous apprécions la bonne collaboration avec nos collègues au sein et en dehors de notre groupe. Le bien-être de l'animal est notre priorité absolue, c'est pourquoi les transferts ne sont soumis à aucune condition. Nous nous réjouissons de toute forme de collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/0QvC15IzGv4Vg7ohWAfLO/1b62207d73d9f7b0a0342f67df167545/ClinicaAlpinaGeb__ude3.JPG"
+  },
+  "/locations/clinica-alpina-tierhotel-ramosch/for-vets": {
+    "title": "Tierhotel Clinica Alpina Ramosch - Pour les cabinets référents ",
+    "description": "Chez VetTrust, nous apprécions la bonne collaboration avec nos collègues au sein et en dehors de notre groupe. Le bien-être de l'animal est notre priorité absolue, c'est pourquoi les transferts ne sont soumis à aucune condition. Nous nous réjouissons de toute forme de collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5P30Vgp5fR0TbcOKdeLd2W/22e65fb1fb8819235847c9df9ef04b58/HeroImage_Tierhotel_Ramosch_tinified.png"
+  },
+  "/locations/tierklinik-clinica-alpina-celerina/departments": {
+    "title": "Tierklinik Clinica Alpina Celerina (former Samedan) - Nos départements",
+    "description": "Avec plus de 15 spécialistes, nous sommes à vos côtés avec la plus grande compétence !",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2A5Uo3MOl0d6FBfNAUKyEG/69ea275648e60f4cc6a3acb1c7d16c5a/IMG_0504.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-scuol/departments": {
+    "title": "Tierklinik Clinica Alpina Scuol - Nos départements",
+    "description": "Avec plus de 15 spécialistes, nous sommes à vos côtés avec la plus grande compétence !",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/0QvC15IzGv4Vg7ohWAfLO/1b62207d73d9f7b0a0342f67df167545/ClinicaAlpinaGeb__ude3.JPG"
+  },
+  "/locations/clinica-alpina-tierhotel-ramosch/departments": {
+    "title": "Tierhotel Clinica Alpina Ramosch - Nos départements",
+    "description": "Avec plus de 15 spécialistes, nous sommes à vos côtés avec la plus grande compétence !",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5P30Vgp5fR0TbcOKdeLd2W/22e65fb1fb8819235847c9df9ef04b58/HeroImage_Tierhotel_Ramosch_tinified.png"
+  },
+  "/locations/tierklinik-clinica-alpina-celerina/contact": {
+    "title": "Tierklinik Clinica Alpina Celerina (ehem. Samedan) - Contact",
+    "description": "Le meilleur pour le bien-être de votre animal. Les vétérinaires de la clinique vétérinaire Clinica Alpina Celerina prennent soin de la santé de votre animal.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2A5Uo3MOl0d6FBfNAUKyEG/69ea275648e60f4cc6a3acb1c7d16c5a/IMG_0504.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-scuol/contact": {
+    "title": "Tierklinik Clinica Alpina Scuol - Contact",
+    "description": "Le meilleur pour le bien-être de votre animal. Les vétérinaires de la clinique vétérinaire Clinica Alpina Scuol prennent soin de la santé de votre animal.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/0QvC15IzGv4Vg7ohWAfLO/1b62207d73d9f7b0a0342f67df167545/ClinicaAlpinaGeb__ude3.JPG"
+  },
+  "/locations/clinica-alpina-tierhotel-ramosch/contact": {
+    "title": "Tierhotel Clinica Alpina Ramosch - Contact",
+    "description": "Bienvenue à la Clinica Alpina Tierhotel Ramosch !",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5P30Vgp5fR0TbcOKdeLd2W/22e65fb1fb8819235847c9df9ef04b58/HeroImage_Tierhotel_Ramosch_tinified.png"
+  },
+  "/locations/tierklinik-clinica-alpina-celerina/animal-rescue": {
+    "title": "Tierklinik Clinica Alpina Celerina (former Samedan) - VetTrust Service de sauvetage des animaux",
+    "description": "Les humains ne sont pas les seuls à avoir des accidents, des urgences médicales ou à se blesser - cela arrive aussi aux animaux domestiques. Si le chien est renversé par une voiture ou si le chat est coincé dans une fenêtre, il est désormais possible d'appeler notre service de sauvetage pour animaux.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2A5Uo3MOl0d6FBfNAUKyEG/69ea275648e60f4cc6a3acb1c7d16c5a/IMG_0504.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-scuol/animal-rescue": {
+    "title": "Tierklinik Clinica Alpina Scuol - VetTrust Service de sauvetage des animaux",
+    "description": "Les humains ne sont pas les seuls à avoir des accidents, des urgences médicales ou à se blesser - cela arrive aussi aux animaux domestiques. Si le chien est renversé par une voiture ou si le chat est coincé dans une fenêtre, il est désormais possible d'appeler notre service de sauvetage pour animaux.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/0QvC15IzGv4Vg7ohWAfLO/1b62207d73d9f7b0a0342f67df167545/ClinicaAlpinaGeb__ude3.JPG"
+  },
+  "/locations/clinica-alpina-tierhotel-ramosch/animal-rescue": {
+    "title": "Tierhotel Clinica Alpina Ramosch - VetTrust Service de sauvetage des animaux",
+    "description": "Les humains ne sont pas les seuls à avoir des accidents, des urgences médicales ou à se blesser - cela arrive aussi aux animaux domestiques. Si le chien est renversé par une voiture ou si le chat est coincé dans une fenêtre, il est désormais possible d'appeler notre service de sauvetage pour animaux.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5P30Vgp5fR0TbcOKdeLd2W/22e65fb1fb8819235847c9df9ef04b58/HeroImage_Tierhotel_Ramosch_tinified.png"
+  },
+  "/about": {
+    "title": "À propos de nous",
+    "description": "Découvrez ce qui caractérise la Clinica Alpina et ce qui est important pour nous.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4Rgl9gOlGnsKllg95qg6hS/c2e533b1b03699fd40603affec3c9063/Pferd_jung_frontal_tinified.jpg"
+  },
+  "/about/become-a-part-of-vettrust": {
+    "title": "Faire partie de VetTrust",
+    "description": "Grâce à VetTrust, nous voulons offrir aux animaux domestiques les meilleurs soins médicaux possibles. Faites-en partie et rejoignez ainsi le plus grand réseau suisse de cabinets vétérinaires.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6uIIb9kKS3FyVAWdYW7uGP/5c23eed329440531a0e92a9fb272cfb8/Tierarzt_werden_hero__1_.jpg"
+  }
+}

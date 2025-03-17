@@ -1,0 +1,9 @@
+node_modules
+.github
+.husky
+assets
+docs
+public
+styles
+migrations
+scripts

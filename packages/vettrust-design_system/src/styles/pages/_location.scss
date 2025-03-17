@@ -1,0 +1,22 @@
+.service-group-choice {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.locations__sticky-map {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+.location-search__sticky-map {
+  //position: -webkit-sticky; /* Safari */
+  //position: sticky;
+  //top: 0;
+
+  @apply lg:[position:-webkit-sticky] lg:[position:sticky] lg:[top:0];
+}

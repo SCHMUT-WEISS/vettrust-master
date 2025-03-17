@@ -1,0 +1,137 @@
+{
+    "404":{
+       "TITLE":"Sorry, we couldn't find this page",
+       "BUTTON":"Go to VetTrust home page",
+       "DESCRIPTION":"Please check in the address bar of your browser if you have entered the correct website address."
+    },
+    "500":{
+       "TITLE":"Sorry, we are currently experiencing technical problems",
+       "DESCRIPTION":"Please try to access the page again in a few minutes."
+    },
+    "ERRORS":{
+       "SHORT_FIELD":"{{field}} is too short",
+       "INVALID_FIELD":"Please provide a valid {{field}}",
+       "REQUIRED_FIELD":"{{field}} is required",
+       "PATTERN_NO_MATCH":"Please enter {{field}} with the format \"{{format}}\"",
+       "SOMETHING_WENT_WRONG":"Something went wrong. Please try again later."
+    },
+    "FOOTER":{
+       "EMAIL":"Email",
+       "IMPRINT":"Imprint",
+       "PRIVACY":"Privacy",
+       "CONTACT":"Contact",
+       "VETTRUST":{
+          "CITY":"Bodenhof 2",
+         "ADMINISTRATION_MANAGEMENT": "Administration & management",
+          "EMAIL":"info@vettrust.ch",
+          "TITLE":"VetTrust AG",
+          "ADDRESS":"6403 Küssnacht am Rigi",
+          "COUNTRY":"Switzerland",
+          "YOUTUBE":"https://www.youtube.com/channel/UC0SFYWw0h0YbUOO7llGMS7Q",
+          "FACEBOOK":"https://www.facebook.com/vettrust.tierarztgruppe",
+          "INSTAGRAM":"https://www.instagram.com/vettrust.ch/",
+          "EMAIL_LABEL":"Email:",
+          "TELEPHONE_LABEL":"Telephone:",
+          "TELEPHONE_NUMBER":"+41 41 852 04 88"
+       },
+       "PET_OWNERS":{
+          "BLOG":"Animal knowledge blog",
+          "NEWS":"News",
+          "TITLE":"For pet owners",
+          "ABOUT_US":"About us",
+          "LOCATIONS":"All locations"
+       },
+       "VETERINARIANS":{
+          "TITLE":"For veterinarians & TPA",
+          "CAREER":"Career",
+          "CONTACT":"Contact",
+          "VETTRUST_PARTNER":"Become a part of VetTrust"
+       }
+    },
+    "HEADER":{
+       "MENU":"Menu",
+       "STORE":"Store",
+       "EMERGENCY":"Emergency",
+        "REFERRAL": "Referral",
+        "VIDEO_CALL":"Video consultation",
+       "LOCATION_SEARCH":"Search location"
+    },
+    "OTHERS":{
+       "VIEW_PDF":"Read article",
+       "META_TITLE":"VetTrust: Your veterinarian at over 30 locations in Switzerland",
+       "PLEASE_SELECT":"Please select",
+       "META_DESCRIPTION":"Whatever your pet needs, a small animal practice or veterinary clinic from VetTrust is just a stone's throw away. With over 30 locations nationwide and comprehensive veterinary medicine, our veterinary group is the best choice for pet healthy pets. For a lifetime."
+    },
+    "SEARCH":{
+       "TITLE":"Find one of our locations near you",
+       "BUTTON":"Find a Location",
+       "FILTER":{
+          "TITLE":"Filter",
+          "PLACEHOLDER":"What does your pet need?"
+       },
+       "LOCATION":{
+          "TITLE":"Your location",
+          "PLACEHOLDER":"Where are you located?"
+       },
+       "MOBILE_TITLE":"Find a location"
+    },
+    "COOKIEBOT":{
+       "TITLE":"This website uses cookies",
+       "DESCRIPTION":"We use cookies to personalize content and ads, provide social media features, and analyze traffic to our website. We also share information about your use of our website with our social media, advertising and analytics partners. Our partners may combine this information with other data you have provided to them or that they have collected as part of your use of the Services.",
+       "CONSENT_BUTTON":"Accept",
+       "REFUSE_CONSENT_BUTTON":"Decline"
+    },
+    "NAVIGATION":{
+       "SEARCH":"Find a location",
+       "EMERGENCY":"Emergency",
+       "MENU_LIST":{
+          "ACADEMY_TITTLE":"Academy",
+          "ACADEMY_DESCRIPTION": "Learn more about the VetTrust Academy",
+          "TITLE":"Discover VetTrust",
+          "HOME_TITTLE":"Home",
+          "NEWS_TITTLE":"News",
+          "ABOUT_TITTLE":"About us",
+          "ANIMAL_TITTLE":"Animal knowledge",
+          "CAREER_TITTLE":"Career",
+          "SMART_PAWS_TITTLE":"Pet Insurance",
+          "IMPRINT_TITTLE":"Imprint",
+          "HOME_DESCRIPTION":"Get a general overview of VetTrust here.",
+          "LOCATIONS_TITTLE":"All locations",
+          "NEWS_DESCRIPTION":"All the latest news and everyday stories from VetTrust.",
+          "ABOUT_DESCRIPTION":"Learn what makes VetTrust tick and what is important to us.",
+          "BECOME_VET_TITTLE":"Become a part of vettrust",
+          "ANIMAL_DESCRIPTION":"Read useful animal knowledge from our experts here.",
+          "CAREER_DESCRIPTION":"Want to become a part of VetTrust? Learn more here!",
+          "SMART_PAWS_DESCRIPTION":"Smart Paws VetTrust Pet Insurance. The unique insurance cover for dogs and cats, developed by specialists",
+          "IMPRINT_DESCRIPTION":"Imprint",
+          "LOCATIONS_DESCRIPTION":"Find all locations of VetTrust throughout Switzerland.",
+          "SEARCH_RESULTS_TITTLE":"Search Results",
+          "BECOME_VET_DESCRIPTION":"Become a part of VetTrust",
+          "DATA_PROTECTION_TITTLE":"Privacy Policy",
+          "GLOBAL_PARTNERS_TITTLE":"Partners",
+          "SEARCH_RESULTS_DESCRIPTION":"All Search Results",
+          "DATA_PROTECTION_DESCRIPTION":"Privacy Policy",
+          "GLOBAL_PARTNERS_DESCRIPTION":"All our partnerships at a glance"
+       },
+       "VIDEOCALL":{
+          "TITLE":"Make an appointment now",
+          "DESCRIPTION":"With many concerns, we can also help you quickly and easily via video consultation"
+       },
+       "SEARCH_TIP":"Find a location",
+       "CLOSE_BUTTON":"Close the menu"
+    },
+    "SUCCESS_MODAL":{
+       "TITLE":"Thank you very much! We have received your message",
+       "BUTTON":"Close",
+       "DESCRIPTION":"We will get back to you as soon as possible"
+    },
+    "EMERGENCY_MODAL":{
+       "TITLE":"Our toll-free emergency number",
+       "TITLE_CHARGEABLE":"Our emergency number",
+       "DESCRIPTION_1":"Around the clock and seven days a week, we are available for you and your dearest four-legged friend throughout German-speaking Switzerland.",
+       "DESCRIPTION_2":"Do you have an acute emergency with your pet? Do you feel unsure whether it is an emergency at all?",
+       "DESCRIPTION_3":"Do not hesitate and call us. Using zip code recognition, you will be redirected to the location closest to you on duty.",
+       "PHONE_NUMBER_HEADING":"Dial the number in urgent emergencies:",
+       "PHONE_NUMBER_CHARGEABLE_HEADING": "Dial the number in urgent emergencies: <br>(chargeable FR {{price}}/minute)"
+    }
+ }

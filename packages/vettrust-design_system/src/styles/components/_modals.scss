@@ -1,0 +1,45 @@
+.emergency-image {
+  //background: radial-gradient(circle at top right, transparent 45px, transparent 0);
+}
+
+.appointment-booking-modal-container {
+  @apply 
+  w-[800px]
+  h-[90vh];
+}
+
+@media (max-width: 937px) {
+  .appointment-booking-modal-container {
+    @apply w-[calc(100vw_-_140px)];
+  }
+}
+
+@media (max-width: 699px) {
+  .appointment-booking-modal-container {
+    @apply w-[calc(100vw_-_40px)];
+  }
+}
+
+@media (max-width: 462px) {
+  .opening-hours-description {
+    @apply text-left #{!important};
+  }
+}
+
+.calendly-modal-container {
+  @apply 
+  w-[100vh]
+  h-[90vh];
+}
+
+@media (max-width: 937px) {
+  .calendly-modal-container {
+    @apply w-[calc(100vw_-_140px)];
+  }
+}
+
+@media (max-width: 699px) {
+  .calendly-modal-container {
+    @apply w-[calc(100vw_-_40px)];
+  }
+}

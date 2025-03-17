@@ -1,0 +1,46 @@
+.input {
+  font-weight: 400 !important;
+
+  &:focus {
+    outline: none;
+
+    @apply border-sand-pressed border-[1px];
+  }
+
+  &:hover {
+    @apply border-magenta border-[1px];
+  }
+
+  &__typing {
+    @apply bg-magenta/5 border-magenta border-[1px] #{!important};
+  }
+
+  &__select {
+    font-weight: 400;
+    outline: none;
+    border: none;
+
+    &:focus {
+      @apply bg-transparent;
+      outline: none;
+
+      @apply border-sand-pressed border-[1px];
+
+      &:hover {
+        @apply border-none;
+      }
+    }
+
+    &:hover {
+      @apply border-magenta border-[1px];
+    }
+
+    &--parent {
+      &:hover {
+        svg {
+          @apply text-magenta;
+        }
+      }
+    }
+  }
+}

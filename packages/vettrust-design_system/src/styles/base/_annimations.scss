@@ -1,0 +1,75 @@
+@keyframes wobble {
+  0% {
+    box-shadow: inset 1px 1px rgb(236, 15, 170), inset -1px -1px rgb(236, 15, 170);
+  }
+
+  100% {
+    box-shadow: inset 8px 8px rgb(236, 15, 170), inset -8px -8px rgb(236, 15, 170);
+  }
+}
+
+
+@keyframes bounceY {
+  0% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(5px);
+  }
+}
+
+@keyframes heroImageAnimation {
+  0% { opacity: 0; top: 72px; }
+  100% { opacity: 1; top: 0; }
+}
+
+@keyframes heroSearchAnimationMobile {
+  0% { opacity: 0; bottom: -72px; }
+  100% { opacity: 1; bottom: -32px; }
+}
+
+@keyframes heroSearchAnimationDesktop {
+  0% { opacity: 0; bottom: -88px; }
+  100% { opacity: 1; bottom: -48px; }
+}
+
+@keyframes heroSectionAnimationMobile {
+  0% { opacity: 0; margin-left: -26px; }
+  100% { opacity: 1; margin-left: 30px; }
+}
+
+@keyframes heroSectionAnimationTablet {
+  0% { opacity: 0; margin-left: -6px; }
+  100% { opacity: 1; margin-left: 50px; }
+}
+
+@keyframes heroSectionAnimationDesktop {
+  0% { opacity: 0; margin-left: 88px; }
+  100% { opacity: 1; margin-left: 144px; }
+}
+
+@keyframes heroSwissFlag {
+  0% { opacity: 0; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes heroShellAnimationMobile {
+  0% { opacity: 0; margin-bottom: -446px; }
+  100% { opacity: 1; margin-bottom: -406px; }
+}
+
+@keyframes heroShellAnimationDesktop {
+  0% { opacity: 0; margin-bottom: -104px; }
+  100% { opacity: 1; margin-bottom: -64px; }
+}
+
+@keyframes heroShellAnimationMobileWithRelatedLocation {
+  0% { opacity: 0; margin-bottom: -351px; }
+  100% { opacity: 1; margin-bottom: -311px; }
+}
+
+@keyframes heroShellAnimationDesktopWithRelatedLocation {
+  0% { opacity: 0; margin-bottom: -104px; }
+  100% { opacity: 1; margin-bottom: -64px; }
+}

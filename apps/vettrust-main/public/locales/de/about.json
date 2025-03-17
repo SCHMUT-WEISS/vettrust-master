@@ -1,0 +1,39 @@
+{
+  "HERO": {
+    "MORE": "Mehr erfahren",
+    "TITLE": "VetTrust: Die Schweizer Tierarztgruppe mit Herz",
+    "DESCRIPTION": "Angetrieben von der Liebe zum Tier bietet VetTrust Medizin nach neuesten wissenschaftlichen Erkenntnissen und Kundenservice auf höchstem Niveau  - zugänglich für alle."
+  },
+  "NEWS": {
+    "TITLE": "News und Pressemitteilungen",
+    "BUTTON_TEXT": "Alle News",
+    "DESCRIPTION": "Alle Neuigkeiten und alltägliche Geschichten von VetTrust."
+  },
+  "CLIPPED_CARD": {
+    "QUOTE": "Als CEO von VetTrust macht es mich stolz zu sehen, dass unsere über 300 Mitarbeitenden das Wohl von den uns anvertrauten Tiere mit grosser Leidenschaft an erste Stelle setzen."
+  },
+  "PRACTICE_OWNER": {
+    "TITLE": "Sind Sie Praxisbesitzer? Werden Sie Teil unseres Netzwerks!",
+    "MORE_INFO": "Hier informieren",
+    "DESCRIPTION": "Wollen Sie nie mehr auf sich alleine gestellt sein? Schätzen Sie breite Kompetenz und dennoch eine gute Work Life Balance? Mit uns ist alles möglich: Vollständige Integration, komplette Nachfolgelösung oder Zusammenarbeit in Teilbereichen."
+  },
+  "MANAGEMENT_TEAM": { "TITLE": "Das Führungsteam" },
+  "BUSINESS_MANAGEMENT_TEAM": { "TITLE": "Business Management" },
+  "PRESS_INQUIRIES": {
+    "TITLE": "Presseanfragen? Wir stehen Ihnen gerne zu Verfügung",
+    "DESCRIPTION": "Für Presseanfragen stehen wir Ihnen gerne zur Verfügung. Treten Sie direkt mit unserem CEO Boris Rapp in Verbindung, wir melden uns zeitnah zurück."
+  },
+  "BULLET_CARDS_GRID": {
+    "TITLE": "Was macht VetTrust aus?",
+    "BULLETS": {
+      "TITLE_1": "Starke Partner",
+      "TITLE_2": "Ehrlich interessiert",
+      "TITLE_3": "Medizin für alle",
+      "TITLE_4": "Wertebasiert",
+      "DESCRIPTION_1": "Wir sind als Partner so stark wie unsere gemeinsame Liebe zum Tier.",
+      "DESCRIPTION_2": "Wir sind ehrlich interessiert, leidenschaftlich und gemeinsam fortschrittlich.",
+      "DESCRIPTION_3": "Wir sind immer nah an Tier und Mensch. Wir bieten beste Medizin - erreichbar für alle.",
+      "DESCRIPTION_4": "Wir sind ein wertebasiertes Schweizer Unternehmen mit hohem Anspruch an uns."
+    }
+  }
+}

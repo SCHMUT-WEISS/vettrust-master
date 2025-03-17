@@ -1,0 +1,175 @@
+# Current URL (from)                            URL Production redirect to
+# Marketing Pages
+/jahrescheck                    https://vettrust.ch/health/jahrescheck
+/notfall                        https://vettrust.ch/health/notfall
+/de/jahrescheck                 https://vettrust.ch/health/jahrescheck
+/de/notfall                     https://vettrust.ch/health/notfall
+/emergency                      https://vettrust.ch/en/health/emergency
+/annual-check                   https://vettrust.ch/en/health/annual-check
+/en/emergency                   https://vettrust.ch/en/health/emergency
+/en/annual-check                https://vettrust.ch/en/health/annual-check
+
+# Clinica Alpina Redirects (fallback to avoid direct access)
+https://vettrust.ch/locations/clinica-alpina-tierhotel-ramosch/*        https://clinica-alpina.ch/locations/clinica-alpina-tierhotel-ramosch
+https://vettrust.ch/locations/tierklinik-clinica-alpina-celerina/*      https://clinica-alpina.ch/locations/tierklinik-clinica-alpina-celerina
+https://vettrust.ch/locations/tierklinik-clinica-alpina-scuol/*         https://clinica-alpina.ch/locations/tierklinik-clinica-alpina-scuol
+
+# Tierklinik Basel Softlaunch Page
+https://tkb.vettrust.ch/                        https://vettrust.ch/locations/tierklinik-basel
+https://tkb.vettrust.ch/team                        https://vettrust.ch/locations/tierklinik-basel/team
+https://tkb.vettrust.ch/tierrettungsdienst              https://vettrust.ch/locations/tierklinik-basel/animal-rescue
+
+# Jobs Softlaunch Page
+https://jobs.vettrust.ch                            https://vettrust.ch/career
+/jobs/open-positions                                https://vettrust.ch/career 301!
+/jobs                                               https://vettrust.ch/career 301!
+https://ueberweisung.vettrust.ch                    https://vettrust.ch/locations/tierklinik-basel/for-vets
+
+#Imprint & Data Protection
+https://vettrust.ch/de/datenschutz                  https://vettrust.ch/data-protection
+https://vettrust.ch/de/impressum                    https://vettrust.ch/imprint
+
+
+# Practice Root domains to Specific Pages
+https://www.kleintierpraxis-aabach.ch                   https://vettrust.ch/locations/kleintierpraxis-aabach-uster
+https://www.kleintierpraxis-anisano.ch                  https://vettrust.ch/locations/kleintierpraxis-buelach
+https://www.kleintierpraxis-au.ch                   https://vettrust.ch/locations/kleintierpraxis-au
+https://www.kleintierpraxis-dorf.ch                 https://vettrust.ch/locations/kleintierpraxis-wettingen
+https://www.kleintierpraxis-faellanden.ch               https://vettrust.ch/locations/kleintierpraxis-faellanden
+https://www.kleintierpraxis-flora.ch                    https://vettrust.ch/locations/kleintierpraxis-zuzwil
+https://www.kleintierpraxis-gundeli.ch                  https://vettrust.ch/locations/kleintierpraxis-basel-central
+https://www.kleintierpraxis-im-boden.ch                 https://vettrust.ch/locations/kleintierpraxis-kuessnacht
+https://www.kleintierpraxis-muehlebach.ch               https://vettrust.ch/locations/kleintierpraxis-oftringen
+https://www.kleintierpraxis-telli.ch                    https://vettrust.ch/locations/kleintierpraxis-aarau
+https://www.kleintierpraxis-therwil.ch                  https://vettrust.ch/locations/kleintierpraxis-therwil
+https://www.kleintierpraxis-seeblick.ch                 https://vettrust.ch/locations/kleintierpraxis-stansstad
+https://www.kleintierpraxis-sevogel.ch                  https://vettrust.ch/locations/kleintierpraxis-basel-central
+https://www.kleintierpraxis-spalen.ch                   https://vettrust.ch/locations/kleintierpraxis-basel-spalen
+https://www.praxiszentrum-turbenthal.ch                 https://vettrust.ch/locations/kleintierpraxis-turbenthal
+https://www.kleintierklinik-duebendorf.ch               https://vettrust.ch/locations/tierklinik-zuerich-ost
+https://www.tierklinik-rietpark.ch                  https://vettrust.ch/locations/kleintierpraxis-schlieren
+https://tierarztklettgau.ch                     https://vettrust.ch/locations/zentrum-tiermedizin-klettgau
+https://www.tierklinik-basel.ch/*                   https://vettrust.ch/locations/tierklinik-basel
+
+# Redirects from old to new practice pages
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-aarau/*                    https://vettrust.ch/locations/kleintierpraxis-aarau
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-uster/*                    https://vettrust.ch/locations/kleintierpraxis-aabach-uster
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-au/*                   https://vettrust.ch/locations/kleintierpraxis-au
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-basel-central/*                https://vettrust.ch/locations/kleintierpraxis-basel-central
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-basel-spalen/*             https://vettrust.ch/locations/kleintierpraxis-basel-spalen
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-buelach/*                  https://vettrust.ch/locations/kleintierpraxis-buelach
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/tierklinik-clinica-alpina-samedan/*            https://vettrust.ch/locations/tierklinik-clinica-alpina-celerina
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/tierklinik-clinica-alpina-scuol/*              https://clinica-alpina.ch/locations/tierklinik-clinica-alpina-scuol
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierklinik-duebendorf/*               https://vettrust.ch/locations/tierklinik-zuerich-ost
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-solovet-egerkingen/*           https://vettrust.ch/locations
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-eschenbach/*               https://vettrust.ch/locations/kleintierpraxis-eschenbach
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-faellanden/*               https://vettrust.ch/locations/kleintierpraxis-faellanden
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/glattbrugg/*                       https://vettrust.ch/locations/kleintierpraxis-glattbrugg
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierklinik-am-damm-gossau/*               https://vettrust.ch/locations/kleintierklinik-am-damm-gossau
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/vettrust-kleintierpraxis-guemligen/*           https://vettrust.ch/locations/kleintierpraxis-guemligen
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/zentrum-tiermedizin-klettgau/*             https://vettrust.ch/locations/zentrum-tiermedizin-klettgau
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-kuessnacht/*               https://vettrust.ch/locations/kleintierpraxis-kuessnacht
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-muenchenstein/*                https://vettrust.ch/locations/kleintierpraxis-muenchenstein
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-muri/*                 https://vettrust.ch/locations/kleintierpraxis-muri
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/tierklinik-nesslau/*                   https://vettrust.ch/locations/tierklinik-nesslau
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-pfaeffikon/*               https://vettrust.ch/locations/tierklinik-oberland-pfaeffikon
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/tierklinik-oberland/*                  https://vettrust.ch/locations/tierklinik-oberland-saland
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-solovet-oensingen/*            https://vettrust.ch/locations/kleintierpraxis-oensingen
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-oftringen/*                https://vettrust.ch/locations/kleintierpraxis-oftringen
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-kuessnacht/*               https://vettrust.ch/locations/petsalon-hundecoiffeur-kuessnacht
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/petsalon-hundecoiffeur-zug/*               https://vettrust.ch/locations/petsalon-hundecoiffeur-zug
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/petsalon-hundecoiffeur-zuzwil/*                https://vettrust.ch/locations/petsalon-hundecoiffeur-zuzwil
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-regensdorf/*               https://vettrust.ch/locations/kleintierpraxis-regensdorf
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-schlieren/*                 https://vettrust.ch/locations/kleintierpraxis-schlieren
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/stgallenost/*                      https://vettrust.ch/locations/kleintierpraxis-st-gallen-ost
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-stansstad/*                https://vettrust.ch/locations/kleintierpraxis-stansstad
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-therwil/*                  https://vettrust.ch/locations/kleintierpraxis-therwil
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/tierklinik-basel/*                     https://vettrust.ch/locations/tierklinik-basel
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-solovet-trimbach/*             https://vettrust.ch/locations/kleintierpraxis-trimbach
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-turbenthal/*               https://vettrust.ch/locations/kleintierpraxis-turbenthal
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-uster/*                    https://vettrust.ch/locations/kleintierpraxis-aabach-uster
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-wettingen/*                https://vettrust.ch/locations/kleintierpraxis-wettingen
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-zug/*                  https://vettrust.ch/locations/kleintierpraxis-zug
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/tierklinik-zuerich/*                   https://vettrust.ch/locations/tierklinik-zuerich-ost
+https://vettrust.ch/de/tierarzt-tierklinik-standorte/kleintierpraxis-zuzwil/*                   https://vettrust.ch/locations/kleintierpraxis-zuzwil
+
+# Old News and Blog Articles are redirected to the respective News Pages
+https://vettrust.ch/de/news/endlich-eine-tierversicherung-ohne-vorkasse-und-ohne-alterslimite       https://vettrust.ch/news/endlich-eine-tierversicherung-ohne-vorkasse-und-ohne-alterslimite
+https://vettrust.ch/de/news/gesundheitscheck-vorsorge-ist-fuersorge                 https://vettrust.ch/blog/gesundheitscheck-vorsorge-ist-fuersorge
+https://vettrust.ch/de/news/gigi-oeris-stiftung-anton-und-vettrust-tierklinik-basel-starten-zwei    https://vettrust.ch/news/gigi-oeri-startet-einzigartige-projekte-mit-vettrust
+https://vettrust.ch/de/news/pocdoc-das-perfekte-weihnachtsgeschenk-fuer-alle-tiereltern         https://vettrust.ch/news
+https://vettrust.ch/de/news/vettrust-katzenhotel-oensingen                      https://vettrust.ch/news/vettrust-katzenhotel-oensingen
+https://vettrust.ch/de/news/vettrust-tierklinik-basel-spendet-fuer-internationalen-tierschutz       https://vettrust.ch/news/vettrust-tierklinik-basel-spendet-fuer-internationalen-tierschutz
+https://vettrust.ch/de/news/zukunftssicherung-bei-der-clinica-alpina                    https://vettrust.ch/news/zukunftssicherung-bei-der-clinica-alpina
+https://vettrust.ch/de/tierarzt-wissen-blog/demenz-bei-aelteren-tieren                  https://vettrust.ch/blog/demenz-bei-hunden
+https://vettrust.ch/de/tierarzt-wissen-blog/der-weg-zu-gesunden-zaehnen-auch-im-hohen-alter     https://vettrust.ch/blog/der-weg-zu-gesunden-zaehnen-auch-im-hohen-alter
+https://vettrust.ch/de/tierarzt-wissen-blog/gefaehrliche-weihnachten                    https://vettrust.ch/blog/gefaehrliche-weihnachten
+https://vettrust.ch/de/tierarzt-wissen-blog/geriatrie-ich-bin-einverstanden             https://vettrust.ch/blog/geriatrie-ich-bin-einverstanden
+https://vettrust.ch/de/tierarzt-wissen-blog/katze-niest-hund-hat-juckreiz-heuschnupfen          https://vettrust.ch/blog/meine-katze-niest-mein-hund-hat-juckreiz-ist-es-heuschnupfen
+https://vettrust.ch/de/tierarzt-wissen-blog/tiere-sind-kein-geschenkartikel             https://vettrust.ch/blog/tiere-sind-kein-geschenkartikel
+https://vettrust.ch/de/tierarzt-wissen-blog/was-ist-eine-gute-hundeschule               https://vettrust.ch/blog/was-ist-eine-gute-hundeschule
+https://vettrust.ch/de/news/*                   https://vettrust.ch/news
+https://vettrust.ch/de/tierarzt-wissen-blog/*           https://vettrust.ch/blog
+https://vettrust.ch/resources/*                 https://vettrust.ch/blog
+
+#  Old VetTrust Jobs
+/de/tierarzt-praxis-jobs/*          https://vettrust.ch/career
+/de/jobs/*                  https://vettrust.ch/career
+
+# Redirect default Netlify subdomain to primary domain
+https://vettrust2022.netlify.app/*      https://vettrust.ch/:splat 301!
+
+# Practice ShortLinks
+/aarau                                  https://vettrust.ch/locations/kleintierpraxis-aarau
+/uster                                  https://vettrust.ch/locations/kleintierpraxis-aabach-uster
+/au                                     https://vettrust.ch/locations/kleintierpraxis-au
+/basel-central                          https://vettrust.ch/locations/kleintierpraxis-basel-central
+/basel-spalen                           https://vettrust.ch/locations/kleintierpraxis-basel-spalen
+/bülach                                 https://vettrust.ch/locations/kleintierpraxis-buelach
+/samedan                                https://clinica-alpina.ch/locations/tierklinik-clinica-alpina-celerina
+/scuol                                  https://clinica-alpina.ch/locations/tierklinik-clinica-alpina-scuol
+/egerkingen                             https://vettrust.ch/
+/eschenbach                             https://vettrust.ch/locations/kleintierpraxis-eschenbach
+/fällanden                              https://vettrust.ch/locations/kleintierpraxis-faellanden
+/glattbrugg                             https://vettrust.ch/locations/kleintierpraxis-glattbrugg
+/gossau                                 https://vettrust.ch/locations/kleintierklinik-am-damm-gossau
+/gümligen                               https://vettrust.ch/locations/kleintierpraxis-guemligen
+/klettgau                               https://vettrust.ch/locations/zentrum-tiermedizin-klettgau
+/küssnacht                              https://vettrust.ch/locations/kleintierpraxis-kuessnacht
+/münchenstein                           https://vettrust.ch/locations/kleintierpraxis-muenchenstein
+/muri                                   https://vettrust.ch/locations/kleintierpraxis-muri
+/nesslau                                https://vettrust.ch/locations/tierklinik-nesslau
+/pfäffikon                              https://vettrust.ch/locations/tierklinik-oberland-pfaeffikon
+/saland                                 https://vettrust.ch/locations/tierklinik-oberland-saland
+/oensingen                              https://vettrust.ch/locations/kleintierpraxis-oensingen
+/oftringen                              https://vettrust.ch/locations/kleintierpraxis-oftringen
+/petsalon-küssnacht                     https://vettrust.ch/locations/petsalon-hundecoiffeur-kuessnacht
+/petsalon-zug                           https://vettrust.ch/locations/petsalon-hundecoiffeur-zug
+/petsalon-zuzwil                        https://vettrust.ch/locations/petsalon-hundecoiffeur-zuzwil
+/regensdorf                             https://vettrust.ch/locations/kleintierpraxis-regensdorf
+/schlieren                              https://vettrust.ch/locations/kleintierpraxis-schlieren
+/st-gallen                              https://vettrust.ch/locations/kleintierpraxis-st-gallen-ost
+/stansstad                              https://vettrust.ch/locations/kleintierpraxis-stansstad
+/therwil                                https://vettrust.ch/locations/kleintierpraxis-therwil
+/tierklinik-basel                       https://vettrust.ch/locations/tierklinik-basel
+/trimbach                               https://vettrust.ch/locations/kleintierpraxis-trimbach
+/turbenthal                             https://vettrust.ch/locations/kleintierpraxis-turbenthal
+/uster                                  https://vettrust.ch/locations/kleintierpraxis-aabach-uster
+/wettingen                              https://vettrust.ch/locations/kleintierpraxis-wettingen
+/zug                                    https://vettrust.ch/locations/kleintierpraxis-zug
+/zuerich-ost                            https://vettrust.ch/locations/tierklinik-zuerich-ost
+/zuzwil                                 https://vettrust.ch/locations/kleintierpraxis-zuzwil
+/celerina                               https://clinica-alpina.ch/locations/tierklinik-clinica-alpina-celerina
+
+
+# Redirect clinic obsterg (closed)
+/locations/kleintierpraxis-obstberg        https://vettrust.ch/locations/kleintierpraxis-guemligen 301!
+/locations/kleintierpraxis-obstberg/*      https://vettrust.ch/locations/kleintierpraxis-guemligen 301!
+/en/locations/kleintierpraxis-obstberg     https://vettrust.ch/en/locations/kleintierpraxis-guemligen 301!
+/en/locations/kleintierpraxis-obstberg/*   https://vettrust.ch/en/locations/kleintierpraxis-guemligen 301!
+/de/locations/kleintierpraxis-obstberg     https://vettrust.ch/de/locations/kleintierpraxis-guemligen 301!
+/de/locations/kleintierpraxis-obstberg/*   https://vettrust.ch/de/locations/kleintierpraxis-guemligen 301!
+/fr/locations/kleintierpraxis-obstberg     https://vettrust.ch/fr/locations/kleintierpraxis-guemligen 301!
+/fr/locations/kleintierpraxis-obstberg/*   https://vettrust.ch/fr/locations/kleintierpraxis-guemligen 301!
+
+https://vettrust.ch/locations/kleintierpraxis-obstberg/*    https://vettrust.ch/locations/kleintierpraxis-guemligen 301!

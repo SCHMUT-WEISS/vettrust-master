@@ -1,0 +1,19 @@
+.user-card {
+  display: grid;
+  grid-template-areas: "image" "header" "footer";
+  justify-items: center;
+
+  &__image {
+    grid-area: image;
+    width: 120px;
+    height: 120px;
+  }
+
+  &__header {
+    grid-area: header;
+  }
+
+  &__footer {
+    grid-area: footer;
+  }
+}

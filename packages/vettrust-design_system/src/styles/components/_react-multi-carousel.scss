@@ -1,0 +1,81 @@
+.react-multi-carousel {
+  &-dot {
+    @apply h-[16px] flex flex-col justify-center items-center invisible;
+
+    &--active {
+      button {
+        background-color: $magenta !important;
+        border-color: $magenta !important;
+        width: 16px !important;
+        height: 16px !important;
+      }
+    }
+
+    &-list {
+      @apply  flex flex-row justify-center items-center h-[16px] mt-[40px] bottom-[unset] #{!important};
+
+      .react-multi-carousel-dot {
+        & > * {
+          @apply w-[14px] h-[14px] ;
+        }
+        //&:last-child {
+        //  button {
+        //    width: 10px;
+        //    height: 10px;
+        //  }
+        //}
+      }
+    }
+  }
+  &-track {
+    & > li  {
+      .testimonial-card-wrapper {
+        @apply pl-[20px] md:pl-[24px] lg:pl-[32px];
+      }
+
+      .news-card-wrapper {
+        @apply pl-[20px] md:pl-[24px] lg:pl-[32px];
+      }
+    
+      .management-carousel-wrapper {
+        @apply pl-[20px] md:pl-[24px] lg:pl-[32px];
+      }
+
+      .rating-card-wrapper {
+        @apply pl-[20px] md:pl-[24px] lg:pl-[32px];
+      }
+
+      .service-card-wrapper {
+        @apply pl-[20px] md:pl-[24px] lg:pl-[32px];
+      }
+
+      .department-card-wrapper {
+        @apply pl-[20px] md:pl-[24px] lg:pl-[32px];
+      }
+
+      .team-card-wrapper {
+        @apply pl-[20px] md:pl-[24px] lg:pl-[32px];
+      }
+
+      //&:last-child {
+      //    .testimonial-card-wrapper {
+      //       @apply pr-0;
+      //    }
+      //}
+    }
+  }
+  &-list{
+    position: unset !important;
+  }
+}
+
+.hero-news-carousel__dots-list {
+  @apply mt-[60px] lg:mt-[136px] lg:justify-end lg:right-[-40px] #{!important} ;
+
+  .react-multi-carousel-dot {
+    @apply visible;
+  }
+}
+
+
+

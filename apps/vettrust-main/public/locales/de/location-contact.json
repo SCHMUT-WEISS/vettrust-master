@@ -1,0 +1,85 @@
+{
+  "FOR_VETS": {
+    "FORM": {
+      "TITLE": "Überweisungsformular",
+      "PATIENT": {
+        "TITLE": "PatientIn",
+        "PET_NAME": "Tiername",
+        "BREED_LABEL": "Art / Rasse",
+        "GENDER_LABEL": "Geschlecht",
+        "WEIGHT_LABEL": "Gewicht in KG",
+        "BIRTH_DATE_LABEL": "Geburtsdatum",
+        "BREED_PLACEHOLDER": "Schäferhund",
+        "AGE_IN_YEARS_LABEL": "Alter in Jahren",
+        "GENDER_PLACEHOLDER": "Weiblich kastriert"
+      },
+      "REFERRER": {
+        "TITLE": "ÜberweiserIn",
+        "VET_LABEL": "TierärztIn",
+        "EMAIL_LABEL": "E-Mail Adresse",
+        "PRACTICE_LABEL": "Praxis",
+        "TELEPHONE_LABEL": "Telefonnummer",
+        "EMAIL_PLACEHOLDER": "Ihre E-Mail Adresse",
+        "PRACTICE_PLACEHOLDER": "Der Name Ihrer Praxis"
+      },
+      "PET_OWNER": {
+        "TITLE": "TierbesitzerIn",
+        "NAME_LABEL": "Name der/des BesitzerIn",
+        "ADDRESS_LABEL": "Adresse",
+        "TELEPHONE_LABEL": "Telefonnummer"
+      },
+      "BANk_TRANSFER": {
+        "TITLE": "Überweisung",
+        "FILES_LABEL": "Laden Sie hier alle relevanten Dateien hoch",
+        "REASON_LABEL": "Grund",
+        "PRE_TREATMENT": "Vorbehandlung",
+        "REASON_PLACEHOLDER": "Diagnostik, Eingriff, ...",
+        "RETURN_TRANSFER_LABEL": "Rücküberweisung per",
+        "FILE_UPLOAD_ERROR_LABEL": "Ein Problem mit dem Dateiformat oder der Dateigröße ist aufgetreten",
+        "FILE_UPLOAD_ACTIVE_LABEL": "Ziehen Sie Ihre Dateien hierhin",
+        "PRELIMINARY_REPORT_LABEL": "Vorbericht",
+        "PRE_TREATMENT_PLACEHOLDER": "Wir haben bereits...",
+        "FILE_UPLOAD_INACTIVE_LABEL": "Dateien in dieses Feld reinziehen oder <u>hier klicken</u> <br/> Bis zu insgesamt 20 MB in den Formaten JPEG, JPG, HEIC, PNG und DCM",
+        "PRELIMINARY_REPORT_PLACEHOLDER": "Ich habe festgestellt..."
+      },
+      "SUBMIT_BUTTON_LABEL": "Daten Absenden",
+      "RETURN_TRANSFER_CHOICES": { "NO": "Nein", "YES": "Ja" }
+    },
+    "HEADER": {
+      "TITLE": "Für überweisende Praxen ",
+      "DESCRIPTION": "Bei VetTrust schätzen wir die gute Zusammenarbeit mit Kollegen innerhalb und ausserhalb unserer Gruppe. Das Wohl des Tieres geniesst höchste Priorität, daher sind Überweisungen an keinerlei Bedingungen geknüpft. Wir freuen uns auf jede Form der Zusammenarbeit.",
+      "BUTTON_LABEL": "Zum Überweisungsformular"
+    },
+    "BULLET_CARDS_GRID": {
+      "TITLE": "Wie funktioniert's?",
+      "BULLETS": {
+        "TITLE_1": "Unkompliziert überweisen",
+        "TITLE_2": "Was wir benötigen ",
+        "TITLE_3": "Therapie",
+        "DESCRIPTION_1": "Sie können unser Überweisungsformular verwenden, uns telefonisch oder per Mail kontaktieren. Bitte rufen Sie uns bei Notfällen an! Weitere diagnostische Untersuchungen werden in Absprache mit Ihnen durchgeführt.",
+        "DESCRIPTION_2": "Für uns ist es sehr hilfreich, wenn wir Ihre Befunde bereits vor dem Termin erhalten. Senden Sie uns daher bitte vorhandenes Bild- und Labormaterial über das Formular unten oder per E-Mail zu.",
+        "DESCRIPTION_3": "Nach erfolgter Diagnose kann die Therapie wahlweise durch Sie, oder auf Ihren Wunsch auch bei uns erfolgen. Durch unser Netzwerk an SpezialistInnen können wir eine Vielzahl an Behandlungsmethoden anbieten. "
+      }
+    }
+  },
+  "CONTACT_MODAL": {
+    "CAT": "Katze",
+    "DOG": "Hund",
+    "BREED": "Tierart",
+    "OTHER": "Andere",
+    "TITLE": "Jetzt direkt Kontakt aufnehmen",
+    "EMAIL_LABEL": "Ihre E-Mail Adresse",
+    "BUTTON_LABEL": "Nachricht Absenden",
+    "MESSAGE_LABEL": "Nachricht eingeben",
+    "PRIVACY_LABEL": "Ich habe die <a href=\"/data-protection\"><u>Datenschutzerklärung</u></a> gelesen und stimme den Bedingungen zu.",
+    "PET_NAME_LABEL": "Name Ihres Haustieres",
+    "TELEPHONE_LABEL": "Telefonnummer",
+    "EMAIL_PLACEHOLDER": "E-Mail Adresse eingeben",
+    "FIRST_AND_LAST_NAME": "Ihr Vor- und Nachname",
+    "MESSAGE_PLACEHOLDER": "Ihre Nachricht eingeben",
+    "TELEPHONE_PLACEHOLDER": "Telefonnummer eingeben",
+    "PET_ALREADY_PATIENT_LABEL": "Ist Ihr Haustier schon Patient?",
+    "FIRST_AND_LAST_NAME_PLACEHOLDER": "Name eingeben"
+  },
+  "PLEASE_SELECT": "Bitte auswählen"
+}

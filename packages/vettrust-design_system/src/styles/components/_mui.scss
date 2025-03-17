@@ -1,0 +1,151 @@
+.MuiBackdrop-root {
+  background-color: rgba($vtBG, 0.4);
+}
+
+.MuiDrawer-paper {
+  box-shadow: 0px 4px 16px rgba(167, 123, 46, 0.02), 0 24px 64px rgba(167, 123, 46, 0.24);
+}
+
+.MuiAccordion-root {
+  border: unset !important;
+  border-radius: 12px !important;
+
+  &::before {
+    display: none;
+  }
+}
+
+//.MuiAccordionSummary-content {
+//  &:hover {
+//    color: $magenta !important;
+//  }
+//}
+
+.MuiAccordion-root {
+  background-color: white !important;
+  box-shadow: none !important;
+}
+
+.vt-drawer {
+  .MuiDrawer-paper {
+    @apply bg-vtBG;
+  }
+}
+
+.MuiAccordion-root-custom {
+  div[aria-expanded="true"] {
+    min-height: 20px !important;
+  }
+}
+
+.MuiAccordionSummary-contentGutters {
+  margin-bottom: 8px !important;
+  margin-top: 8px !important;
+}
+
+.MuiAccordionDetails-root {
+  padding-top: 0px !important;
+}
+
+.MuiInput-underline:hover:not(.Mui-disabled):before {
+  border-color: red !important;
+}
+
+.MuiNativeSelect-icon {
+  top: calc(41% - .5em) !important;
+}
+
+.MuiOutlinedInput-notchedOutline.Mui-focused {
+  @apply bg-magenta/5;
+  outline: 2px solid rgba($magenta-hover, 50%);
+  outline-offset: 2px;
+  border: 1px solid $sand-pressed;
+
+  &:hover {
+    @apply border-sand-pressed border-[1px];
+  }
+}
+
+.MuiAccordion-root-custom {
+  .MuiAccordionSummary-content {
+    @apply my-[16px] lg:my-[20px] #{!important};
+
+    &.Mui-expanded {
+      @apply mb-[8px] #{!important};
+    }
+  }
+
+  .MuiAccordionSummary-root {
+    @apply px-[20px] lg:px-[24px] #{!important};
+  }
+
+  .MuiAccordionDetails-root {
+    @apply px-[20px] lg:px-[24px] pb-[16px] lg:pb-[20px] #{!important};
+  }
+
+  .MuiAccordionSummary-expandIconWrapper.Mui-expanded {
+    // @apply mt-[8px]; // TODO: Only use if they insit
+  }
+}
+
+.search__MuiAccordion-root-custom {
+  .MuiAccordionSummary-content {
+    @apply my-[12px] #{!important};
+
+    &.Mui-expanded {
+      @apply mb-[8px] #{!important};
+    }
+  }
+
+  .MuiAccordionSummary-root {
+    @apply px-0 #{!important};
+  }
+
+  .MuiAccordionDetails-root {
+    @apply px-[2px] pb-[12px] #{!important};
+  }
+
+  .MuiAccordionSummary-expandIconWrapper.Mui-expanded {
+    //@apply mt-[8px]; // TODO: Only use if they insist
+  }
+
+  .MuiFormControlLabel-root {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  margin: 0 !important;
+}
+
+
+.custom-mui-controlled-label {
+  margin-right: 0px !important;
+}
+
+
+.MuiRating-sizeMedium {
+  opacity: 1 !important;
+}
+
+.services-tabs {
+  .MuiBox-root {
+    padding: 0;
+  }
+}
+
+div[role="dialog"] {
+  background: transparent;
+}
+
+.MuiTab-textColorSecondary {
+  @apply text-darkBlue #{!important};
+
+}
+
+.MuiTab-textColorSecondary.Mui-selected {
+  @apply text-magenta #{!important};
+}
+
+.MuiTabs-indicator {
+  @apply bg-magenta #{!important};
+}

@@ -1,0 +1,65 @@
+/*
+    NOTE: This class is here just for development purposes.
+    It helps in designing, saves time instead of doing inspect all the time
+    usage: <element className="?" />
+    Ref: https://github.com/GavinJoyce/tailwindcss-question-mark
+*/
+.\? {
+  animation: wobble 0.5s ease-in-out alternate infinite;
+}
+
+.\/ {
+  @apply border border-[1px] border-magenta;
+}
+
+.show-children-on-hover {
+  &:hover {
+    svg {
+      visibility: visible !important;
+    }
+  }
+}
+
+
+.content-wrapper {
+  @apply px-[10px] md:px-[24px] lg:px-[48px] mx-auto;
+
+  max-width: 1440px;
+}
+
+.container-wrapper {
+  @apply px-[20px] md:px-[72px] lg:px-[144px] mx-auto;
+
+  max-width: 1440px;
+}
+
+.site-wrapper {
+  @apply mx-auto;
+
+  max-width: 1440px;
+}
+
+// NOTE(nkpremices): This is a hacky way to bring in a lighter font than the usual especially in place where the weight is 600
+.Font_NotoSans {
+  font-family: NotoSans !important;
+}
+
+.font-noto-sans-condensed {
+  font-family: noto-sans-condensed !important;
+}
+
+.absolute-center-X {
+  @include absoluteCenterX
+}
+
+.absolute-center-Y {
+  @include absoluteCenterY
+}
+
+.default-radius {
+  @apply rounded-[12px];
+}
+
+.default-shadow {
+  box-shadow: 0px 2px 8px rgba(208, 145, 29, 0.02), 0px 12px 32px rgba(208, 145, 29, 0.12);
+}

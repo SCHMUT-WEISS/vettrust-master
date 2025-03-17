@@ -1,0 +1,6 @@
+{
+  "output": "CHANGELOG.md",
+  "template": ".github/changelog/changelog.tpl.hbs",
+  "unreleased": false,
+  "commitLimit": false
+}

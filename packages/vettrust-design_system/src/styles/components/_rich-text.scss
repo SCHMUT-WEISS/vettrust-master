@@ -1,0 +1,8 @@
+.rich-text {
+  &__ul-element {
+    @apply mt-[8px];
+    div {
+      display: inline;
+    }
+  }
+}

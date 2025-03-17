@@ -1,0 +1,39 @@
+{
+  "HERO": {
+    "MORE": "En savoir plus",
+    "TITLE": "La Clinica Alpina et VetTrust. Une équipe solide.",
+    "DESCRIPTION": "Animée par l'amour des animaux, Clinica Alpina offre la meilleure médecine à la pointe de la science et un service client de haut niveau - accessible à tous."
+  },
+  "NEWS": {
+    "TITLE": "Actualités et communiqués de presse",
+    "BUTTON_TEXT": "Toutes les actualités",
+    "DESCRIPTION": "Toute l'actualité et le quotidien de VetTrust."
+  },
+  "CLIPPED_CARD": {
+    "QUOTE": "En tant que CEO de VetTrust, je suis fier de voir que nos plus de 300 employés assurent, avant tout et avec passion, le bien-être des animaux qui nous sont confiés."
+  },
+  "PRACTICE_OWNER": {
+    "TITLE": "Vous êtes propriétaire d'un cabinet médical ? Rejoignez notre réseau !",
+    "MORE_INFO": "Informer ici",
+    "DESCRIPTION": "Vous ne voulez plus jamais être livré à vous-même ? Vous appréciez une large compétence avec un bon équilibre entre vie professionnelle et privée ? Avec nous, tout est possible : intégration complète, solution de remplacements ou collaboration dans des domaines partiels."
+  },
+  "MANAGEMENT_TEAM": { "TITLE": "L'équipe dirigeante" },
+  "BUSINESS_MANAGEMENT_TEAM": { "TITLE": "Gestion des affaires" },
+  "PRESS_INQUIRIES": {
+    "TITLE": "Vous avez des questions pour la presse ? Nous sommes à votre disposition",
+    "DESCRIPTION": "Nous nous tenons à votre disposition pour toute demande de presse. Contactez directement le Dr méd. vét. FVH Benjamin Biner, nous vous répondrons rapidement."
+  },
+  "BULLET_CARDS_GRID": {
+    "TITLE": "Qu'est-ce qui caractérise la Clinica Alpina ?",
+    "BULLETS": {
+      "TITLE_1": "Des partenaires solides",
+      "TITLE_2": "Sincèrement intéressé",
+      "TITLE_3": "La médecine pour tous",
+      "TITLE_4": "Basé sur des valeurs",
+      "DESCRIPTION_1": "En tant que partenaires, nous sommes aussi forts que notre amour commun pour les animaux.",
+      "DESCRIPTION_2": "Ensemble, nous sommes sincèrement intéressés, passionnés et progressistes.",
+      "DESCRIPTION_3": "Nous sommes toujours proches des animaux et des hommes. Nous offrons la meilleure médecine - accessible à tous.",
+      "DESCRIPTION_4": "Nous sommes une entreprise suisse basée sur des valeurs et très exigeante envers nous-mêmes."
+    }
+  }
+}

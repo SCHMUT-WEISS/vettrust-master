@@ -1,0 +1,5598 @@
+{
+  "date": 1723125042249,
+  "data": [
+    {
+      "location": {
+        "id": "20XThYFJKmmdNAKRoYY1Da",
+        "googlePlaceId": "ChIJH2Ls-3Z8kEcRvq0oZ5ctkrk"
+      },
+      "placesData": {
+        "formatted_address": "Schmerlatstrasse 1, 8213 Neunkirch, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.688668,
+            "lng": 8.506027800000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.6899153302915,
+              "lng": 8.507407280291503
+            },
+            "southwest": {
+              "lat": 47.6872173697085,
+              "lng": 8.504709319708498
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Dienstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Mittwoch: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Donnerstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Freitag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "z1Q3JljegrpEQ4YMtAze2",
+        "googlePlaceId": "ChIJNXoM5QOhmkcRBNaok_HRShE"
+      },
+      "placesData": {
+        "formatted_address": "Industriestrasse 34, 8305 Dietlikon, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.4120776,
+            "lng": 8.6164974
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.41364418029149,
+              "lng": 8.617790130291501
+            },
+            "southwest": {
+              "lat": 47.4109462197085,
+              "lng": 8.615092169708497
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2100"
+              },
+              "open": {
+                "day": 1,
+                "time": "0745"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100"
+              },
+              "open": {
+                "day": 2,
+                "time": "0745"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100"
+              },
+              "open": {
+                "day": 3,
+                "time": "0745"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100"
+              },
+              "open": {
+                "day": 4,
+                "time": "0745"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100"
+              },
+              "open": {
+                "day": 5,
+                "time": "0745"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1300"
+              },
+              "open": {
+                "day": 6,
+                "time": "0745"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 07:45–21:00 Uhr",
+            "Dienstag: 07:45–21:00 Uhr",
+            "Mittwoch: 07:45–21:00 Uhr",
+            "Donnerstag: 07:45–21:00 Uhr",
+            "Freitag: 07:45–21:00 Uhr",
+            "Samstag: 07:45–13:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "2V0uSfFLghL8URwePC5Ene",
+        "googlePlaceId": "ChIJ6Z-zRnG7mkcRPBbZp4n8iww"
+      },
+      "placesData": {
+        "formatted_address": "Gstalderstrasse 4, 8607 Aathal-Seegräben, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.3356751,
+            "lng": 8.7673037
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.3369885802915,
+              "lng": 8.768613830291502
+            },
+            "southwest": {
+              "lat": 47.3342906197085,
+              "lng": 8.765915869708497
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "zi5egUWgVqtVYbCVZ7sc4",
+        "googlePlaceId": "ChIJaZqDHPw7kEcR-Fp5zfYNNdI"
+      },
+      "placesData": {
+        "formatted_address": "Tellistrasse 70, 5000 Aarau, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.3975417,
+            "lng": 8.0586153
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.3989808802915,
+              "lng": 8.059943730291502
+            },
+            "southwest": {
+              "lat": 47.3962829197085,
+              "lng": 8.057245769708498
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "6Z3zYG74w28MAisIRjkhLu",
+        "googlePlaceId": "ChIJqRyBUAG5kUcRVcVH76IXaFE"
+      },
+      "placesData": {
+        "formatted_address": "Birkenstrasse 35, 4055 Basel, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.5567831,
+            "lng": 7.5732705
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.55816573029149,
+              "lng": 7.5745503302915
+            },
+            "southwest": {
+              "lat": 47.5554677697085,
+              "lng": 7.571852369708497
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700"
+              },
+              "open": {
+                "day": 3,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900"
+              },
+              "open": {
+                "day": 4,
+                "time": "1500"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 15:00–19:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: Geschlossen",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "4Qg149eDJzI1eZkv0iPhYi",
+        "googlePlaceId": "ChIJg3c2oE7SkUcRy_Yz-zeQUww"
+      },
+      "placesData": {
+        "formatted_address": "Hauptstrasse 40, 4702 Oensingen, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.2900228,
+            "lng": 7.719583999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.2914693302915,
+              "lng": 7.721055180291502
+            },
+            "southwest": {
+              "lat": 47.2887713697085,
+              "lng": 7.718357219708499
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1700"
+              },
+              "open": {
+                "day": 1,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700"
+              },
+              "open": {
+                "day": 2,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700"
+              },
+              "open": {
+                "day": 3,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700"
+              },
+              "open": {
+                "day": 4,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700"
+              },
+              "open": {
+                "day": 5,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "20KWr72c0j0Ng5lEJ1MOQ2",
+        "googlePlaceId": "ChIJf_mbzJQvkEcRicJ5NcgPDuE"
+      },
+      "placesData": {
+        "formatted_address": "Zürichstrasse 16, 4665 Oftringen, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.3125392,
+            "lng": 7.924791800000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.3139912302915,
+              "lng": 7.926152130291502
+            },
+            "southwest": {
+              "lat": 47.3112932697085,
+              "lng": 7.923454169708498
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1300"
+              },
+              "open": {
+                "day": 4,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0700"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 07:00–18:00 Uhr",
+            "Dienstag: 07:00–18:00 Uhr",
+            "Mittwoch: 07:00–18:00 Uhr",
+            "Donnerstag: 07:00–13:00 Uhr, 14:00–18:00 Uhr",
+            "Freitag: 07:00–18:00 Uhr",
+            "Samstag: 07:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "6jm2cVLv8oEnqP7OM4CoiS",
+        "googlePlaceId": "ChIJTeRhD_Qem0cRdZHi-gV_KQc"
+      },
+      "placesData": {
+        "formatted_address": "Falkensteinstrasse 100, 9000 St. Gallen, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.432843,
+            "lng": 9.401925499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.43423088029149,
+              "lng": 9.403233980291503
+            },
+            "southwest": {
+              "lat": 47.43153291970849,
+              "lng": 9.400536019708499
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: Geschlossen",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "ANuVwYB9XYVApRYQCiIAm",
+        "googlePlaceId": "ChIJsXk3JcvgmkcRmMwJslg2xcU"
+      },
+      "placesData": {
+        "formatted_address": "Flawilerstrasse 31, 9200 Gossau, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.4134958,
+            "lng": 9.2425991
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.4149166802915,
+              "lng": 9.243887730291503
+            },
+            "southwest": {
+              "lat": 47.41221871970851,
+              "lng": 9.241189769708498
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1830"
+              },
+              "open": {
+                "day": 1,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1830"
+              },
+              "open": {
+                "day": 2,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1830"
+              },
+              "open": {
+                "day": 3,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1830"
+              },
+              "open": {
+                "day": 5,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 07:30–12:00 Uhr, 13:30–18:30 Uhr",
+            "Dienstag: 07:30–12:00 Uhr, 13:30–18:30 Uhr",
+            "Mittwoch: 07:30–12:00 Uhr, 13:30–18:30 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Freitag: 07:30–12:00 Uhr, 13:30–18:30 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "1qFAh2HxcGTuugu3qp6nzB",
+        "googlePlaceId": "ChIJPWi96nfpmkcRMxRLWqMgC5s"
+      },
+      "placesData": {
+        "formatted_address": "Grünring 1, 9524 Zuzwil, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.47064020000001,
+            "lng": 9.107066
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.4719321802915,
+              "lng": 9.108390830291503
+            },
+            "southwest": {
+              "lat": 47.4692342197085,
+              "lng": 9.105692869708498
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700"
+              },
+              "open": {
+                "day": 4,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1330"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Samstag: Geschlossen",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "5YjpzLoUZOrA89TM6VWNF3",
+        "googlePlaceId": "ChIJm8-ANlQRm0cRnd3hTS279ag"
+      },
+      "placesData": {
+        "formatted_address": "Hauptstrasse 4, 9434 Au, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.4407419,
+            "lng": 9.643892
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.4420425302915,
+              "lng": 9.645290080291502
+            },
+            "southwest": {
+              "lat": 47.4393445697085,
+              "lng": 9.642592119708498
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1900"
+              },
+              "open": {
+                "day": 1,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 07:00–12:00 Uhr, 13:00–19:00 Uhr",
+            "Dienstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+            "Mittwoch: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+            "Donnerstag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+            "Freitag: 07:00–12:00 Uhr, 13:00–18:00 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "6ZvdMtnJK3bHfXDqzeRNYy",
+        "googlePlaceId": "ChIJb_dA_kPXmkcRAGqsVT1wLFE"
+      },
+      "placesData": {
+        "formatted_address": "VetTrust Tierklinik Nesslau, Ziegelwies, 9650 Nesslau, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.2221862,
+            "lng": 9.1979806
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.22360863029149,
+              "lng": 9.1989786802915
+            },
+            "southwest": {
+              "lat": 47.22091066970849,
+              "lng": 9.196280719708495
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": false,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "6AEHAHAsV5YC6NxAdIZ0ce",
+        "googlePlaceId": "ChIJS9aRbdJ1kEcRhKrcNtRWsuA"
+      },
+      "placesData": {
+        "formatted_address": "Kantonsschulstrasse 2, 8180 Bülach, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.5203376,
+            "lng": 8.5462045
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.5217006302915,
+              "lng": 8.547664580291503
+            },
+            "southwest": {
+              "lat": 47.51900266970851,
+              "lng": 8.544966619708498
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: Geschlossen",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "4y4vLn1fUtsf1IkNVwlMjB",
+        "googlePlaceId": "ChIJdUCYp3bHkUcRnqgwh2XgkjI"
+      },
+      "placesData": {
+        "formatted_address": "Baumgartenweg 6, 4106 Therwil, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.5000331,
+            "lng": 7.559144099999997
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.5015284802915,
+              "lng": 7.560616830291501
+            },
+            "southwest": {
+              "lat": 47.4988305197085,
+              "lng": 7.557918869708496
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": false,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1700"
+              },
+              "open": {
+                "day": 1,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700"
+              },
+              "open": {
+                "day": 2,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700"
+              },
+              "open": {
+                "day": 5,
+                "time": "1330"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+            "Samstag: Geschlossen",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "pskVQxZmweq4BNcSlxZxi",
+        "googlePlaceId": "ChIJO7t-Rkb3j0cRhQ4zkf4JuBs"
+      },
+      "placesData": {
+        "formatted_address": "Seepark 6, 6362 Stansstad, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 46.9722307,
+            "lng": 8.340431900000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 46.9735381302915,
+              "lng": 8.341728080291501
+            },
+            "southwest": {
+              "lat": 46.9708401697085,
+              "lng": 8.339030119708497
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "1KDLO76v16cx7IhqCqRF3d",
+        "googlePlaceId": "ChIJ5-00QTwFkEcRG9Hk9XEzIM8"
+      },
+      "placesData": {
+        "formatted_address": "Bahnhofstrasse 4, 5630 Muri, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.275032,
+            "lng": 8.341246599999998
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.27643108029149,
+              "lng": 8.3426960802915
+            },
+            "southwest": {
+              "lat": 47.2737331197085,
+              "lng": 8.339998119708495
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "5n4zOqnhg5ZxbfQSizdstG",
+        "googlePlaceId": "ChIJnU4TOnT9j0cR6HQvLSgsS5Q"
+      },
+      "placesData": {
+        "formatted_address": "Seetalstrasse 2, 6274 Eschenbach, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.1339874,
+            "lng": 8.319970699999997
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.1352482802915,
+              "lng": 8.3214481302915
+            },
+            "southwest": {
+              "lat": 47.1325503197085,
+              "lng": 8.318750169708496
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–19:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "4U0PZ9TeHRHRbSxT8AJTkh",
+        "googlePlaceId": "ChIJHY_A-m7_j0cRHUpOOIwa8Yo"
+      },
+      "placesData": {
+        "formatted_address": "Bodenstrasse 20, 6403 Küssnacht, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.0859919,
+            "lng": 8.4405168
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.0872921802915,
+              "lng": 8.441861030291502
+            },
+            "southwest": {
+              "lat": 47.0845942197085,
+              "lng": 8.439163069708497
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700"
+              },
+              "open": {
+                "day": 5,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Dienstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Mittwoch: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Donnerstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "3WrXJD5F0J4tWBjrHQMS7O",
+        "googlePlaceId": "ChIJtSFUYUWqmkcRnQZS-2NJx-w"
+      },
+      "placesData": {
+        "formatted_address": "Industriestrasse 49, 6300 Zug, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.1826822,
+            "lng": 8.5210746
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.1840631302915,
+              "lng": 8.522399680291503
+            },
+            "southwest": {
+              "lat": 47.1813651697085,
+              "lng": 8.519701719708499
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+            "Samstag: Geschlossen",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "hm1MHEVXcJRsOMbmMOH6n",
+        "googlePlaceId": "ChIJAR4_G0-4kUcRQAgkjVkUSek"
+      },
+      "placesData": {
+        "formatted_address": "Nauenstrasse 41, 4052 Basel, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.5478151,
+            "lng": 7.593146
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.5491208802915,
+              "lng": 7.594437180291504
+            },
+            "southwest": {
+              "lat": 47.5464229197085,
+              "lng": 7.5917392197085
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–18:00 Uhr",
+            "Dienstag: 08:00–18:00 Uhr",
+            "Mittwoch: 08:00–18:00 Uhr",
+            "Donnerstag: 08:00–18:00 Uhr",
+            "Freitag: 08:00–18:00 Uhr",
+            "Samstag: Geschlossen",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "3defCY0npvOi7DO5H3l3Tc",
+        "googlePlaceId": "ChIJK9ieJXmZmkcRA30MFwDJjYY"
+      },
+      "placesData": {
+        "formatted_address": "Brunngasse 6, 8400 Winterthur, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.50521790000001,
+            "lng": 8.7253648
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.5065756802915,
+              "lng": 8.726667930291502
+            },
+            "southwest": {
+              "lat": 47.5038777197085,
+              "lng": 8.723969969708497
+            }
+          }
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "3Q0HWnPKt8zyt26Z6V9jXe",
+        "googlePlaceId": "ChIJE9cxb6CkmkcRH3ybj-adIbE"
+      },
+      "placesData": {
+        "formatted_address": "Brandstrasse 31, 8610 Uster, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.3529333,
+            "lng": 8.7091216
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.35440553029149,
+              "lng": 8.710484180291502
+            },
+            "southwest": {
+              "lat": 47.3517075697085,
+              "lng": 8.707786219708497
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1300"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–19:00 Uhr",
+            "Mittwoch: 08:00–13:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–17:00 Uhr",
+            "Samstag: Geschlossen",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "2bZAYCKQTUpCkF7ykgi4JV",
+        "googlePlaceId": "ChIJ2RDiJW6-mkcRRKSDQ0onkc4"
+      },
+      "placesData": {
+        "formatted_address": "Sunnehofstrasse 7, 8493 Saland, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.3953269,
+            "lng": 8.8546812
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.3970255302915,
+              "lng": 8.855727130291502
+            },
+            "southwest": {
+              "lat": 47.3943275697085,
+              "lng": 8.853029169708497
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "7c5FO7Hp1oiw1IiZKl0RiU",
+        "googlePlaceId": "ChIJkTyE5WG8mkcR9FjBoEAKIEE"
+      },
+      "placesData": {
+        "formatted_address": "Pilatusstrasse 10, 8330 Pfäffikon, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.36441550000001,
+            "lng": 8.7840388
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.3658116302915,
+              "lng": 8.785424980291502
+            },
+            "southwest": {
+              "lat": 47.3631136697085,
+              "lng": 8.782727019708497
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "4t7I1z595epVdHb8EjvKDf",
+        "googlePlaceId": "ChIJGyWX2Q2WmkcRx1gLsoFhMz8"
+      },
+      "placesData": {
+        "formatted_address": "Bahnhofstrasse 6, 8488 Turbenthal, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.4375765,
+            "lng": 8.8452629
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.4389729302915,
+              "lng": 8.846579380291502
+            },
+            "southwest": {
+              "lat": 47.43627496970851,
+              "lng": 8.843881419708497
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900"
+              },
+              "open": {
+                "day": 3,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0730"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 07:30–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 07:30–12:00 Uhr, 14:00–18:00 Uhr",
+            "Mittwoch: 07:30–12:00 Uhr, 14:00–19:00 Uhr",
+            "Donnerstag: 07:30–12:00 Uhr, 14:00–17:00 Uhr",
+            "Freitag: 07:30–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: 07:30–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "7GOsaDTXhmzdZLjFGebb1v",
+        "googlePlaceId": "ChIJv5D40wE3jkcRFKWuw1rHTtE"
+      },
+      "placesData": {
+        "formatted_address": "Tannackerstrasse 2, 3073 Muri bei Bern, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 46.9318451,
+            "lng": 7.5081066
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 46.9331985302915,
+              "lng": 7.509278180291501
+            },
+            "southwest": {
+              "lat": 46.9305005697085,
+              "lng": 7.506580219708496
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: Geschlossen",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "7n6tdNVCGVR9dDmvYFjdTj",
+        "googlePlaceId": "ChIJGY-uTiltkEcR5qPVT9EHlVU"
+      },
+      "placesData": {
+        "formatted_address": "Dorfstrasse 32, 5430 Wettingen, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.46679539999999,
+            "lng": 8.332988699999998
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.4682241802915,
+              "lng": 8.334401180291502
+            },
+            "southwest": {
+              "lat": 47.4655262197085,
+              "lng": 8.331703219708498
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": false,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0715"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0715"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0715"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0715"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0715"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 07:15–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 07:15–12:00 Uhr, 14:00–19:00 Uhr",
+            "Mittwoch: 07:00–12:00 Uhr, 13:30–18:00 Uhr",
+            "Donnerstag: 07:15–12:00 Uhr",
+            "Freitag: 07:15–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: 07:15–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "7u5FTRMKvL6iTEiXm4RXk5",
+        "googlePlaceId": "ChIJERk9VbMNkEcRPy81sQi1wic"
+      },
+      "placesData": {
+        "formatted_address": "Wiesenstrasse 19, 8952 Schlieren, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.3994987,
+            "lng": 8.4417651
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.4008840802915,
+              "lng": 8.443111880291502
+            },
+            "southwest": {
+              "lat": 47.39818611970851,
+              "lng": 8.440413919708497
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1930"
+              },
+              "open": {
+                "day": 2,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1930"
+              },
+              "open": {
+                "day": 4,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1330"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Dienstag: 07:30–12:00 Uhr, 13:30–19:30 Uhr",
+            "Mittwoch: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Donnerstag: 07:30–12:00 Uhr, 13:30–19:30 Uhr",
+            "Freitag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Samstag: Geschlossen",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "5DSFgWthXuhSIXRXHp6Qsb",
+        "googlePlaceId": "ChIJ9UNysAigmkcR5QgQSw4lpiY"
+      },
+      "placesData": {
+        "formatted_address": "Schaffhauserstrasse 110, 8152 Opfikon, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.4332471,
+            "lng": 8.5660219
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.43461343029151,
+              "lng": 8.567472430291502
+            },
+            "southwest": {
+              "lat": 47.43191546970851,
+              "lng": 8.564774469708498
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1900"
+              },
+              "open": {
+                "day": 1,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700"
+              },
+              "open": {
+                "day": 2,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900"
+              },
+              "open": {
+                "day": 4,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700"
+              },
+              "open": {
+                "day": 5,
+                "time": "1330"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 13:30–19:00 Uhr",
+            "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr",
+            "Donnerstag: 07:30–12:00 Uhr, 13:30–19:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+            "Samstag: Geschlossen",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "7Eu3GuJAtwUa25KYuElH2k",
+        "googlePlaceId": "ChIJF5STJ2cLkEcRDRye_BfHcDc"
+      },
+      "placesData": {
+        "formatted_address": "Hönggerstrasse 86, 8105 Regensdorf, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.4288216,
+            "lng": 8.468693199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.4300279302915,
+              "lng": 8.469885830291503
+            },
+            "southwest": {
+              "lat": 47.4273299697085,
+              "lng": 8.467187869708498
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": false,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1230"
+              },
+              "open": {
+                "day": 1,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1630"
+              },
+              "open": {
+                "day": 1,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1230"
+              },
+              "open": {
+                "day": 2,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1630"
+              },
+              "open": {
+                "day": 2,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1230"
+              },
+              "open": {
+                "day": 3,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1630"
+              },
+              "open": {
+                "day": 3,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1230"
+              },
+              "open": {
+                "day": 5,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1630"
+              },
+              "open": {
+                "day": 5,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0700"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 07:00–12:30 Uhr, 13:30–16:30 Uhr",
+            "Dienstag: 07:00–12:30 Uhr, 13:30–16:30 Uhr",
+            "Mittwoch: 07:00–12:30 Uhr, 13:30–16:30 Uhr",
+            "Donnerstag: 07:00–12:00 Uhr",
+            "Freitag: 07:00–12:30 Uhr, 13:30–16:30 Uhr",
+            "Samstag: 07:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "7Eo1DuNTk9lgScAOi7Nxrz",
+        "googlePlaceId": "ChIJzZH-veOjmkcR7GUzmVWaezY"
+      },
+      "placesData": {
+        "formatted_address": "Bruggacherstrasse 24, 8117 Fällanden, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.3756289,
+            "lng": 8.631055100000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.37709753029149,
+              "lng": 8.632343530291504
+            },
+            "southwest": {
+              "lat": 47.37439956970849,
+              "lng": 8.629645569708499
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1900"
+              },
+              "open": {
+                "day": 1,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700"
+              },
+              "open": {
+                "day": 2,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900"
+              },
+              "open": {
+                "day": 3,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700"
+              },
+              "open": {
+                "day": 4,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700"
+              },
+              "open": {
+                "day": 5,
+                "time": "1330"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 07:30–12:00 Uhr, 13:30–19:00 Uhr",
+            "Dienstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+            "Mittwoch: 07:30–12:00 Uhr, 13:30–19:00 Uhr",
+            "Donnerstag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+            "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+            "Samstag: Geschlossen",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "3YkZKmS25lyQSj5GD1TID3",
+        "googlePlaceId": "ChIJhf6QYJBHg0cRIe8DYQz8JV8"
+      },
+      "placesData": {
+        "formatted_address": "Buorna, 7550 Scuol, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 46.792469,
+            "lng": 10.2848711
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 46.79386883029149,
+              "lng": 10.2861717802915
+            },
+            "southwest": {
+              "lat": 46.79117086970849,
+              "lng": 10.2834738197085
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0830"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: 08:30–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "5HNX91LwJhZlEhSL4UJCDf",
+        "googlePlaceId": "ChIJg3c2oE7SkUcRy_Yz-zeQUww"
+      },
+      "placesData": {
+        "formatted_address": "Hauptstrasse 40, 4702 Oensingen, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.2900228,
+            "lng": 7.719583999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.2914693302915,
+              "lng": 7.721055180291502
+            },
+            "southwest": {
+              "lat": 47.2887713697085,
+              "lng": 7.718357219708499
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1700"
+              },
+              "open": {
+                "day": 1,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700"
+              },
+              "open": {
+                "day": 2,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700"
+              },
+              "open": {
+                "day": 3,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700"
+              },
+              "open": {
+                "day": 4,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700"
+              },
+              "open": {
+                "day": 5,
+                "time": "1300"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 13:00–17:00 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "41XW0EAjHzijwWNyFu3WJJ",
+        "googlePlaceId": "ChIJpSNsIru5kUcRx-XRYVJBeU4"
+      },
+      "placesData": {
+        "formatted_address": "Bottmingerstrasse 65, 4142 Münchenstein, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.524358,
+            "lng": 7.6044746
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.5257756802915,
+              "lng": 7.605950630291502
+            },
+            "southwest": {
+              "lat": 47.5230777197085,
+              "lng": 7.603252669708497
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "open": {
+                "day": 0,
+                "time": "0000"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 24 Stunden geöffnet",
+            "Dienstag: 24 Stunden geöffnet",
+            "Mittwoch: 24 Stunden geöffnet",
+            "Donnerstag: 24 Stunden geöffnet",
+            "Freitag: 24 Stunden geöffnet",
+            "Samstag: 24 Stunden geöffnet",
+            "Sonntag: 24 Stunden geöffnet"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "3HyjRJDyQ6m4O7U2DeVKy1",
+        "googlePlaceId": "ChIJi2rFwxh9g0cRKh_m8hTN8SA"
+      },
+      "placesData": {
+        "formatted_address": "Via Maistra 64a, 7505 Celerina/Schlarigna, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 46.51040690000001,
+            "lng": 9.856453099999998
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 46.5117352302915,
+              "lng": 9.8578456802915
+            },
+            "southwest": {
+              "lat": 46.5090372697085,
+              "lng": 9.855147719708496
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0830"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: 08:30–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "4hx3Hypy3bjjBijgMm4mnN",
+        "googlePlaceId": "ChIJvwTRBxe4kUcRfEUl0F_UF4Y"
+      },
+      "placesData": {
+        "formatted_address": "Bottmingerstrasse 65, 4142 Münchenstein, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.5242824,
+            "lng": 7.6044364
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.5257233302915,
+              "lng": 7.605950680291502
+            },
+            "southwest": {
+              "lat": 47.5230253697085,
+              "lng": 7.603252719708498
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1700"
+              },
+              "open": {
+                "day": 1,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700"
+              },
+              "open": {
+                "day": 2,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700"
+              },
+              "open": {
+                "day": 4,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700"
+              },
+              "open": {
+                "day": 5,
+                "time": "1330"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 13:30–17:00 Uhr",
+            "Samstag: Geschlossen",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "7jnonEqfEcPkXaqBuUMeNw",
+        "googlePlaceId": "ChIJlxwBXNMxkEcRVFq9hfD4rYc"
+      },
+      "placesData": {
+        "formatted_address": "Baslerstrasse 70, 4632 Trimbach, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.360955,
+            "lng": 7.900195
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.36229523029149,
+              "lng": 7.901451030291501
+            },
+            "southwest": {
+              "lat": 47.35959726970849,
+              "lng": 7.898753069708496
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: Geschlossen",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "7abckzRbNYPzdwzKsQqQdw",
+        "googlePlaceId": "ChIJHY_A-m7_j0cRHUpOOIwa8Yo"
+      },
+      "placesData": {
+        "formatted_address": "Bodenstrasse 20, 6403 Küssnacht, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.0859919,
+            "lng": 8.4405168
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.0872921802915,
+              "lng": 8.441861030291502
+            },
+            "southwest": {
+              "lat": 47.0845942197085,
+              "lng": 8.439163069708497
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700"
+              },
+              "open": {
+                "day": 5,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Dienstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Mittwoch: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Donnerstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "4fsNKh0ZmddXk6RuNsxmY1",
+        "googlePlaceId": "ChIJl73iGN85jkcRglxpEcws0SY"
+      },
+      "placesData": {
+        "formatted_address": "Bantigerstrasse 37, 3006 Bern, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 46.948109,
+            "lng": 7.463146100000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 46.9494187802915,
+              "lng": 7.464555680291504
+            },
+            "southwest": {
+              "lat": 46.9467208197085,
+              "lng": 7.461857719708499
+            }
+          }
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "Yxzj4kAsK8qBNGHr0ZbNH",
+        "googlePlaceId": "ChIJg9LTCjq2kUcRlNmsxEGdNoc"
+      },
+      "placesData": {
+        "formatted_address": "Hauptstrasse 19, 4133 Pratteln, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.5175706,
+            "lng": 7.694674900000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.5188887802915,
+              "lng": 7.695942230291504
+            },
+            "southwest": {
+              "lat": 47.5161908197085,
+              "lng": 7.693244269708499
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1100"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Dienstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Mittwoch: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Donnerstag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Freitag: 08:00–12:00 Uhr, 14:00–18:00 Uhr",
+            "Samstag: 08:00–11:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "3zX5BYsFhO6SHTMBRVRUil",
+        "googlePlaceId": "ChIJyRD02A7rmkcRi6WgFZuQYfc"
+      },
+      "placesData": {
+        "formatted_address": "Grünring 1, 9524 Zuzwil, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.47064020000001,
+            "lng": 9.107066
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.4719321802915,
+              "lng": 9.108390830291503
+            },
+            "southwest": {
+              "lat": 47.4692342197085,
+              "lng": 9.105692869708498
+            }
+          }
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "5qduAJ7vK92boSFyCHbAEH",
+        "googlePlaceId": "ChIJHY_A-m7_j0cRHUpOOIwa8Yo"
+      },
+      "placesData": {
+        "formatted_address": "Bodenstrasse 20, 6403 Küssnacht, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 47.0859919,
+            "lng": 8.4405168
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.0872921802915,
+              "lng": 8.441861030291502
+            },
+            "southwest": {
+              "lat": 47.0845942197085,
+              "lng": 8.439163069708497
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200"
+              },
+              "open": {
+                "day": 1,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800"
+              },
+              "open": {
+                "day": 1,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200"
+              },
+              "open": {
+                "day": 2,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800"
+              },
+              "open": {
+                "day": 2,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200"
+              },
+              "open": {
+                "day": 3,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800"
+              },
+              "open": {
+                "day": 3,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200"
+              },
+              "open": {
+                "day": 4,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800"
+              },
+              "open": {
+                "day": 4,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200"
+              },
+              "open": {
+                "day": 5,
+                "time": "0730"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700"
+              },
+              "open": {
+                "day": 5,
+                "time": "1330"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Dienstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Mittwoch: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Donnerstag: 07:30–12:00 Uhr, 13:30–18:00 Uhr",
+            "Freitag: 07:30–12:00 Uhr, 13:30–17:00 Uhr",
+            "Samstag: 08:00–12:00 Uhr",
+            "Sonntag: Geschlossen"
+          ]
+        }
+      }
+    },
+    {
+      "location": {
+        "id": "5xgHCx32bu1elvU9fOe7Ew",
+        "googlePlaceId": "ChIJn9GuzVU3g0cRZAPoW82_WZ0"
+      },
+      "placesData": {
+        "formatted_address": "Plan da Muglin 90A, 7556 Ramosch, Schweiz",
+        "geometry": {
+          "location": {
+            "lat": 46.82860400000001,
+            "lng": 10.38027
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 46.8301467302915,
+              "lng": 10.3811631802915
+            },
+            "southwest": {
+              "lat": 46.8274487697085,
+              "lng": 10.3784652197085
+            }
+          }
+        },
+        "opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1130"
+              },
+              "open": {
+                "day": 0,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 0,
+                "time": "1830"
+              },
+              "open": {
+                "day": 0,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1130"
+              },
+              "open": {
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1830"
+              },
+              "open": {
+                "day": 1,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1130"
+              },
+              "open": {
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1830"
+              },
+              "open": {
+                "day": 2,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1130"
+              },
+              "open": {
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1830"
+              },
+              "open": {
+                "day": 3,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1130"
+              },
+              "open": {
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1830"
+              },
+              "open": {
+                "day": 4,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1130"
+              },
+              "open": {
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1830"
+              },
+              "open": {
+                "day": 5,
+                "time": "1400"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1130"
+              },
+              "open": {
+                "day": 6,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1830"
+              },
+              "open": {
+                "day": 6,
+                "time": "1400"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Montag: 08:00–11:30 Uhr, 14:00–18:30 Uhr",
+            "Dienstag: 08:00–11:30 Uhr, 14:00–18:30 Uhr",
+            "Mittwoch: 08:00–11:30 Uhr, 14:00–18:30 Uhr",
+            "Donnerstag: 08:00–11:30 Uhr, 14:00–18:30 Uhr",
+            "Freitag: 08:00–11:30 Uhr, 14:00–18:30 Uhr",
+            "Samstag: 08:00–11:30 Uhr, 14:00–18:30 Uhr",
+            "Sonntag: 08:00–11:30 Uhr, 14:00–18:30 Uhr"
+          ]
+        }
+      }
+    }
+  ],
+  "message": "Success",
+  "error": ""
+}

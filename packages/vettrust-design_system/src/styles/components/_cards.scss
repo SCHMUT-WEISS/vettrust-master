@@ -1,0 +1,10 @@
+.clipped-card {
+  @apply bg-white rounded-[12px] h-[352px] lg:h-[252px] flex flex-col justify-center overflow-hidden;
+  box-shadow: 0 2px 8px rgba(208, 145, 29, 0.02), 0 12px 32px rgba(208, 145, 29, 0.12);
+}
+
+//@media (max-width: 375px) {
+//  .career-personal-development {
+//      @apply mb-[500px]
+//  }
+//}

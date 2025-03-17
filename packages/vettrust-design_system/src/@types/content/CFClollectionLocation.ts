@@ -1,0 +1,52 @@
+import { Asset, Entry } from "contentful";
+import { Document } from "@contentful/rich-text-types";
+import { CFCollectionLocationType } from "./CFCollectionLocationType";
+import { CfCollectionEmployee } from "./CFCollectionEmployee";
+import { CFCollectionLocationGroup } from "./CFCollectionLocationGroup";
+import { CfCollectionServiceAnimalRelations } from "./CFCollectionServiceAnimalRelations";
+import { CFCollectionDepartment } from "./CFCollectionDepartment";
+import { CFCollectionCanton } from "./CfCollectionCanton";
+import { CFCollectionFAQs } from "./CFCollectionFAQs";
+import { CfCollectionRegionalPartnerType } from "./CfCollectionPartner";
+
+export interface LocationFields {
+  name: string;
+  slug: string;
+  googlePlaceId: string;
+  phone: string;
+  email?: string;
+  referalsEmail: string;
+  heroImages: Asset[];
+  isRadiusOfBasel: boolean;
+  isCatFriendly: boolean;
+  welcomeMessage: Document;
+  welcomeMessageHeading: string;
+  vestoriaId: string;
+  departments?: CFCollectionDepartment[];
+  type: CFCollectionLocationType;
+  titleTag: string;
+  metaDescription: string;
+  testimonialsId: string;
+  leadVet: CfCollectionEmployee;
+  vetAssistant: CfCollectionEmployee;
+  vetStaff: Array<CfCollectionEmployee>;
+  locationGroup: CFCollectionLocationGroup;
+  servicesProvided: CfCollectionServiceAnimalRelations[];
+  employees: CfCollectionEmployee[];
+  canton: CFCollectionCanton;
+  address: { lat: number; lon: number };
+  hasExternalWebsite?: boolean;
+  externalWebsiteUrl?: string;
+  prefixVetTrust: boolean;
+  displayedFaQs: CFCollectionFAQs[];
+  blacklistedFaQs: CFCollectionFAQs[];
+  partners?: CfCollectionRegionalPartnerType[];
+  bookingUrl?: string;
+  displayTheServicesSection?: boolean;
+  emergencyPhoneNumber?: string;
+  emergencyPhoneNumberPrice?: string;
+  languages: string[];
+  offersReferals: boolean;
+}
+
+export type CFCollectionLocation = Entry<LocationFields>;

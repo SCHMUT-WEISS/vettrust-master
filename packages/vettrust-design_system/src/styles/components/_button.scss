@@ -1,0 +1,164 @@
+$primary-button-shadow: 0px 2px 8px rgba(29, 47, 88, 0.02), 0px 12px 32px rgba(29, 47, 88, 0.12);
+$secondary-button-shadow: 0px 2px 8px rgba(208, 145, 29, 0.02), 0px 12px 32px rgba(208, 145, 29, 0.12);
+$tertiary-button-shadow: unset;
+
+.button-hiperlink {
+  @apply no-underline;
+}
+
+.button-primary {
+  font-family: NotoSans !important;
+  @apply bg-darkBlue text-white hover:bg-darkBlue-hover active:outline-none active:outline-offset-0;
+
+  &__lg {
+    @apply h-[48px] py-[10px] px-[20px];
+    @include button-base($primary-button-shadow);
+  }
+
+  &__sm {
+    @apply h-[32px] py-[0px] px-[12px];
+    @include button-base($primary-button-shadow);
+  }
+
+  &__disabled {
+    @apply bg-darkBlue-disabled cursor-no-drop hover:bg-darkBlue-disabled;
+    &:active {
+      @apply bg-darkBlue-disabled cursor-no-drop hover:bg-darkBlue-disabled #{!important};
+      outline: none !important;
+    }
+  }
+
+  &__loading {
+    @apply bg-darkBlue cursor-no-drop hover:bg-darkBlue;
+  }
+
+  &:active {
+    @apply bg-darkBlue-pressed #{!important};
+    outline: none !important;
+  }
+}
+
+.button-secondary {
+  font-family: NotoSans !important;
+  @apply bg-white text-darkBlue hover:text-magenta;
+
+
+  &__lg {
+    @apply h-[48px] py-[10px] px-[20px];
+    @include button-base($primary-button-shadow);
+  }
+
+  &__sm {
+    @apply h-[32px] py-[0px] px-[12px];
+    @include button-base($primary-button-shadow);
+  }
+
+  &__disabled {
+    @apply bg-white/5 cursor-no-drop text-darkBlue-disabled hover:text-darkBlue-disabled;
+
+    &:active {
+      @apply bg-white/5 cursor-no-drop text-darkBlue-disabled hover:text-darkBlue-disabled #{!important};
+      outline: none !important;
+    }
+  }
+
+  &__loading {
+    @apply bg-white cursor-no-drop hover:bg-white text-darkBlue hover:text-darkBlue;
+
+    &:active {
+      @apply bg-white #{!important};
+      outline: none !important;
+    }
+  }
+
+  &:active {
+    @apply text-magenta-pressed #{!important};
+    outline: none !important;
+  }
+}
+
+.button-tertiary {
+  font-family: NotoSans !important;
+  @apply text-darkBlue hover:text-magenta border-[1px] border-sand-pressed hover:border-magenta ;
+
+
+  &__lg {
+    @apply h-[48px] py-[10px] px-[20px];
+    @include button-base($tertiary-button-shadow);
+  }
+
+  &__sm {
+    @apply h-[32px] py-[0px] px-[12px];
+    @include button-base($tertiary-button-shadow);
+  }
+
+  &__disabled {
+    @apply text-darkBlue-disabled cursor-no-drop hover:text-darkBlue-disabled hover:border-sand-pressed;
+    &:active {
+      @apply text-darkBlue-disabled cursor-no-drop hover:text-darkBlue-disabled hover:border-sand-pressed #{!important};
+      outline: none !important;
+    }
+  }
+
+  &__loading {
+    @apply text-darkBlue cursor-no-drop hover:text-darkBlue hover:border-sand-pressed;
+
+    &:active {
+      @apply text-darkBlue #{!important};
+      outline: none !important;
+    }
+  }
+
+  &:active {
+    @apply border-magenta-pressed text-magenta-pressed #{!important};
+    outline: none !important;
+  }
+}
+
+.button-magenta {
+  font-family: NotoSans !important;
+  @apply bg-magenta text-white hover:bg-magenta-hover;
+
+  &__pressed {
+    @apply bg-magenta-pressed #{!important};
+    outline: none !important;
+  }
+
+  &__lg {
+    @apply h-[48px] py-[10px] px-[20px];
+    @include button-base($primary-button-shadow);
+  }
+
+  &__sm {
+    @apply h-[32px] py-[0px] px-[12px];
+    @include button-base($primary-button-shadow);
+  }
+
+  &__disabled {
+    @apply bg-magenta/50 cursor-no-drop hover:bg-magenta/50;
+    &:active {
+      @apply bg-magenta/50 cursor-no-drop hover:bg-magenta/50 #{!important};
+      outline: none !important;
+    }
+  }
+
+  &:active {
+    @apply bg-magenta cursor-no-drop hover:bg-magenta;
+  }
+}
+
+.bouncing-button {
+  animation: bounceY 1.5s infinite;
+  animation-direction: alternate;
+}
+
+/* TODO: @nkpremices use if given feedback on focus for mobile*/
+
+//@media (max-width: 768px) {
+//  .button-primary {
+//    &:focus {
+//      outline: none;
+//      outline-offset: unset;
+//    }
+//  }
+//}

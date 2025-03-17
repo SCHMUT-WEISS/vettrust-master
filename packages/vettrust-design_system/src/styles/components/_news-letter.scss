@@ -1,0 +1,65 @@
+.news-letter {
+  input {
+    @apply outline-none flex-auto rounded-[12px] pl-[16px] placeholder:font-[400] h-[48px];
+  }
+
+  [name="EMAIL"] {
+    @apply mt-[16px];
+  }
+
+  button {
+    @apply absolute bg-darkBlue hover:bg-darkBlue-hover text-white px-[20px] active:bg-darkBlue-pressed h-[48px] inline-flex items-center justify-center bottom-0;
+    @include button-base($primary-button-shadow);
+  }
+
+  &__home {
+    input {
+      @apply border border-sand-pressed;
+    }
+
+    &-bg-image-desktop {
+      background-image: url(../../assets/img/newsletter-home-desktop.png);
+      object-fit: cover;
+      background-size: cover;
+    }
+
+    &-bg-image-mobile {
+      background-image: url(../../assets/img/newsletter-home-mobile.png);
+      object-fit: cover;
+      background-size: cover;
+    }
+  }
+
+  &__news {
+    &-bg-image-desktop {
+      background-image: url(../../assets/img/newsletter-news-desktop.png);
+      object-fit: cover;
+      background-size: cover;
+    }
+
+    &-bg-image-mobile {
+      background-image: url(../../assets/img/newsletter-news-mobile.png);
+      object-fit: cover;
+      background-size: cover;
+    }
+  }
+}
+@media (min-width: 551px) {
+  .news-letter {
+    &__news {
+      &-bg-image-mobile {
+        padding-top: 83px !important;
+      }
+    }
+  }
+}
+
+@media (max-width: 550px) {
+  .news-letter {
+    &__news {
+      &-bg-image-mobile {
+        padding-top: 53px !important;
+      }
+    }
+  }
+}

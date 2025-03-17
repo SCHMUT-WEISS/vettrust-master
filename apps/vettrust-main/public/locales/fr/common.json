@@ -1,0 +1,137 @@
+{
+   "404":{
+      "TITLE":"Désolé, nous n'avons pas trouvé cette page.",
+      "BUTTON":"Vers la page d'accueil de VetTrust",
+      "DESCRIPTION":"Veuillez vérifier dans la barre d'adresse de votre navigateur si vous avez saisi la bonne adresse de site web."
+   },
+   "500":{
+      "TITLE":"Désolé, nous avons actuellement des problèmes techniques",
+      "DESCRIPTION":"Veuillez réessayer de consulter la page dans quelques minutes."
+   },
+   "ERRORS":{
+      "SHORT_FIELD":"{{field}} est trop court",
+      "INVALID_FIELD":"Veuillez indiquer un {{field}} valide",
+      "REQUIRED_FIELD":"{{field}} est nécessaire",
+      "PATTERN_NO_MATCH":"Veuillez saisir {{field}} au format \"{{format}}\".",
+      "SOMETHING_WENT_WRONG":"Quelque chose s'est mal passé. Veuillez réessayer plus tard."
+   },
+   "FOOTER":{
+      "EMAIL":"Courrier électronique",
+      "IMPRINT":"Mentions légales",
+      "PRIVACY":"Protection des données",
+       "CONTACT":"Contact",
+       "VETTRUST":{
+         "ADMINISTRATION_MANAGEMENT": "Administration & direction",
+         "CITY":"Bodenhof 2",
+         "EMAIL":"info@vettrust.ch",
+         "TITLE":"VetTrust AG",
+         "ADDRESS":"6403 Küssnacht am Rigi",
+         "COUNTRY":"Suisse",
+         "YOUTUBE":"https://www.youtube.com/channel/UC0SFYWw0h0YbUOO7llGMS7Q",
+         "FACEBOOK":"https://www.facebook.com/vettrust.tierarztgruppe",
+         "INSTAGRAM":"https://www.instagram.com/vettrust.ch/",
+         "EMAIL_LABEL":"Email :",
+         "TELEPHONE_LABEL":"Téléphone :",
+         "TELEPHONE_NUMBER":"+41 41 852 04 88"
+      },
+      "PET_OWNERS":{
+         "BLOG":"Blog sur la connaissance des animaux",
+         "NEWS":"Actualités",
+         "TITLE":"Pour les propriétaires d'animaux",
+         "ABOUT_US":"À propos de nous",
+         "LOCATIONS":"Tous les sites"
+      },
+      "VETERINARIANS":{
+         "TITLE":"Pour les vétérinaires & TPA",
+         "CAREER":"Carrière",
+         "CONTACT":"Contact",
+         "VETTRUST_PARTNER":"Devenir partenaire VetTrust"
+      }
+   },
+   "HEADER":{
+      "MENU":"Menu",
+      "STORE":"Boutique",
+      "EMERGENCY":"Urgence",
+        "REFERRAL": "Referral",
+        "VIDEO_CALL":"Consultation vidéo",
+      "LOCATION_SEARCH":"Chercher un site"
+   },
+   "OTHERS":{
+      "VIEW_PDF":"Lire l'article",
+      "META_TITLE":"VetTrust : votre vétérinaire sur plus de 30 sites en Suisse",
+      "PLEASE_SELECT":"Veuillez sélectionner",
+      "META_DESCRIPTION":"Quels que soient les besoins de votre animal de compagnie, un cabinet ou un centre hospitalier vétérinaire de VetTrust est à portée de main. Avec plus de 30 sites dans toute la Suisse et une médecine vétérinaire complète, notre groupe de vétérinaires est le meilleur choix pour garder des animaux de compagnie en bonne santé. Toute une vie."
+   },
+   "SEARCH":{
+      "TITLE":"Trouver maintenant un de nos sites près de chez vous",
+      "BUTTON":"Trouver un site",
+      "FILTER":{
+         "TITLE":"Filtrer",
+         "PLACEHOLDER":"Votre animal a besoin de quoi ?"
+      },
+      "LOCATION":{
+         "TITLE":"Votre lieu",
+         "PLACEHOLDER":"Où vous trouvez-vous ?"
+      },
+      "MOBILE_TITLE":"Trouver un site maintenant"
+   },
+   "COOKIEBOT":{
+      "TITLE":"Ce site utilise des cookies",
+      "DESCRIPTION":"Nous utilisons des cookies pour personnaliser le contenu et les annonces, pour proposer des fonctionnalités de médias sociaux et pour analyser les passages sur notre site web. Nous partageons également des informations sur votre utilisation de notre site avec nos partenaires de médias sociaux, de publicité et d'analyse. Nos partenaires peuvent combiner ces informations avec d'autres données que vous leur avez fournies ou qu'ils ont collectées dans le cadre de votre utilisation des services.",
+      "CONSENT_BUTTON":"Accepter",
+      "REFUSE_CONSENT_BUTTON":"Refuser"
+   },
+   "NAVIGATION":{
+      "SEARCH":"Trouver un site",
+      "EMERGENCY":"Urgence",
+      "MENU_LIST":{
+         "ACADEMY_TITTLE":"Académie",
+         "ACADEMY_DESCRIPTION": "En savoir plus sur l'Académie VetTrust",
+         "TITLE":"Découvrir VetTrust",
+         "HOME_TITTLE":"Page d'accueil",
+         "NEWS_TITTLE":"Actualités",
+         "ABOUT_TITTLE":"À propos de nous",
+         "ANIMAL_TITTLE":"Connaissance des animaux",
+         "CAREER_TITTLE":"Carrière",
+         "SMART_PAWS_TITTLE":"Assurance pour Animaux",
+         "IMPRINT_TITTLE":"Mentions légales",
+         "HOME_DESCRIPTION":"Vous trouverez ici un aperçu général de VetTrust.",
+         "LOCATIONS_TITTLE":"Tous les sites",
+         "NEWS_DESCRIPTION":"Toute l'actualité et les histoires quotidiennes de VetTrust.",
+         "ABOUT_DESCRIPTION":"Découvrez ce qui caractérise VetTrust et ce qui est important pour nous.",
+         "BECOME_VET_TITTLE":"Faire partie de VetTrust",
+         "ANIMAL_DESCRIPTION":"Lisez ici les informations utiles de nos experts sur les animaux.",
+         "CAREER_DESCRIPTION":"Vous souhaitez faire partie de VetTrust ? Cliquez ici pour en savoir plus !",
+         "SMART_PAWS_DESCRIPTION":"L'assurance animaux Smart Paws VetTrust. La couverture d'assurance unique, développée par des spécialistes, pour les chiens et les chats.",
+         "IMPRINT_DESCRIPTION":"Mentions légales",
+         "LOCATIONS_DESCRIPTION":"Trouvez tous les sites de VetTrust dans toute la Suisse.",
+         "SEARCH_RESULTS_TITTLE":"Résultats de la recherche",
+         "BECOME_VET_DESCRIPTION":"Faire partie de VetTrust",
+         "DATA_PROTECTION_TITTLE":"Déclaration de confidentialité",
+         "GLOBAL_PARTNERS_TITTLE":"Partenaire",
+         "SEARCH_RESULTS_DESCRIPTION":"Tous les résultats de recherche",
+         "DATA_PROTECTION_DESCRIPTION":"Déclaration de confidentialité",
+         "GLOBAL_PARTNERS_DESCRIPTION":"Tous nos partenariats en un coup d'œil"
+      },
+      "VIDEOCALL":{
+         "TITLE":"Prendre rendez-vous maintenant",
+         "DESCRIPTION":"Nous pouvons également vous aider rapidement et facilement par vidéoconférence pour de nombreuses questions."
+      },
+      "SEARCH_TIP":"Trouver un site",
+      "CLOSE_BUTTON":"Fermer le menu"
+   },
+   "SUCCESS_MODAL":{
+      "TITLE":"Merci beaucoup ! Nous avons bien reçu votre message",
+      "BUTTON":"Fermer",
+      "DESCRIPTION":"Nous vous recontacterons dans les plus brefs délais."
+   },
+   "EMERGENCY_MODAL":{
+      "TITLE":"Notre numéro d'urgence gratuit",
+      "TITLE_CHARGEABLE":"Notre numéro d'urgence",
+      "DESCRIPTION_1":"24 heures/24 et sept jours/sept, nous sommes joignables dans toute la Suisse germanique pour vous et votre compagnon à quatre pattes préféré.",
+      "DESCRIPTION_2":"Vous avez une urgence vitale avec votre animal de compagnie ? Vous n'êtes pas sûr qu'il s'agisse d'une urgence ?",
+      "DESCRIPTION_3":"N'hésitez pas à nous appeler. Grâce à la reconnaissance du code postal, vous serez redirigé vers le site de service le plus proche de chez vous.",
+      "PHONE_NUMBER_HEADING":"Composez ce numéro en cas d'urgence:",
+      "PHONE_NUMBER_CHARGEABLE_HEADING": "Composez le numéro en cas d'urgence: <br>(payant FR {{price}}/minute)"
+   }
+}

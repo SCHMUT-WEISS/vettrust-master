@@ -1,0 +1,183 @@
+{
+  "RATINGS": { "TITLE": "Ratings" },
+  "SERVICES": {
+    "TABS": {
+      "LABEL_1": "Small pet medicine",
+      "LABEL_2": "Livestock medicine",
+      "LABEL_3": "Horse Medicine"
+    },
+    "TITLE": "Our Services",
+    "HERO_TITLE": "We are always near you, no matter where you are",
+    "DESCRIPTION": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "HERO_DESCRIPTION": "Whether you need for your darling, a specialized examination, a vaccination or simply a haircut. We have what you need.",
+    "SPACIAL_SERVICES_TITLE": "Special services",
+    "LOCATION_SEARCHBAR_TITLE": "Couldn't find what you were looking for?"
+  },
+  "TEAM_PAGE": {
+    "CONTACT_BUTTON": "Contact",
+    "TITLE": "Our Team",
+    "DESCRIPTION": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "CARD_BUTTON_LABEL": "Read more"
+  },
+  "HERO_SHELL": {
+    "BUTTON_1": "Emergency Service",
+    "BUTTON_2": "Appointment & Contact",
+    "BUTTON_3": "Services",
+    "BUTTON_4": "Referral",
+    "ALL_OPENING_HOURS": "All Times",
+    "ANNOUNCEMENT_BUTTON": "Okay"
+  },
+  "NAVIGATION": {
+    "MENU_LIST": {
+      "HOME_TITTLE": "Location Overview",
+      "PARTNER_TITTLE": "Partner",
+      "FOR_VETS_TITTLE": "For Vets",
+      "OUR_TEAM_TITTLE": "Our Team",
+      "SERVICES_TITTLE": "Services",
+      "DEPARTMENTS_TITTLE": "Our Departments",
+      "OUR_PARTNERS_TITTLE": "Our partners",
+      "ANIMAL_RESCUE_SERVICE_TITTLE": "Animal Rescue Service",
+      "APPOINTMENT_AND_CONTACT_TITTLE": "Appointment & Contact"
+    },
+    "YOUR_LOCATION": "Your location",
+    "SEARCH_LOCATION": "search location"
+  },
+  "SEARCH_PAGE": {
+    "TITLE": "Location Search",
+    "LOAD_MORE": "Load More",
+    "HORSE_MEDICINE": "Horse Medicine",
+    "ALL_CANTONS_LABEL": "All Cantons",
+    "LIVESTOCK_MEDICINE": "Livestock medicine",
+    "TELEMEDICIN_WIDGET": {
+      "DESCRIPTION": "Little time? Now get help via telemedicine without travel time",
+      "ACTION_BUTTON_1": "To telemedicine",
+      "ACTION_BUTTON_2": "No thank you"
+    },
+    "MODAL_YOUR_LOCATION": "Your Location",
+    "SMALL_PETS_MEDICINE": "Small pet medicine",
+    "SERVICES_FILTER_LABEL": "Filter by services",
+    "EMPTY_STATE_DESCRIPTION": "Sorry, we did not find any locations.",
+    "FILTER_BY_CATEGORY_LABEL": "Filter by category",
+    "MODAL_SELECT_PLACE_LABEL": "SelectLocation",
+    "MODAL_SELECT_CANTON_LABEL": "Or select a region",
+    "GENERAL_CONSULTATION_LABEL": "General consultation and Routine examinations",
+    "MOBILE_RESULTS_NUMBER_LABEL": "We have {{locationsToDisplayLength}} Locations Found:",
+    "STANDARD_SERVICES_SUB_TITLE": "For all questions, problems and standard examinations for your pet that are not an emergency:",
+    "MODAL_MAP_SEARCH_FIELD_LABEL": "Where are you located?",
+    "MAP_MOBILE_RESULTS_NUMBER_LABEL": "{{locationsToDisplayLength}} locations found",
+    "ENTER_KEY_PRESSED_WITH_NO_RESULTS": "Please type and then select a location from the list.",
+    "APPOINTMENT_REQUEST_AND_CONTACT_BUTTON": "Appointment request / Contact"
+  },
+  "ALL_LOCATIONS": {
+    "OUR_LOCATIONS": "Our Locations",
+    "LOCATIONS_COUNT_one": "{{count}} location",
+    "CANTON_DEFAULT_LABEL": "Select canton",
+    "LOCATIONS_COUNT_other": "{{count}} locations",
+    "MOBILE_MAP_BUTTON_TEXT": "Show on map",
+    "LOCATION_TYPE_DEFAULT_LABEL": "Select location type"
+  },
+  "ANIMAL_RESCUE": {
+    "HERO": {
+      "TITLE": "VetTrust Animal Rescue Service",
+      "DESCRIPTION": "Not only people have accidents, medical emergencies or get injured - it happens to pets too. If the dog is hit by a car or the cat is trapped in the window, our animal rescue service can be notified from now on.",
+      "BUTTON_LABEL": "To emergency call"
+    },
+    "QUESTIONS": {
+      "HEADING": "Questions for VetTrust Animal Rescue Service",
+      "TITLE_1": "What is the price list for animal rescue trips?",
+      "TITLE_2": "What is animal rescue NOT responsible for?",
+      "TITLE_3": "When are our reduced rates valid?",
+      "TITLE_4": "How is the animal rescue vehicle equipped?",
+      "DESCRIPTION_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "DESCRIPTION_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "DESCRIPTION_3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "DESCRIPTION_4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    "OPERATIONAL_AREA": {
+      "TITLE": "Operational area of the animal rescue service",
+      "DESCRIPTION": "The operational area is shown in the map. It was determined by calculations and test drives, so that the distances from our operation center (animal hospital Basel) are realistic and also reasonable. Only in this way can we guarantee optimal care.",
+      "BUTTON_LABEL": "To emergency call"
+    },
+    "SOLUTION_FOR_ANIMALS": {
+      "TITLE": "Solution for animals in emergency situations",
+      "DESCRIPTION": "Our veterinary professionals travel to the scene of the emergency by the fastest route possible, administer first aid and stabilize the patient. Subsequently, the pet is taken to the nearest clinic so that medical care can be taken over there without any gaps.",
+      "BUTTON_LABEL": "Telebasel Contribution"
+    },
+    "ANTON_FOUNDATION_CORPORATION": {
+      "TITLE": "Cooperation of the Anton Foundation with the Baseln Veterinary Clinic",
+      "DESCRIPTION": "Gigi Oeri has a big heart for animals. She has founded another foundation called \"Anton\" and, among other things, is entering into a cooperation with VetTrust Tierklinik Basel to implement an animal rescue service. Together with Basel veterinarian Gabrielle Brunner, Gigi Oeri thought about how an improvement for the welfare of animals could be achieved. There was a lack of a rescue service for small animals. The animal rescue service that has now been set up is unique in the whole of Switzerland. This initiative for small animals in the Basel region is only possible thanks to the generous donation of the Anton Foundation.",
+      "BUTTON_LABEL": "To the website"
+    }
+  },
+  "OPENING_HOURS": {
+    "24_7": "Open 24 hours",
+    "OPENED_UNTIL": "<span style=\"color: #358C0C\">Open</span> until {{closing_hour}}",
+    "OPENS_TODAY_AT": "Opens at {{opening_hour}}",
+    "OPENS_ON_A_DAY_AT": "Opens on {{day}} at {{opening_hour}}",
+    "OPENS_TOMORROW_AT": "Opens tomorrow at {{opening_hour}}"
+  },
+  "WELCOME_SECTION": { "BUTTON_LABEL": "Our team" },
+  "DEPARTMENTS_PAGE": {
+    "TITLE": "Our departments",
+    "DESCRIPTION": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "BUTTON_LABEL": "Learn more"
+  },
+  "INFO_TO_VISITORS": {
+    "HEADING": "Information for our visitors",
+    "SUMMARY": "We will always advise you of any special precautions in advance of an examination or therapy.",
+    "TITLE_1": "Transfer of funds process",
+    "TITLE_2": "Second opinions",
+    "TITLE_3": "Surgery and X-ray under sedation",
+    "TITLE_4": "Terms of Payment",
+    "TITLE_5": "Inpatient Stays",
+    "DESCRIPTION_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "DESCRIPTION_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "DESCRIPTION_3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "DESCRIPTION_4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "DESCRIPTION_5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  },
+  "SERVICES_SECTION": {
+    "TITLE": "Our standard services for your pet",
+    "DESCRIPTION": "We offer you modern veterinary medicine, which is accessible to ALL. We listen to you with honest interest, take your concerns seriously and discuss with you further diagnostic measures and adjust the therapy plan individually to your pet.",
+    "BUTTON_LABEL": "All Services",
+    "MODAL_BUTTON_LABEL": "Appointment & Contact",
+    "MODAL_TELEMEDICINE_BUTTON_LABEL": "Book an appointment"
+  },
+  "RELATED_LOCATIONS": {
+    "TITLE": "Also available at the same address:",
+    "CHECKOUT_BUTTON": "To Location"
+  },
+  "GLOBAL_PARTNERS_PAGE": {
+    "TITLE": "The VetTrust Main Partners",
+    "DESCRIPTION": "Whether you need for your darling, a specialized examination, <br /> a vaccination or simply a haircut. We have the right offer.",
+    "WEBSITE_BUTTON_LABEL": "To the website"
+  },
+  "HOME_CONTACT_SECTION": {
+    "TITLE": "Here is how you can reach us",
+    "CONTACT_BUTTON": "Contact Us",
+    "BOOK_NOW_BUTTON": "Book an appointment"
+  },
+  "REGIONAL_PARTNERS_PAGE": {
+    "TITLE": "Our partners",
+    "DESCRIPTION": "In order to be able to offer you all-round care for your pet, we rely on cooperation with carefully selected partners from the region."
+  },
+  "ALL_OPENING_HOURS_MODAL": { "TITLE": "Our Opening Hours" },
+  "HOME_DEPARTMENTS_SECTION": {
+    "TITLE": "Our Departments",
+    "DESCRIPTION": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "CARD_BUTTON_LABEL": "Read More"
+  },
+  "SERVICES_CAROUSEL_SECTION": {
+    "TITLE": "Our special services for your pet",
+    "DESCRIPTION": "Our practice offers a range of specialty services to provide the best possible care for your pet. ",
+    "BUTTON_LABEL": "Read More",
+    "SERVICE_CARD_BUTTON_LABEL": "Read more"
+  },
+  "HOME_PET_AMBULANCE_SECTION": {
+    "TITLE": "VetTrust Animal Rescue Service Basel",
+    "DESCRIPTION_1": "Available 24 hours a day / 7 days a week",
+    "DESCRIPTION_2": "If you need acute assistance on the spot, you can notify our animal rescue vehicle on our emergency number <strong>{{emergency_phone}}</strong>.",
+    "BUTTON_LABEL_1": "To emergency call",
+    "BUTTON_LABEL_2": "Learn More"
+  }
+}

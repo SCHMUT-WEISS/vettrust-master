@@ -1,0 +1,36 @@
+*,
+*::after,
+*::before {
+  font-family: "noto-sans", sans-serif;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background: $vtBG;
+}
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+button, select {
+  outline: none;
+
+  font-family: "noto-sans", sans-serif !important;
+}
+
+textarea {
+  resize: none;
+}

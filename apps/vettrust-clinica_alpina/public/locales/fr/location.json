@@ -1,0 +1,180 @@
+{
+  "RATINGS": { "TITLE": "Ce que disent nos clients" },
+  "SERVICES": {
+    "TABS": {
+      "LABEL_1": "Toutes les espèces animales",
+      "LABEL_2": "Gros animaux"
+    },
+    "TITLE": "Notre offre",
+    "HERO_TITLE": "Nous sommes toujours proches de vous, où que vous soyez",
+    "DESCRIPTION": "L'hôtel pour animaux de Ramosch permet à votre animal de compagnie de passer des vacances uniques, comme en rêvent tous les amis des animaux. Nous offrons la possibilité de combiner le séjour avec une rééducation professionnelle et/ou un toilettage pour chiens.",
+    "HERO_DESCRIPTION": "Que ce soit pour votre animal favori, un examen spécialisé, une vaccination ou simplement pour un toilettage. Nous avons ce qu'il vous faut.",
+    "SPACIAL_SERVICES_TITLE": "Services spéciaux",
+    "LOCATION_SEARCHBAR_TITLE": "Vous n'avez pas trouvé ce que vous cherchiez ?"
+  },
+  "TEAM_PAGE": {
+    "TITLE": "Notre équipe",
+    "DESCRIPTION": "Avec plus de 15 spécialistes, nous sommes à vos côtés avec une meilleure compétence !",
+    "CARD_BUTTON_LABEL": "Lire la suite"
+  },
+  "HERO_SHELL": {
+    "BUTTON_1": "Service d'urgence",
+    "BUTTON_2": "Rendez-vous & contact",
+    "BUTTON_3": "Prestations",
+    "BUTTON_4": "Referral",
+    "ALL_OPENING_HOURS": "Toutes les heures",
+    "ANNOUNCEMENT_BUTTON": "Tout est clair"
+  },
+  "NAVIGATION": {
+    "MENU_LIST": {
+      "HOME_TITTLE": "Aperçu des sites",
+      "PARTNER_TITTLE": "Partenaire",
+      "FOR_VETS_TITTLE": "Pour les vétérinaires",
+      "OUR_TEAM_TITTLE": "Notre équipe",
+      "SERVICES_TITTLE": "Prestations",
+      "DEPARTMENTS_TITTLE": "Nos départements",
+      "OUR_PARTNERS_TITTLE": "Nos partenaires",
+      "ANIMAL_RESCUE_SERVICE_TITTLE": "Service de sauvetage des animaux",
+      "APPOINTMENT_AND_CONTACT_TITTLE": "Rendez-vous & contact"
+    },
+    "YOUR_LOCATION": "Votre emplacement",
+    "SEARCH_LOCATION": "Rechercher un site"
+  },
+  "SEARCH_PAGE": {
+    "TITLE": "Recherche de sites",
+    "LOAD_MORE": "Télécharger davantage",
+    "HORSE_MEDICINE": "Médecine équine",
+    "ALL_CANTONS_LABEL": "Tous les cantons",
+    "LIVESTOCK_MEDICINE": "Médecine des animaux de rente",
+    "MODAL_YOUR_LOCATION": "Votre lieu",
+    "SMALL_PETS_MEDICINE": "Médecine des petits animaux",
+    "SERVICES_FILTER_LABEL": "Filtrer par prestations",
+    "EMPTY_STATE_DESCRIPTION": "Nous n'avons malheureusement pas trouvé de sites.",
+    "FILTER_BY_CATEGORY_LABEL": "Filtrer par catégorie",
+    "MODAL_SELECT_PLACE_LABEL": "Choisir un lieu",
+    "MODAL_SELECT_CANTON_LABEL": "Ou choisissez une région",
+    "GENERAL_CONSULTATION_LABEL": "Consultations générales & examens de routine",
+    "MOBILE_RESULTS_NUMBER_LABEL": "Nous avons trouvé {{locationsToDisplayLength}} sites :",
+    "STANDARD_SERVICES_SUB_TITLE": "Pour toutes questions, problèmes et examens standard pour votre animal de compagnie qui ne sont pas des urgences vitales :",
+    "MODAL_MAP_SEARCH_FIELD_LABEL": "Où vous trouvez-vous ?",
+    "MAP_MOBILE_RESULTS_NUMBER_LABEL": "{{locationsToDisplayLength}} Sites trouvés",
+    "ENTER_KEY_PRESSED_WITH_NO_RESULTS": "Veuillez indiquer votre lieu, puis sélectionner dans la liste",
+    "APPOINTMENT_REQUEST_AND_CONTACT_BUTTON": "Demande de rendez-vous / Contact"
+  },
+  "LargeAnimals": "Gros animaux",
+  "ALL_LOCATIONS": {
+    "TITLE": "Les sites de la Clinica Alpina",
+    "OUR_LOCATIONS": "Nos sites",
+    "LOCATIONS_COUNT_one": "{{count}} Site",
+    "CANTON_DEFAULT_LABEL": "Choisir un canton",
+    "LOCATIONS_COUNT_other": "{{count}} Sites",
+    "FOOTER_COMPONENT_TITLE": "Vous ne vous trouvez pas en Engadine ? Par ici !",
+    "MOBILE_MAP_BUTTON_TEXT": "Afficher sur la carte",
+    "FOOTER_COMPONENT_BUTTON": "Vers l'aperçu des sites VetTrust",
+    "LOCATION_TYPE_DEFAULT_LABEL": "Sélectionner le type de site",
+    "FOOTER_COMPONENT_DESCRIPTION": "Le groupe VetTrust dispose de plus de 40 sites avec des experts pour votre animal dans toute la Suisse. Vous pouvez rechercher le site qui vous convient sur les sites VetTrust."
+  },
+  "ANIMAL_RESCUE": {
+    "HERO": {
+      "TITLE": "VetTrust Service de sauvetage des animaux",
+      "DESCRIPTION": "Les humains ne sont pas les seuls à avoir des accidents, des urgences médicales ou des accidents - cela arrive aussi aux animaux domestiques. Si le chien est renversé par une voiture ou si le chat est coincé dans une fenêtre, il est désormais possible d'appeler notre service de secours pour animaux.",
+      "BUTTON_LABEL": "Vers l'appel d'urgence"
+    },
+    "QUESTIONS": {
+      "HEADING": "Questions au service de sauvetage des animaux VetTrust",
+      "TITLE_1": "Quel est le tarif des transports de sauvetage d'animaux ?",
+      "TITLE_2": "Qu'est-ce qui n'est PAS du ressort du sauvetage des animaux ?",
+      "TITLE_3": "Quand nos tarifs réduits sont-ils valables ?",
+      "TITLE_4": "Quel est l'équipement du véhicule de secours pour animaux ?",
+      "DESCRIPTION_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis ! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "DESCRIPTION_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis ! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "DESCRIPTION_3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis ! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "DESCRIPTION_4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis ! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    "OPERATIONAL_AREA": {
+      "TITLE": "Zone d'intervention du service de sauvetage des animaux",
+      "DESCRIPTION": "La zone d'intervention est représentée sur la carte. Elle a été définie par des calculs et des tests de conduite afin que les distances depuis notre centre d'intervention (centre hospitalier vétérinaire de Bâle) soient réalistes et également raisonnables. Ainsi, nous pouvons garantir une prise en charge optimale.",
+      "BUTTON_LABEL": "Vers l'appel d'urgence"
+    },
+    "SOLUTION_FOR_ANIMALS": {
+      "TITLE": "Solution pour les animaux en situation d'urgence",
+      "DESCRIPTION": "Notre personnel vétérinaire spécialisé se rend sur place le plus rapidement possible, prodigue les premiers soins et stabilise le patient. L'animal est ensuite transporté à la clinique la plus proche afin que les soins médicaux puissent être pris en charge sans interruption.",
+      "BUTTON_LABEL": "Contribution de Telebasel"
+    },
+    "ANTON_FOUNDATION_CORPORATION": {
+      "TITLE": "Coopération de la Fondation Anton avec le centre hospitalier vétérinaire de Bâle",
+      "DESCRIPTION": "Gigi Oeri a un grand cœur pour les animaux. Elle a créé une autre fondation appelée \"Anton\" et s'engage entre autres dans une coopération avec le centre hospitalier vétérinaire VetTrust de Bâle afin de mettre en œuvre un service de secours pour animaux. En collaboration avec la vétérinaire bâloise Gabrielle Brunner, Gigi Oeri a réfléchi à la manière d'améliorer le bien-être des animaux. Il manquait un service de secours pour les petits animaux. Le service de secours des animaux qui vient d'être mis en place est unique en son genre dans toute la Suisse. Cette initiative en faveur des petits animaux dans la région de Bâle n'est possible que grâce au don généreux de la fondation Anton.",
+      "BUTTON_LABEL": "Vers le site internet"
+    }
+  },
+  "OPENING_HOURS": {
+    "24_7": "Ouvert 24 heures sur 24",
+    "OPENED_UNTIL": "<span style=\"color: #358C0C\">Maintenant ouvert</span> jusqu'à {{closing_hour}} ",
+    "OPENS_TODAY_AT": "Ouverture à {{opening_hour}} ",
+    "OPENS_ON_A_DAY_AT": "Ouverture le {{day}} à {{opening_hour}} ",
+    "OPENS_TOMORROW_AT": "Ouverture demain à {{opening_hour}} "
+  },
+  "AllAnimalTypes": "Toutes les espèces animales",
+  "WELCOME_SECTION": { "BUTTON_LABEL": "Notre équipe" },
+  "DEPARTMENTS_PAGE": {
+    "TITLE": "Nos départements",
+    "DESCRIPTION": "Avec plus de 15 spécialistes, nous sommes à vos côtés avec une meilleure compétence !"
+  },
+  "INFO_TO_VISITORS": {
+    "HEADING": "Informations pour nos visiteurs",
+    "SUMMARY": "Nous vous indiquerons toujours les précautions particulières à prendre avant un examen ou un traitement.",
+    "TITLE_1": "Déroulement du cas de référé",
+    "TITLE_2": "Deuxième avis médical",
+    "TITLE_3": "Opérations et radiographies sous sédation",
+    "TITLE_4": "Conditions de paiement",
+    "TITLE_5": "Hospitalisations",
+    "DESCRIPTION_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis ! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "DESCRIPTION_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis ! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "DESCRIPTION_3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis ! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "DESCRIPTION_4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis ! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "DESCRIPTION_5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis ! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  },
+  "SERVICES_SECTION": {
+    "TITLE": "Nos services standard pour votre animal",
+    "DESCRIPTION": "Nous vous proposons une médecine vétérinaire moderne, accessible à tous.  Nous vous écoutons avec un intérêt sincère, prenons vos inquiétudes au sérieux et discutons avec vous des autres mesures diagnostiques et adaptons le plan thérapeutique à votre animal.",
+    "BUTTON_LABEL": "Tous les services",
+    "MODAL_BUTTON_LABEL": "Rendez-vous & contact"
+  },
+  "RELATED_LOCATIONS": {
+    "TITLE": "Également disponible à la même adresse :",
+    "CHECKOUT_BUTTON": "Vers le site"
+  },
+  "GLOBAL_PARTNERS_PAGE": {
+    "TITLE": "Nos partenaires",
+    "DESCRIPTION": "Tous nos partenariats en un coup d'œil.",
+    "WEBSITE_BUTTON_LABEL": "Vers le site web"
+  },
+  "HOME_CONTACT_SECTION": {
+    "TITLE": "Comment nous contacter",
+    "CONTACT_BUTTON": "Prendre contact",
+    "BOOK_NOW_BUTTON": "Réserver un rendez-vous"
+  },
+  "REGIONAL_PARTNERS_PAGE": {
+    "TITLE": "Nos partenaires",
+    "DESCRIPTION": "Pour pouvoir vous offrir des soins complets pour votre animal de compagnie, nous misons sur la coopération avec des partenaires soigneusement sélectionnés dans la région."
+  },
+  "ALL_OPENING_HOURS_MODAL": { "TITLE": "Nos heures d'ouverture" },
+  "HOME_DEPARTMENTS_SECTION": {
+    "TITLE": "Nos domaines de prestations",
+    "DESCRIPTION": "L'hôtel pour animaux de Ramosch permet à votre animal de compagnie de passer des vacances uniques, comme en rêvent tous les amis des animaux.",
+    "CARD_BUTTON_LABEL": "Lire la suite"
+  },
+  "SERVICES_CAROUSEL_SECTION": {
+    "TITLE": "Nos services spéciaux pour votre animal",
+    "DESCRIPTION": "Notre cabinet propose de nombreux services spécialisés afin de garantir les meilleurs soins possibles pour votre animal. ",
+    "BUTTON_LABEL": "Lire plus",
+    "SERVICE_CARD_BUTTON_LABEL": "Lire la suite"
+  },
+  "HOME_PET_AMBULANCE_SECTION": {
+    "TITLE": "VetTrust Service de sauvetage des animaux Bâle",
+    "DESCRIPTION_1": "Disponible 24 heures sur 24 / 7 jours sur 7",
+    "DESCRIPTION_2": "Si vous avez besoin d'une aide urgente sur place, vous pouvez appeler notre ambulance pour animaux au numéro d'urgence suivant <strong>{{emergency_phone}}</strong> pour nous avertir.",
+    "BUTTON_LABEL_1": "Vers l'appel d'urgence",
+    "BUTTON_LABEL_2": "En savoir plus"
+  }
+}

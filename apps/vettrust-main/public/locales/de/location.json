@@ -1,0 +1,183 @@
+{
+  "RATINGS": { "TITLE": "Bewertungen" },
+  "SERVICES": {
+    "TABS": {
+      "LABEL_1": "Kleintiermedizin",
+      "LABEL_2": "Nutztiermedizin",
+      "LABEL_3": "Pferdemedizin"
+    },
+    "TITLE": "Unsere Leistungen",
+    "HERO_TITLE": "Wir sind immer in ihrer Nähe, egal wo Sie sind",
+    "DESCRIPTION": "Mit mehr als 15 SpezialistInnen stehen wir Ihnen mit größter Kompetenz zur Seite!",
+    "HERO_DESCRIPTION": "Ob Sie für Ihren Liebling, eine Fachuntersuchung, eine Impfung oder einfach einen Haarschnitt brauchen. Wir haben das passende Angebot.",
+    "SPACIAL_SERVICES_TITLE": "Spezialleistungen",
+    "LOCATION_SEARCHBAR_TITLE": "Konnten Sie nicht finden, wonach Sie gesucht haben?"
+  },
+  "TEAM_PAGE": {
+    "CONTACT_BUTTON": "Kontakt",
+    "TITLE": "Unser Team",
+    "DESCRIPTION": "Mit mehr als 15 SpezialistInnen stehen wir Ihnen mit größter Kompetenz zur Seite!",
+    "CARD_BUTTON_LABEL": "Mehr lesen"
+  },
+  "HERO_SHELL": {
+    "BUTTON_1": "Notfalldienst",
+    "BUTTON_2": "Termin & Kontakt",
+    "BUTTON_3": "Leistungen",
+    "BUTTON_4": "Referral",
+    "ALL_OPENING_HOURS": "Alle Zeiten",
+    "ANNOUNCEMENT_BUTTON": "Alles klar"
+  },
+  "NAVIGATION": {
+    "MENU_LIST": {
+      "HOME_TITTLE": "Standortübersicht",
+      "PARTNER_TITTLE": "Partner",
+      "FOR_VETS_TITTLE": "Für Tierärzte",
+      "OUR_TEAM_TITTLE": "Unser Team",
+      "SERVICES_TITTLE": "Leistungen",
+      "DEPARTMENTS_TITTLE": "Unsere Abteilungen",
+      "OUR_PARTNERS_TITTLE": "Unsere Partner",
+      "ANIMAL_RESCUE_SERVICE_TITTLE": "Tierrettungsdienst",
+      "APPOINTMENT_AND_CONTACT_TITTLE": "Termin & Kontakt"
+    },
+    "YOUR_LOCATION": "Ihr Standort",
+    "SEARCH_LOCATION": "Standort suchen"
+  },
+  "SEARCH_PAGE": {
+    "TITLE": "Standortsuche",
+    "LOAD_MORE": "Mehr laden",
+    "HORSE_MEDICINE": "Pferdemedizin",
+    "ALL_CANTONS_LABEL": "Alle Kantone",
+    "LIVESTOCK_MEDICINE": "Nutztiermedizin",
+    "TELEMEDICIN_WIDGET": {
+      "DESCRIPTION": "Wenig Zeit? Jetzt ohne Anfahrtszeit Hilfe per Telemedizin bekommen",
+      "ACTION_BUTTON_1": "Zur Telemedizin",
+      "ACTION_BUTTON_2": "Nein Danke"
+    },
+    "MODAL_YOUR_LOCATION": "Ihr Ort",
+    "SMALL_PETS_MEDICINE": "Kleintiermedizin",
+    "SERVICES_FILTER_LABEL": "Filtern nach Leistungen",
+    "EMPTY_STATE_DESCRIPTION": "Wir haben leider keine Standorte gefunden.",
+    "FILTER_BY_CATEGORY_LABEL": "Filtern nach Kategorie",
+    "MODAL_SELECT_PLACE_LABEL": "Ort Auswählen",
+    "MODAL_SELECT_CANTON_LABEL": "Oder wählen Sie eine Region aus",
+    "GENERAL_CONSULTATION_LABEL": "Allgemeine Sprechstunde & Routineuntersuchungen",
+    "MOBILE_RESULTS_NUMBER_LABEL": "Wir haben {{locationsToDisplayLength}} Standorte gefunden:",
+    "STANDARD_SERVICES_SUB_TITLE": "Für alle Fragen, Probleme und Standarduntersuchungen für ihr Haustier die kein akuter Notfall sind:",
+    "MODAL_MAP_SEARCH_FIELD_LABEL": "Wo befinden Sie sich?",
+    "MAP_MOBILE_RESULTS_NUMBER_LABEL": "{{locationsToDisplayLength}} Standorte gefunden",
+    "ENTER_KEY_PRESSED_WITH_NO_RESULTS": "Bitte geben Sie Ihren Standort ein und wählen Sie dann aus der Liste",
+    "APPOINTMENT_REQUEST_AND_CONTACT_BUTTON": "Termin Anfrage / Kontakt"
+  },
+  "ALL_LOCATIONS": {
+    "OUR_LOCATIONS": "Unsere Standorte",
+    "LOCATIONS_COUNT_one": "{{count}} Standort",
+    "CANTON_DEFAULT_LABEL": "Kanton auswählen",
+    "LOCATIONS_COUNT_other": "{{count}} Standorte",
+    "MOBILE_MAP_BUTTON_TEXT": "Auf Karte Anzeigen",
+    "LOCATION_TYPE_DEFAULT_LABEL": "Standortart auswählen"
+  },
+  "ANIMAL_RESCUE": {
+    "HERO": {
+      "TITLE": "VetTrust Tierrettungsdienst",
+      "DESCRIPTION": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+      "BUTTON_LABEL": "Zum Notruf"
+    },
+    "QUESTIONS": {
+      "HEADING": "Fragen an den VetTrust Tierrettungsdienst",
+      "TITLE_1": "Wie lautet die Preisliste für Tierrettungsfahrten?",
+      "TITLE_2": "Für was ist die Tierrettung NICHT zuständig?",
+      "TITLE_3": "Wann sind unsere reduzierten Tarife gültig?",
+      "TITLE_4": "Wie ist der Tierrettungswagen ausgestattet?",
+      "DESCRIPTION_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "DESCRIPTION_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "DESCRIPTION_3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "DESCRIPTION_4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    "OPERATIONAL_AREA": {
+      "TITLE": "Einsatzgebiet des Tierrettungsdienstes",
+      "DESCRIPTION": "Das Einsatzgebiet wird in der Karte dargestellt. Es wurde durch Berechnungen und Testfahrten festgelegt, damit die Distanzen von unsrer Einsatzzentrale (Tierklinik Basel) realistisch und auch sinnvoll sind. Nur so können wir eine optimale Versorgung gewährleisten.",
+      "BUTTON_LABEL": "Zum Notruf"
+    },
+    "SOLUTION_FOR_ANIMALS": {
+      "TITLE": "Lösung für Tiere in Notsituationen",
+      "DESCRIPTION": "Unser tiermedizinisches Fachpersonal fährt auf schnellstem Weg zum Einsatzort, macht dort eine Erstversorgung und stabilisiert den Patienten. Anschliessend wird das Haustier in die nächstgelegene Klinik gebracht, damit dort die medi-zinische Versorgung lückenlos übernommen werden kann.",
+      "BUTTON_LABEL": "Telebasel Beitrag"
+    },
+    "ANTON_FOUNDATION_CORPORATION": {
+      "TITLE": "Kooperation der Stiftung Anton mit der Tierklinik Baseln",
+      "DESCRIPTION": "Gigi Oeri hat ein grosses Herz für Tiere. Sie hat eine weitere Stiftung namens „Anton“ gegründet und geht unter anderem eine Kooperation mit der VetTrust Tierklinik Basel ein, um einen Tierrettungsdienst umzusetzen. Zusammen mit der Basler Tierärztin Gabrielle Brunner hat sich Gigi Oeri überlegt, wie man eine Verbesserung für das Wohl der Tiere erreichen könnte. Es fehlte ein Rettungsdienst für Kleintiere. Die nun ins Leben gerufene Tierrettung ist einzigartig in der ganzen Schweiz. Diese Initiative für Kleintiere in der Region Basel ist nur möglich durch die grosszügige Spende der Stiftung Anton.",
+      "BUTTON_LABEL": "Zur Internetseite"
+    }
+  },
+  "OPENING_HOURS": {
+    "24_7": "24 Stunden geöffnet",
+    "OPENED_UNTIL": "<span style=\"color: #358C0C\">Jetzt offen</span> bis {{closing_hour}} Uhr",
+    "OPENS_TODAY_AT": "Öffnet um {{opening_hour}} Uhr",
+    "OPENS_ON_A_DAY_AT": "Öffnet am {{day}} um {{opening_hour}} Uhr",
+    "OPENS_TOMORROW_AT": "Öffnet morgen um {{opening_hour}} Uhr"
+  },
+  "WELCOME_SECTION": { "BUTTON_LABEL": "Unser Team" },
+  "DEPARTMENTS_PAGE": {
+    "TITLE": "Unsere Abteilungen",
+    "DESCRIPTION": "Mit mehr als 15 SpezialistInnen stehen wir Ihnen mit größter Kompetenz zur Seite!",
+    "BUTTON_LABEL": "Mehr erfahren"
+  },
+  "INFO_TO_VISITORS": {
+    "HEADING": "Informationen für unsere BesucherInnen",
+    "SUMMARY": "Wir werden Sie immer im Vorfeld einer Untersuchung oder Therapie auf besondere Vorkehrungen hinweisen.",
+    "TITLE_1": "Ablauf von Überweisungen",
+    "TITLE_2": "Zweitmeinungen",
+    "TITLE_3": "Operationen und Röntgen in Sedation",
+    "TITLE_4": "Zahlungskonditionen",
+    "TITLE_5": "Stationäre Aufenthalte",
+    "DESCRIPTION_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "DESCRIPTION_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "DESCRIPTION_3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "DESCRIPTION_4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "DESCRIPTION_5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, accusantium alias assumenda blanditiis eligendi error libero nihil omnis, placeat quod recusandae sapiente veritatis! Fuga magni minus praesentium repellat sit veritatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  },
+  "SERVICES_SECTION": {
+    "TITLE": "Unsere Standardleistungen für Ihr Tier",
+    "DESCRIPTION": "Wir bieten Ihnen moderne Tiermedizin, welche Allen zugänglich ist. Wir hören Ihnen mit ehrlichem Interesse zu, nehmen Ihre Sorgen ernst und besprechen mit Ihnen weitere diagnostische Massnahmen und passen den Therapieplan individuell auf Ihr Tier an.",
+    "BUTTON_LABEL": "Alle Leistungen",
+    "MODAL_BUTTON_LABEL": "Termin & Kontakt",
+    "MODAL_TELEMEDICINE_BUTTON_LABEL": "Termin Buchen"
+  },
+  "RELATED_LOCATIONS": {
+    "TITLE": "An der gleichen Adresse auch verfügbar:",
+    "CHECKOUT_BUTTON": "Zum Standort"
+  },
+  "GLOBAL_PARTNERS_PAGE": {
+    "TITLE": "Die VetTrust Hauptpartner",
+    "DESCRIPTION": "Ob Sie für Ihren Liebling, eine Fachuntersuchung, <br /> eine Impfung oder einfach einen Haarschnitt brauchen. Wir haben das passende Angebot.",
+    "WEBSITE_BUTTON_LABEL": "Zur Website"
+  },
+  "HOME_CONTACT_SECTION": {
+    "TITLE": "So können Sie uns erreichen",
+    "CONTACT_BUTTON": "Kontakt aufnehmen",
+    "BOOK_NOW_BUTTON": "Termin buchen"
+  },
+  "REGIONAL_PARTNERS_PAGE": {
+    "TITLE": "Unsere Partner",
+    "DESCRIPTION": "Um Ihnen eine Rundumversorgung für Ihr Haustier anbieten zu können, setzen wir auf die Kooperation mit sorgfältig ausgewählten Partnern aus der Region."
+  },
+  "ALL_OPENING_HOURS_MODAL": { "TITLE": "Unsere Öffnungszeiten" },
+  "HOME_DEPARTMENTS_SECTION": {
+    "TITLE": "Unsere Abteilungen",
+    "DESCRIPTION": "Mit mehr als 15 SpezialistInnen stehen wir Ihnen mit größter Kompetenz zur Seite!",
+    "CARD_BUTTON_LABEL": "Mehr lesen"
+  },
+  "SERVICES_CAROUSEL_SECTION": {
+    "TITLE": "Unsere Spezialleistungen für Ihr Tier",
+    "DESCRIPTION": "Unsere Praxis bietet Ihnen eine Reihe an Spezialleistungen, um die bestmögliche Versorgung für ihr Tier zu gewährleisten. ",
+    "BUTTON_LABEL": "Mehr Lesen",
+    "SERVICE_CARD_BUTTON_LABEL": "Mehr lesen"
+  },
+  "HOME_PET_AMBULANCE_SECTION": {
+    "TITLE": "VetTrust Tierrettungsdienst Basel",
+    "DESCRIPTION_1": "24 Stunden am Tag / 7 Tage die Woche erreichbar",
+    "DESCRIPTION_2": "Brauchen Sie akut Hilfe vor Ort, können Sie unseren Tierrettungswagen unter unserer Notrufnummer <strong>{{emergency_phone}}</strong> avisieren.",
+    "BUTTON_LABEL_1": "Zum Notruf",
+    "BUTTON_LABEL_2": "Mehr Erfahren"
+  }
+}

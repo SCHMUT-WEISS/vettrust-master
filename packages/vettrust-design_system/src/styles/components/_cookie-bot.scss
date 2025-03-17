@@ -1,0 +1,173 @@
+#CybotCookiebotDialog {
+  display: none !important;
+}
+
+.CybotCookiebotDialogContentWrapper {
+  max-width: 1122px !important;
+  flex-direction: column !important;
+  padding-left: 24px !important;
+  padding-right: 24px !important;
+}
+
+#CybotCookiebotDialogHeader {
+  display: none !important;
+}
+
+#CybotCookiebotDialogBodyContentTitle {
+  font-size: 36px !important;
+  font-weight: 600 !important;
+  color: white !important;
+  position: relative;
+  overflow: hidden !important;
+}
+
+#CybotCookiebotDialogNavItem {
+  border-style: solid !important;
+}
+
+#CybotCookiebotDialogFooter .CybotCookiebotDialogBodyButton {
+  border-radius: 32px !important;
+  height: 48px !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 200px !important;
+}
+
+#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll {
+  background-color: $magenta-hover !important;
+  color: white !important;
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  border-radius: 0 !important;
+  border-width: 0 !important;
+  border-style: solid !important;
+  border-color: $darkBlue !important;
+
+  &:hover {
+    background-color: $magenta !important;
+  }
+}
+
+#CybotCookiebotDialogBodyButtonDecline {
+  background-color: white !important;
+  color: $darkBlue !important;
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  border-radius: 0 !important;
+  border-width: 0 !important;
+  border-style: solid !important;
+  position: relative;
+
+  &:hover {
+    color: $magenta !important;
+  }
+}
+
+#CybotCookiebotDialogBodyContentText {
+  position: relative;
+}
+
+.CybotCookiebotDialogBodyBottomWrapper {
+  display: none !important;
+}
+
+#CybotCookiebotDialogNav {
+  display: none !important;
+}
+
+#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection {
+  display: none !important;
+}
+
+.CybotCookiebotScrollContainer {
+  overflow: hidden !important;
+  border-bottom: unset !important;
+}
+
+.CybotCookiebotFader, .CybotCookiebotDialogActive {
+  background: unset !important;
+}
+
+#CybotCookiebotDialogBodyContent {
+  //overflow: hidden !important;
+  -ms-overflow-style: none !important;
+  scrollbar-width: none !important;
+}
+
+@media screen and (min-width: 601px) {
+  #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyButtonsWrapper {
+    justify-content: flex-start !important;
+    flex-direction: row !important;
+  }
+}
+
+#CybotCookiebotDialogFooter {
+  margin-top: 16px !important;
+}
+
+// div[class="CookieDeclaration"] {
+//   display: none !important;
+// }
+
+div[style="position: relative; font-size: 200px; opacity: 0.25; font-weight: bold; overflow: visible; pointer-events: none; height: 0px; width: 0px; right: 0px;"] {
+  display: none !important;
+}
+
+#CybotCookiebotDialogTabContent {
+  margin: 0 !important;
+}
+
+.CookiebotWidget-main-logo {
+  display: none !important;
+}
+
+@media screen and (max-width: 1280px) {
+  #CybotCookiebotDialog {
+    border-radius: 12px !important;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  #CybotCookiebotDialog {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #CybotCookiebotDialogBodyContentTitle {
+    font-size: 24px !important;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  #CybotCookiebotDialog #CybotCookiebotDialogFooter {
+    padding: 1em !important;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  #CybotCookiebotDialog.CybotEdge.CybotMultilevel #CybotCookiebotDialogFooter {
+    position: static !important;
+  }
+}
+
+@media (max-width: 767px) {
+  #CybotCookiebotDialog {
+    top: unset !important;
+    bottom: -20% !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1224px) {
+  #CybotCookiebotDialog {
+    top: unset !important;
+    bottom: -13% !important;
+  }
+}
+
+#CookiebotWidget {
+  display: none !important;
+}

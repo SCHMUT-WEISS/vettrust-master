@@ -1,0 +1,39 @@
+{
+  "HERO": {
+    "MORE": "Apprendre encore plus",
+    "TITLE": "VetTrust : Le groupe vétérinaire suisse qui a du cœur",
+    "DESCRIPTION": "Animé par l'amour des animaux, VetTrust propose des médicaments basés sur les dernières découvertes scientifiques et un service client au plus haut niveau - accessible à tous."
+  },
+  "NEWS": {
+    "TITLE": "Actualités et communiqués de presse",
+    "BUTTON_TEXT": "Toutes les nouvelles",
+    "DESCRIPTION": "Toutes les nouvelles et les histoires quotidiennes de VetTrust."
+  },
+  "CLIPPED_CARD": {
+    "QUOTE": "En tant que PDG de VetTrust, je suis fier de voir que nos plus de 300 employés accordent la priorité au bien-être des animaux qui nous sont confiés avec une grande passion."
+  },
+  "PRACTICE_OWNER": {
+    "TITLE": "Êtes-vous propriétaire d'un cabinet? Faites partie de notre réseau !",
+    "MORE_INFO": "Informez-vous ici",
+    "DESCRIPTION": "Vous ne voulez plus jamais être seul ? Appréciez-vous une large compétence tout en conservant un bon équilibre entre vie professionnelle et vie privée ? Tout est possible chez nous : intégration complète, solution complète de succession ou coopération dans des sous-domaines."
+  },
+  "MANAGEMENT_TEAM": { "TITLE": "L'équipe de direction" },
+  "BUSINESS_MANAGEMENT_TEAM": { "TITLE": "Gestion des affaires" },
+  "PRESS_INQUIRIES": {
+    "TITLE": "Enquêtes de presse? Nous sommes à votre disposition",
+    "DESCRIPTION": "Nous sommes à votre disposition pour les demandes de presse. Contactez directement notre PDG Boris Rapp et nous vous répondrons dans les plus brefs délais."
+  },
+  "BULLET_CARDS_GRID": {
+    "TITLE": "Qu'est-ce qui rend VetTrust spécial ?",
+    "BULLETS": {
+      "TITLE_1": "Des partenaires solides",
+      "TITLE_2": "Honnêtement intéressé",
+      "TITLE_3": "médecine pour tous",
+      "TITLE_4": "Basé sur des valeurs",
+      "DESCRIPTION_1": "En tant que partenaires, nous sommes aussi forts que notre amour mutuel pour les animaux.",
+      "DESCRIPTION_2": "Nous sommes honnêtement intéressés, passionnés et progressistes ensemble.",
+      "DESCRIPTION_3": "Nous sommes toujours proches des animaux et des gens. Nous offrons la meilleure médecine - accessible à tous.",
+      "DESCRIPTION_4": "Nous sommes une entreprise suisse basée sur les valeurs et exigeante envers nous-mêmes."
+    }
+  }
+}

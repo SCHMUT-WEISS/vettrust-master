@@ -1,0 +1,28 @@
+.H1 {
+  font-family: "noto-sans-condensed", sans-serif;
+  @apply text-[32px] lg:text-[56px] font-bold  leading-[42px] lg:leading-[72px] text-darkBlue [font-stretch:condensed];
+}
+.H2 {
+  font-family: "noto-sans-condensed", sans-serif;
+  @apply text-[32px] lg:text-[40px] font-bold leading-[42px] lg:leading-[48px] text-darkBlue [font-stretch:condensed];
+}
+
+.H3 {
+  font-family: "noto-sans-condensed", sans-serif;
+  @apply text-[24px] font-bold leading-[32px] text-darkBlue [font-stretch:condensed];
+}
+
+.H4 {
+  font-family: "noto-sans-condensed", sans-serif;
+  @apply text-[20px]  font-bold leading-[28px] text-darkBlue [font-stretch:condensed];
+}
+
+.H5 {
+  font-family: "noto-sans-condensed", sans-serif;
+  @apply text-[16px] font-bold leading-[24px] text-darkBlue [font-stretch:condensed];
+}
+
+.H6 {
+  font-family: "noto-sans-condensed", sans-serif;
+  @apply text-[14px] font-bold leading-[20px] text-darkBlue [font-stretch:condensed];
+}

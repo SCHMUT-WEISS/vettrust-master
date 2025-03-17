@@ -1,0 +1,28 @@
+@mixin absoluteCenterX {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+@mixin absoluteCenterY {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+@mixin absoluteCenter {
+  @include absoluteCenterX;
+  @include absoluteCenterY;
+}
+
+@mixin button-base($shadow-value) {
+  @apply font-semibold rounded-[32px] text-[16px] leading-[24px] text-center flex flex-row items-center justify-center gap-[8px] whitespace-nowrap w-full lg:w-fit select-none touch-none;
+
+  font-weight: 600;
+  transition: all .2s;
+  box-shadow: $shadow-value;
+
+  &:focus {
+    outline: none;
+  }
+}

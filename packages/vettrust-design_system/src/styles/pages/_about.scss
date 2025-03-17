@@ -1,0 +1,9 @@
+.about-bg-circles {
+  right: -400px;
+}
+
+@media (min-width: 1440px) {
+  .about-bg-circles {
+    right: calc(50vw - 1120px);
+  }
+}

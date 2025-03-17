@@ -1,0 +1,39 @@
+{
+  "HERO": {
+    "MORE": "Learn more",
+    "TITLE": "Clinica Alpina and VetTrust. A strong team.",
+    "DESCRIPTION": "Driven by the love for animals, Clinica Alpina offers best medicine on the cutting edge of science and customer service at the highest level - accessible for all."
+  },
+  "NEWS": {
+    "TITLE": "News and press releases",
+    "BUTTON_TEXT": "All News",
+    "DESCRIPTION": "News and everyday stories about VetTrust."
+  },
+  "CLIPPED_CARD": {
+    "QUOTE": "As CEO of VetTrust, it makes me proud to see that our 300+ employees are extremely passionate about putting the welfare of the animals entrusted to us first."
+  },
+  "PRACTICE_OWNER": {
+    "TITLE": "Are you a practice owner? Become part of our network!",
+    "MORE_INFO": "Learn more",
+    "DESCRIPTION": "Do you never want to be on your own again? Do you value broad expertise yet a good work life balance? With us, everything is possible: full integration, complete succession solution or collaboration in subareas."
+  },
+  "MANAGEMENT_TEAM": { "TITLE": "The management team" },
+  "BUSINESS_MANAGEMENT_TEAM": { "TITLE": "Business Management" },
+  "PRESS_INQUIRIES": {
+    "TITLE": "Press inquiries? We are at your disposal",
+    "DESCRIPTION": "We are at your disposal for press inquiries. Please contact Dr. med. vet. FVH Benjamin Biner directly, we will get back to you as soon as possible."
+  },
+  "BULLET_CARDS_GRID": {
+    "TITLE": "What makes Clinica Alpina different?",
+    "BULLETS": {
+      "TITLE_1": "Strong Partners",
+      "TITLE_2": "Honestly interested",
+      "TITLE_3": "Medicine for all",
+      "TITLE_4": "Value-based",
+      "DESCRIPTION_1": "As partners, we are as strong as our shared love for animals.",
+      "DESCRIPTION_2": "We are honestly interested, passionate and progressive together.",
+      "DESCRIPTION_3": "We are always close to animals and people. We provide the best medicine - accessible to all.",
+      "DESCRIPTION_4": "We are a value-based Swiss company with high standards for ourselves."
+    }
+  }
+}

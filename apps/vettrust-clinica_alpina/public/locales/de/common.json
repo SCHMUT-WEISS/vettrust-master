@@ -1,0 +1,126 @@
+{
+    "404": {
+        "TITLE": "Entschulding, wir konnten diese Seite leider nicht finden",
+        "BUTTON": "Zur Standort Startseite",
+        "DESCRIPTION": "Bitte überprüfen sie in der Adresszeile ihres Browsers ob sie die richtige Website Adresse eingeben haben."
+    },
+    "500": {
+        "TITLE": "Entschuldigung, wir haben aktuell technische Probleme",
+        "DESCRIPTION": "Bitte versuchen Sie in ein paar Minuten die Seite erneut aufzurufen.\n"
+    },
+    "ERRORS": {
+        "SHORT_FIELD": "{{field}} ist zu kurz",
+        "INVALID_FIELD": "Bitte geben Sie ein gültiges {{field}} an",
+        "REQUIRED_FIELD": "{{field}} ist erforderlich",
+        "PATTERN_NO_MATCH": "Bitte geben Sie {{field}} im Format \"{{format}}\" ein",
+        "SOMETHING_WENT_WRONG": "Etwas ist schief gelaufen. Bitte versuchen Sie es später noch einmal."
+    },
+    "FOOTER": {
+        "EMAIL": "E-Mail",
+        "IMPRINT": "Impressum",
+        "PRIVACY": "Datenschutz",
+        "VETTRUST": {
+            "CITY": "Buorna",
+            "EMAIL": "sekretariat@clinica-alpina.ch",
+            "TITLE": "Clinica Alpina SA",
+            "ADDRESS": "CH-7550 Scuol",
+            "COUNTRY": "Schweiz",
+            "YOUTUBE": "https://www.youtube.com/channel/UC0SFYWw0h0YbUOO7llGMS7Q",
+            "FACEBOOK": "https://www.facebook.com/profile.php?id=100063546163723",
+            "INSTAGRAM": "https://www.instagram.com/vettrust.ch/",
+            "EMAIL_LABEL": "Email:",
+            "TELEPHONE_LABEL": "Telephone:",
+            "TELEPHONE_NUMBER": "+41 (0)81 861 00 88",
+            "TELEPHONE_NUMBER_2": "+41 (0)81 861 00 81"
+        },
+        "PET_OWNERS": {
+            "BLOG": "Tierwissen & unser Alltag",
+            "NEWS": "News",
+            "TITLE": "Für TierhalterInnen",
+            "ABOUT_US": "Über uns",
+            "LOCATIONS": "Alle Standorte"
+        },
+        "VETERINARIANS": {
+            "TITLE": "Notfallnummer",
+            "CAREER": "Karriere",
+            "CONTACT": "Kontakt",
+            "VETTRUST_PARTNER": "VetTrust Partner werden"
+        }
+    },
+    "HEADER": {
+        "MENU": "Menu",
+        "STORE": "Shop",
+        "EMERGENCY": "Notfall",
+        "REFERRAL": "Referral",
+        "LOCATION_SEARCH": "Standort suchen"
+    },
+    "OTHERS": {
+        "META_TITLE": "VetTrust: Ihr Tierarzt an über 30 Standorten in der Schweiz",
+        "PLEASE_SELECT": "Bitte auswählen",
+        "META_DESCRIPTION": "Was immer Ihr Haustier braucht: Eine Kleintierpraxis oder Tierklinik von VetTrust liegt nur einen Katzensprung entfernt. Mit über 30 Standorten schweizweit und umfassender Tiermedizin ist unsere Tierarzt-Gruppe die beste Wahl für tierisch gesunde Haustiere. Ein Leben lang."
+    },
+    "SEARCH": {
+        "TITLE": "Jetzt einen unserer Standorte in Ihrer Nähe finden",
+        "BUTTON": "Standort finden",
+        "FILTER": {
+            "TITLE": "Filtern",
+            "PLACEHOLDER": "Was braucht ihr Haustier?"
+        },
+        "LOCATION": {
+            "TITLE": "Ihr Ort",
+            "PLACEHOLDER": "Wo befinden Sie sich?"
+        },
+        "MOBILE_TITLE": "Jetzt Standort finden"
+    },
+    "COOKIEBOT": {
+        "TITLE": "Diese Webseite verwendet Cookies",
+        "DESCRIPTION": "Wir verwenden Cookies, um Inhalte und Anzeigen zu personalisieren, Funktionen für soziale Medien anbieten zu können und die Zugriffe auf unsere Website zu analysieren. Außerdem geben wir Informationen zu Ihrer Verwendung unserer Website an unsere Partner für soziale Medien, Werbung und Analysen weiter. Unsere Partner führen diese Informationen möglicherweise mit weiteren Daten zusammen, die Sie ihnen bereitgestellt haben oder die sie im Rahmen Ihrer Nutzung der Dienste gesammelt haben.",
+        "CONSENT_BUTTON": "Akzeptieren",
+        "REFUSE_CONSENT_BUTTON": "Ablehnen"
+    },
+    "NAVIGATION": {
+        "SEARCH": "Standort finden",
+        "EMERGENCY": "Notfall",
+        "MENU_LIST": {
+            "TITLE": "Clinica Alpina Entdecken",
+            "HOME_TITTLE": "Startseite",
+            "NEWS_TITTLE": "News",
+            "ABOUT_TITTLE": "Über uns",
+            "ANIMAL_TITTLE": "Tierwissen & unser Alltag",
+            "CAREER_TITTLE": "Karriere",
+            "IMPRINT_TITTLE": "Impressum",
+            "HOME_DESCRIPTION": "Hier bekommen Sie einen allgemeinen Überblick zur Clinica Alpina.",
+            "LOCATIONS_TITTLE": "Standorte",
+            "NEWS_DESCRIPTION": "Alle Neuigkeiten und alltägliche Geschichten von VetTrust.",
+            "ABOUT_DESCRIPTION": "Erfahren Sie was Clinica Alpina ausmacht und was uns wichtig ist.",
+            "BECOME_VET_TITTLE": "Ein Teil von VetTrust werden",
+            "ANIMAL_DESCRIPTION": "Hier lesen Sie nützliches Tierwissen und Geschichten aus unserem Alltag.",
+            "CAREER_DESCRIPTION": "Sie möchten ein Teil von VetTrust werden? Hier erfahren Sie mehr!",
+            "IMPRINT_DESCRIPTION": "Impressum",
+            "LOCATIONS_DESCRIPTION": "Finden Sie einen Standort in Ihrer Nähe",
+            "SEARCH_RESULTS_TITTLE": "Suchergebnisse",
+            "BECOME_VET_DESCRIPTION": "Ein Teil von VetTrust werden",
+            "DATA_PROTECTION_TITTLE": "Datenschutzerklärung",
+            "GLOBAL_PARTNERS_TITTLE": "Partner",
+            "SEARCH_RESULTS_DESCRIPTION": "Alle Suchergebnisse",
+            "DATA_PROTECTION_DESCRIPTION": "Datenschutzerklärung",
+            "GLOBAL_PARTNERS_DESCRIPTION": "Alle unsere Partnerschaften auf einen Blick"
+        },
+        "SEARCH_TIP": "Einen Standort finden",
+        "CLOSE_BUTTON": "Menü schließen"
+    },
+    "SUCCESS_MODAL": {
+        "TITLE": "Viele Dank! Wir haben Ihre Nachricht erhalten",
+        "BUTTON": "Schliessen",
+        "DESCRIPTION": "Wir melden uns schnellmöglichst bei Ihnen zurück."
+    },
+    "EMERGENCY_MODAL": {
+        "TITLE": "Unsere kostenfreie Notfallnummer",
+        "TITLE_CHARGEABLE":"Unsere Notfallnummer",
+        "DESCRIPTION_1": "Rund um die Uhr an sieben Tagen der Woche. Bei dringenden Notfällen machen Sie sich bitte umgehend auf den Weg zu uns in die Klinik.",
+        "DESCRIPTION_2": "Haben Sie einen akuten Notfall mit Ihrem Haustier? Fühlen Sie sich unsicher, ob es sich überhaupt um einen Notfall handelt?",
+        "DESCRIPTION_3": "Zögern Sie nicht und rufen Sie uns an. Mittels Postleitzahlenerkennung werden Sie an den Ihnen nächstliegenden diensthabenden Standort umgeleitet.",
+        "PHONE_NUMBER_HEADING": "Wählen Sie die Nummer in dringenden Notfällen:",
+        "PHONE_NUMBER_CHARGEABLE_HEADING": "Wählen Sie die Nummer in dringenden Notfällen: <br>(kostenpflichtig FR {{price}}/Minute)"
+    }
+}

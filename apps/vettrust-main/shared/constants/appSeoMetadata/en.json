@@ -1,0 +1,1642 @@
+{
+  "/": {
+    "title": "VetTrust",
+    "description": "We are your partner in animal health",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/Q7zHdoBHS2O8IyUyHoNNC/fb006bfe97bb2a049bc6488e006fdd73/VetTrust_Hero__1_.png"
+  },
+  "/imprint": {
+    "title": "Imprint",
+    "description": "Contact address VetTrust AG \nBodenhof 2 \n6403 Küssnacht a/R \nSwitzerland \nE-mail: info@vettrust.ch A...",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1aNoTal5kfdcBJOIIMpbQa/7e8fe8f8e6271e03845be37e60fbb2cc/C0056.jpg"
+  },
+  "/data-protection": {
+    "title": "Privacy Policy",
+    "description": "General notice  Based on Article 13 of the Swiss Federal Constitution and the data protection regula...",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1aNoTal5kfdcBJOIIMpbQa/7e8fe8f8e6271e03845be37e60fbb2cc/C0056.jpg"
+  },
+  "/global-partners": {
+    "title": "Partners",
+    "description": "All our partnerships at a glance",
+    "image": "https://assets.website-files.com/62695292ac31cd97968fa7b4/626a567107ae0558a9174bd4_VetTrust%20opengraph.png"
+  },
+  "/career": {
+    "title": "Career",
+    "description": "Want to become a part of VetTrust? Learn more here!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/50LxnbwM2wK6Wvx3x5grMY/81a9ffcc778e71fcfeae92352f31d70c/VT-Eingangsbereich_Tresen_Hund.jpg"
+  },
+  "/news": {
+    "title": "News",
+    "description": "All the latest news and everyday stories from VetTrust.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6gtntTp3LhcxAuITUpOzf1/ad02a122f6884e10b00ddb2f922b9ee4/Katzenhotel_Oesingen_NewsPage.jpeg"
+  },
+  "/news/securing-the-future-at-clinica-alpina": {
+    "title": "Securing the future at Clinica Alpina",
+    "description": "Clinica Alpina, with its locations is the largest provider of veterinary care in the Engadine. The Scuol site is one of the most modern veterinary clinics in Europe.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1a3LwGXkjoCMd1pYNzYrpJ/9f89702fd44e53a5578fa9e413edb22a/Clinica_Alpina.jpeg"
+  },
+  "/news/annual-check-for-dog-and-cat": {
+    "title": "Annual check for dog and cat",
+    "description": "VetTrust offers annual health checks for cats and dogs of all ages. Because prevention is care.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3MOxn9t2aPnsck9QuSilID/614ad4eb2d6714290d72a8aeadeb19cc/Jahrescheck.jpg"
+  },
+  "/news/animal-physiotherapy-for-the-well-being-of-your-dog": {
+    "title": "Animal physiotherapy for the well-being of your dog ",
+    "description": "VetTrust knows: Dogs deserve appropriate pre- and post-operative care for operations, chronic diseases of the skeletal and nervous system or to maintain mobility in the form of physiotherapy.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5YQZNnafG6GwaNWJx8wpp8/1021a5fb4f1e33fb3d18e83b84a357cf/TA_TPA_Hund.jpg"
+  },
+  "/news/an-exciting-case-from-neurosurgery": {
+    "title": "An exciting case from neurosurgery",
+    "description": "VetTrust vets cure 9-year-old border collie paralysis",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3S1g6BK8rkQeXxAahMKRqN/0104812eedba188dd96df3fbf567ad42/dog-g5382b65d6_1920.jpg"
+  },
+  "/news/vettrust-cat-hotel-oensingen": {
+    "title": "VetTrust Cat Hotel Oensingen",
+    "description": "We have rebuilt part of our practice in Oensingen for you, so that in the future we can guarantee your cats a nice vacation stay. In the process, a unique feel-good oasis for cats has been created.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2zTyjtvjGyQHIuZtmUUQSh/33b144763927d378a02eff6216815129/News_Cat_Hotel_Oensingen.png"
+  },
+  "/news/vettrust-tierklinik-basel-donates-for-animal-welfare": {
+    "title": "VetTrust Tierklinik Basel donates for animal welfare",
+    "description": "The surgical and management team of the VetTrust Veterinary Clinic Basel has just handed over a large, complete surgical equipment including sterilizer to the veterinary \"Vet Centar\" in Banja Luka, Bosnia. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/7zUOXyRhgvWwz8oU1lUSEZ/fe9e066cba409e8f02a9e2fa1b2f0a48/Tierklinik_Basel_Spendet_News.jpeg"
+  },
+  "/news/current-covid-19-measures": {
+    "title": "Current COVID-19 measures",
+    "description": "Measures currently in force with regard to COVID-19 in VetTrust practices",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/69rpett2BYiFiJGSBhMra/0102a07792503f95fbe0ceaa873b0975/Mitarbeiter.jpg"
+  },
+  "/news/new-vettrust-emergency-number-animal-rescue-around-the-clock": {
+    "title": "New VetTrust emergency number: Animal rescue around the clock ",
+    "description": "New VetTrust emergency number: Animal rescue around the clock ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/HO8aoL7Mu0LNC3KoXtpjZ/86add6ebb3ce6d3d07648a178a75d6ab/Hund_Pfote_Hand.jpeg"
+  },
+  "/news/nanoscopy-in-joint-surgery": {
+    "title": "Nanoscopy in joint surgery",
+    "description": "Nanoscopy in joint surgery now also for animals! VetTrust now offers this service",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/HO8aoL7Mu0LNC3KoXtpjZ/86add6ebb3ce6d3d07648a178a75d6ab/Hund_Pfote_Hand.jpeg"
+  },
+  "/news/gigi-oeri-launches-unique-projects-with-vettrust": {
+    "title": "Gigi Oeri launches unique projects with VetTrust",
+    "description": "The Anton Foundation was founded by former FCB President Gigi Oeri at the beginning of the year and finances projects that contribute to the health welfare of animals.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/652Be8TyrJ89gH0XJCBJvE/39a4ea3379dea5f5c9851356ece69af4/Tierrettung_Wagen_Gabi_TPA.jpeg"
+  },
+  "/news/childhood-illnesses-in-animals": {
+    "title": "Childhood illnesses in animals",
+    "description": "Certainly when one thinks of diseases, the first ones that come to mind are the elderly candidates of our loving companions. But also the youngest can be affected! ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/38oz7ETVibPPcvw6XarM5p/cc11802d92adef99a86d3d5cb266ec0b/junges_braunes_Kalb_Kopie.jpg"
+  },
+  "/news/puppy-all-round-carefree-package": {
+    "title": "Puppy all-round carefree package",
+    "description": "With the puppy carefree package from VetTrust, we help you prepare for your new family member in the best possible way and think of everything important in the first year. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5qS8wy3BW1GxSvbNeBTGn6/eeb9986634a12f068fc53ef6f48ead83/lydia-torrey-AovflqCt9Ws-unsplash.jpg"
+  },
+  "/blog": {
+    "title": "Animal knowledge",
+    "description": "Read useful animal knowledge from our experts here.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/7dqQEsHrVFo9BirGYRtirG/2920f2d5b87852c9acaca426552df58b/My-Photo__MYP8566.jpeg"
+  },
+  "/blog/vettrust-tierklinik-basel-donates-for-pet-welfare": {
+    "title": "VetTrust Veterinary Clinic Basel donates for pet welfare",
+    "description": "The surgery and management team of the VetTrust Veterinary Clinic Basel could just hand over a large, complete surgical equipment including sterilizer to the veterinary \"Vet Centar\" in Banja Luka, Bosnia. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/7uShRwdWRjLSESkk2GhDk/b78afb754770e11fd856d689c4d10f7c/Unknown.jpeg"
+  },
+  "/blog/animal-rescue-in-emergency-situations-by-vettrust": {
+    "title": "Animal rescue in emergency situations by VetTrust",
+    "description": "VetTrust free emergency number 0800 111 114 - around the clock ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/652Be8TyrJ89gH0XJCBJvE/39a4ea3379dea5f5c9851356ece69af4/Tierrettung_Wagen_Gabi_TPA.jpeg"
+  },
+  "/blog/travel-with-your-dog-vaccinate-your-dog-early": {
+    "title": "Travelling with your dog? Vaccinate your dog ahead of time!",
+    "description": "Leishmaniasis of the dog is caused by a parasite: Infected sandflies transmit it when they bite. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3t22is6ptAV52dgo4QmgeX/6578796accf4b61ad5edbd7aaced5e52/VetTrust_tierarzt_tierwissen_blog_hero_reisen-mit-hund-impfen.jpg"
+  },
+  "/blog/annual-check-for-dog-and-cat": {
+    "title": "Annual check for dog and cat",
+    "description": "Regelmässiger Jahrescheck zählt zu einer gesunden Haltung von Katze und Hund. Buchen Sie heute noch einen Termin für Ihr Liebling.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3MOxn9t2aPnsck9QuSilID/614ad4eb2d6714290d72a8aeadeb19cc/Jahrescheck.jpg"
+  },
+  "/blog/playful-veterinary-getting-to-know-you-free-in-vettrust-locations": {
+    "title": "Playful veterinary familiarisation - free at VetTrust locations",
+    "description": "The first weeks and months of a dog's life are particularly crucial. The so-called imprinting phase determines how relaxed your dog will be later in life when dealing with stimuli, impressions, people and other animals.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/j98YJxxG7E9bQbs3IawQU/cf4282a0752b54d1f946519701acd1b0/My-Photo__MYP4972.jpg"
+  },
+  "/blog/pocdoc-r-pet-connect-smart-first-aid-system": {
+    "title": "PocDoc® Pet Connect - Smart First Aid System for Dogs and Cats",
+    "description": "The PocDoc® Pet Connect is an intelligent first aid kit that includes an activation code for the app. Each step of the treatment is explained in the app in short concise sentences and with understandable pictures.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3kUeDKxDU3R9TqCK31sVXO/d03cc14cae1e9c71161de66febd2d0f2/PocDoc_Hund.jpg"
+  },
+  "/blog/ house-training-the-right-timing-is-important": {
+    "title": "Housetraining - The right timing is important ",
+    "description": "With the right technique and patience, it is usually easy to house train a puppy within a few weeks. As always, the basic rule is to reward desired behaviour. VetTrust shows you how. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2QW1uxI58pToDnazj3jclr/6e978a4ccf2926bd35e74e81deab01d0/Hunde_auf_Wiese.jpg"
+  },
+  "/blog/projects-gigi-oeris-foundation-anton-and-animal-clinic-basel": {
+    "title": "Projects of Gigi Oeri and Tierklinik Basel",
+    "description": "Gigi Oeri has a big heart for animals. She has set up another foundation called \"Anton\" and, among other things, is entering into a cooperation with VetTrust Tierklinik Basel to implement two projects.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1mC8N1ziLAmjShBTzrOVtn/6249bc7d36f2cee3d20f229dece41da4/Mutti_Kind_Hund.jpg"
+  },
+  "/blog/animals-are-not-meant-to-be-presents": {
+    "title": "Animals are not meant to be presents!",
+    "description": "Although it is clear that a pet is not an object, it is not uncommon for misconceptions and misunderstandings to arise. Veterinarian Gabrielle Brunner is concerned about the relationship between humans and animals.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1GpLo4jRQCd7KhG7igrUVz/072142852abea208288cf5b3c01f61e5/My-Photo__MYP1749.jpg"
+  },
+  "/blog/what-makes-a-dog-school-good": {
+    "title": "What makes a dog school good?",
+    "description": "A good dog school is one of the most important decisions in the development of a young dog. Especially for first-time dog owners, for whom the topic of training and imprinting is still new, it is crucial what help they get in training.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2mfezcGtMkRRIwO7BaUje1/7955a70952ada221dc0500e69453cde1/IMG_20200429_150959.jpg"
+  },
+  "/blog/geriatrics-I-agree": {
+    "title": "Geriatrics - I agree!",
+    "description": "Our pets age - it is the course of nature, which we cannot change. What we can change, however, is our attitude towards old age - and thus significantly improve the quality of life of our grey muzzles and ours.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/RFTYN3pSPPzgDPJxBrM5B/0385cf8af26ba4784ce7ff875665f5a7/pexels-helena-lopes-2253275.jpg"
+  },
+  "/blog/fleas-and-ticks-that-must-not-be": {
+    "title": "Fleas and ticks - that doesn't have to be!",
+    "description": "It is comforting to know that parasites that live on the skin and fur of our pets do not usually pass on to humans and do not transmit diseases to them. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3jploLmwptUA0EKIq6CDmH/07c512323d1ba9985c5facd6f84a6a4b/vettrust-tierarzt-tierwissen-blog-flo_he-zecken.jpg"
+  },
+  "/blog/the-way-to-healthy-teeth-even-in-high-age": {
+    "title": "The way to healthy teeth - even in old age",
+    "description": "The dental care needs of our pets mirror our own. Prevention is better than cure, the best time to start is the first visit to the vet - VetTrust checks will be with you and your pet for life.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1sdRqbiHOS82cg6id5XWKz/78381489b0b96016afd188b223f15474/pexels-helena-lopes-3114143.jpg"
+  },
+  "/blog/dementia-in-dogs": {
+    "title": "Dementia in dogs",
+    "description": "Senile dementia in dogs is a serious disease and should not be confused with normal senile dementia. The technical term for this disease is Cognitive Dysfunction Syndrome and is currently often under-diagnosed.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5Qz4epip2VSayyIhXzRxCC/53f9f1beba8d60ac67b22b3039f40d7e/pexels-shahar-michael-cohen-8774020.jpg"
+  },
+  "/blog/my-cat-never-has-my-dog-itches-it's-hay fever": {
+    "title": "My cat sneezes and my dog itches - do they have hay fever?",
+    "description": "Allergies are a big issue in humans - more and more of them are being diagnosed. And they also occur in our pets. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/27kxBOd3biPID1Cj25O7ix/10c6e20a7515f67d123bc18b9b8ed7e0/Sch__ferhund_liegt_.jpg"
+  },
+  "/blog/health-check-is-care": {
+    "title": "Prevention is care",
+    "description": "Not only good nutrition, sufficient exercise and occupation belong to a healthy attitude of cat and dog. Our regular health check is also part of it.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/56lWVbqM7jxbPa3dXw64fl/3d01ca1c3ac31e913d302ce7538b0299/My-Photo__MYP1493.jpg"
+  },
+  "/blog/dangerous-christmas": {
+    "title": "Dangerous Christmas",
+    "description": "What is part of a reflective Christmas season for us can be life-threatening for cats and dogs. VetTrust shares a few thoughts on the holidays.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2g6ukcNXqCG0iTF00J7ubc/e9723209ac867e5b88ec0cc49f5f0ffc/pexels-kostya-levit-naddubov-844454.jpg"
+  },
+  "/blog/dog-and-cat-in-corona-times": {
+    "title": "Dogs and Cats in Corona Times",
+    "description": "Preventive care for animals is very important, even in Corona times, and is forgotten by many pet owners. We enlighten you, precaution is care.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6KwnX0Zlky2rlp9wqbDw8J/ec069461e4974f308a862a7110400dc1/vettrust-kleintierpraxis-ku_ssnacht.png"
+  },
+  "/jobs": {
+    "title": "VetTrust - Our Job Offers",
+    "description": "VetTrust - We are sure that you will find a suitable job not only in your region, but also in your desired field of activity - the current job advertisements are listed here. If you don't find anything suitable: Register with our career network and we will contact you with suitable job offers.",
+    "image": "https://assets.website-files.com/62695292ac31cd97968fa7b4/626a567107ae0558a9174bd4_VetTrust%20opengraph.png"
+  },
+  "/locations": {
+    "title": "All locations",
+    "description": "Find all locations of VetTrust throughout Switzerland.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5caOljdKFSuxnZ2qQLluos/39dfb2084ce4a44ee3dc86034f4ed11e/All_Locations_Hero__1_.png"
+  },
+  "/locations/kleintierpraxis-faellanden": {
+    "title": "VetTrust Kleintierpraxis Fällanden",
+    "description": "VetTrust small animal practice Fällanden - your competent veterinarians for the health of your pet. Make an appointment now",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/464Ow9IHCNpL9dqKowpcOz/fc3eff563626d736804640d5fc7da7b0/F__llanden.JPEG"
+  },
+  "/locations/kleintierpraxis-eschenbach": {
+    "title": "VetTrust Kleintierpraxis Bachmatt Eschenbach",
+    "description": "The VetTrust small animal practice Bachmatt Eschenbach offers the best health care for your pet. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/68w3tnIbEKqPL7rFhdXc4z/a1c5a3f22a9631b39759a5c76c822c96/Platzhalter2.jpeg"
+  },
+  "/locations/tierklinik-nesslau": {
+    "title": "VetTrust Tierklinik Nesslau",
+    "description": "The VetTrust veterinary clinic in Nesslau takes care of your pet's health. Our vets are there for you and your pet.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1bDmQKvKlsdSs41nB2d0hW/033bdf5273faca02b56206c21c735e3b/Nesslau.JPEG"
+  },
+  "/locations/tierklinik-zuerich-ost": {
+    "title": "VetTrust Tierklinik Zürich Ost",
+    "description": "Our VetTrust Veterinary Clinic Zurich East takes care of the health of your animals. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1eAC6VAY3lZREDDjxZJnqD/345c164d71b6b1c44447099f8a107868/Z__rich_Ost.jpg"
+  },
+  "/locations/kleintierpraxis-st-gallen-ost": {
+    "title": "VetTrust Kleintierpraxis St. Gallen Ost",
+    "description": "VetTrust small animal practice St. Gallen East - the vets with a heart for every pet. We care for the health of your pet.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2thnYz8rBIJ8AkizDaNXom/73f75bf129c2432afa957c52419ff345/StGallen.jpeg"
+  },
+  "/locations/tierklinik-basel": {
+    "title": "VetTrust Tierklinik Basel",
+    "description": "Our modern and specialised clinic focuses on emergency and specialist medicine and helps small and large patients get back on their paws.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2hr6zmjbD2lY76n31M8hza/92bb0bb122d0d796ff7812dd14dd9ef3/My-Photo__MYP6058-2.jpg"
+  },
+  "/locations/kleintierpraxis-kuessnacht": {
+    "title": "VetTrust Kleintierpraxis Küssnacht am Rigi",
+    "description": "The VetTrust small animal practice Küssnacht am Rigi - our vets are there for the health of your pet. Book an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4ZTI1ZPGfjfYCyWp8rPmES/7bd5781080c1e739c28392f67c9f50f9/K__ssnacht_Praxis_verbessert-2.jpeg"
+  },
+  "/locations/kleintierpraxis-oftringen": {
+    "title": "VetTrust Kleintierpraxis Mühlebach Oftringen",
+    "description": "The VetTrust small animal practice Mühlebach Oftringen, veterinarians for the well-being of your pet. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/27FXWGMxRsEmtfdxUuNHIm/98bd08921fd11b3f1822868e2b5fd839/Oftringen2.JPEG"
+  },
+  "/locations/kleintierpraxis-muenchenstein": {
+    "title": "VetTrust Kleintierpraxis Münchenstein ",
+    "description": "The VetTrust small animal practice Münchenstein: Some of the best vets in Switzerland for your pet. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2hr6zmjbD2lY76n31M8hza/92bb0bb122d0d796ff7812dd14dd9ef3/My-Photo__MYP6058-2.jpg"
+  },
+  "/locations/katzenhotel-oensingen": {
+    "title": "VetTrust Katzenhotel Oensingen",
+    "description": "The VetTrust cat hotel Oensingen. Cats feel at home with us.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1W4R9H90IO8VuwOVCWsd1S/041deb979cd37357034897c1e961336e/MicrosoftTeams-image__8_.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-celerina": {
+    "title": "Tierklinik Clinica Alpina Celerina (former Samedan)",
+    "description": "The best for your pet's well-being. The vets at the Clinica Alpina Celerina veterinary clinic take care of your pet's health.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2A5Uo3MOl0d6FBfNAUKyEG/69ea275648e60f4cc6a3acb1c7d16c5a/IMG_0504.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-scuol": {
+    "title": "Tierklinik Clinica Alpina Scuol",
+    "description": "The best for your pet's well-being. The vets at the Clinica Alpina Scuol veterinary clinic take care of your pet's health.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/0QvC15IzGv4Vg7ohWAfLO/1b62207d73d9f7b0a0342f67df167545/ClinicaAlpinaGeb__ude3.JPG"
+  },
+  "/locations/kleintierpraxis-buelach": {
+    "title": "VetTrust Kleintierpraxis Bülach",
+    "description": "At the VetTrust small animal practice Bülach, you can also easily book your appointment online. We take care of your pet's health.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5HE6WkCauqNVBOTSe9QF9L/ddf55ac9a1ccc9fc0952b48a078cd173/Bu__lach_Empfang_1.jpeg"
+  },
+  "/locations/tierklinik-oberland-saland": {
+    "title": "VetTrust Tierklinik Oberland Saland",
+    "description": "Our VetTrust Animal Clinic Oberland Saland cares for the health of animals large and small. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1FzecsxOsn4cETZrD1c8bR/2de6cc003d4c9bc10a3e71339542aa90/Saland.jpeg"
+  },
+  "/locations/kleintierpraxis-regensdorf": {
+    "title": "VetTrust Kleintierpraxis Regensdorf",
+    "description": "The VetTrust small animal practice Regensdorf - Our vets care for your pet's health with all their heart. Simply book your appointment online.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1dR3KeEotCqtYRmA4RsaQP/8433b46e0bc2be3ff8d64c043d3f1930/Regensdorf.jpeg"
+  },
+  "/locations/kleintierpraxis-au": {
+    "title": "VetTrust Kleintierpraxis Au",
+    "description": "Our VetTrust small animal practice Au cares for the health of large and small animals. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1SzYT9tXQrqgh9ZFOyFmT7/0e7d8f7f3094d3671abe01e98de86d1c/Au.jpeg"
+  },
+  "/locations/kleintierpraxis-winterthur-zentrum": {
+    "title": "VetTrust Kleintierpraxis Winterthur im Zentrum",
+    "description": "Our VetTrust small animal practice in the centre Winterthur offers your pet the best health care. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1bJRvIHAhticPDdXxbjwAr/731b74445a833d81e734214ee2620d0f/2T0A5819.jpg"
+  },
+  "/locations/kleintierpraxis-schlieren": {
+    "title": "VetTrust Kleintierpraxis Schlieren",
+    "description": "Your VetTrust small animal practice in Schlieren is there for you and your pet. Simply book an appointment online now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2gx7gD55zXLCkWXeTwEMIa/8bb7513089b5ba11b76c9b1cef2aed28/Schlieren.JPEG"
+  },
+  "/locations/flints-praxis-fuer-kleintiere": {
+    "title": "Flint's Praxis für Kleintiere",
+    "description": "At Flint's practice for small animals, competent veterinarians take care of your pet. Book an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/72vMcs7WH3aklLccytu2YF/50ffc45d9ac4fe4686c14b7fb6c4dabd/My-Photo__MYP1909-i-1__1_.jpg"
+  },
+  "/locations/kleintierpraxis-muri": {
+    "title": "VetTrust Kleintierpraxis Muri",
+    "description": "The vets at the VetTrust small animal practice at the Muri location look after your pet's health with heart and passion. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2VzzkolANmbEHV6RBloGGE/9fd957d8e571af8fe72c408e0fa6ce0d/Muri_Praxisfoto_Oktober_2022.jpeg"
+  },
+  "/locations/kleintierpraxis-zug": {
+    "title": "VetTrust Kleintierpraxis Zug",
+    "description": "VetTrust small animal practice Zug - our vets take care of your pet's health. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1NKwZFvuSH73GLWjg2DTFL/0045f1bfdc10ea3143c55748c5550c67/Zug.JPEG"
+  },
+  "/locations/kleintierpraxis-basel-spalen": {
+    "title": "VetTrust Kleintierpraxis Basel Spalen",
+    "description": "The best for your pet's well-being. The vets at the VetTrust small animal practice Basel Spalen take care of your pet's health.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1vms8ayyCnzRKKMc8smwC1/5cb5b86e92c0c76a88e577f40e89d6c2/Platzhalter.jpg"
+  },
+  "/locations/kleintierpraxis-stansstad": {
+    "title": "VetTrust Kleintierpraxis Stansstad",
+    "description": "VetTrust small animal practice Stansstad: Your pet is in good hands with us. Our competent vets look after the well-being of your four-legged friend.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6qS7TJMBdL3vNi1UsWj6X7/b3ec8e3e0d87df90c0b6bfca858ae2e8/Stansstad.JPEG"
+  },
+  "/locations/kleintierpraxis-oensingen": {
+    "title": "VetTrust Kleintierpraxis Oensingen",
+    "description": "The VetTrust small animal practice & cat hotel Oensingen. We take care of your pet's health. Cats can also stay overnight with us.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6BTL7AwfFVA4QOmY1dVpEl/e7f8018fc49e74e0ade51c2010eaf6dd/Oensingen__2_.JPEG"
+  },
+  "/locations/kleintierpraxis-basel-central": {
+    "title": "VetTrust Kleintierpraxis Basel Central",
+    "description": "Our VetTrust small animal practice in Basel offers your pet the best health care. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1AyygPhnKIWKudzyl2YnJM/c14126a454fd1373e8920bc8b9d89a82/Praxisfoto_Basel_Central-2.jpg"
+  },
+  "/locations/kleintierpraxis-wettingen": {
+    "title": "VetTrust Kleintierpraxis Wettingen",
+    "description": "Your pet is close to our hearts. The VetTrust small animal practice in Wettingen convinces with its competent veterinarians.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5EByfjvR0hcb81Z6mTqMKE/1ef399a239d168a9a00da59d6b190f53/Wettingen_aussen.JPEG"
+  },
+  "/locations/petsalon-hundecoiffeur-kuessnacht": {
+    "title": "VetTrust PetSalon Küssnacht",
+    "description": "The VetTrust PetSalon Küssnacht is your professional cat & dog groomer. We take care of your pet's grooming needs. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1vms8ayyCnzRKKMc8smwC1/5cb5b86e92c0c76a88e577f40e89d6c2/Platzhalter.jpg"
+  },
+  "/locations/petsalon-hundecoiffeur-zug": {
+    "title": "VetTrust PetSalon Zug",
+    "description": "Our cat & dog groomers at VetTrust PetSalon in Zug offer professional grooming for your four-legged friend.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/68w3tnIbEKqPL7rFhdXc4z/a1c5a3f22a9631b39759a5c76c822c96/Platzhalter2.jpeg"
+  },
+  "/locations/tierklinik-oberland-pfaeffikon": {
+    "title": "VetTrust Tierklinik Oberland Pfäffikon",
+    "description": "Whether large or small, at the VetTrust Veterinary Clinic Oberland Pfäffikon, competent veterinarians take care of your pet. Book an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6OpGbANqOiobiq6486QBFx/24123a61730e9deb5d4ec23d8ba69d26/Pf__ffikon.JPEG"
+  },
+  "/locations/kleintierpraxis-aabach-uster": {
+    "title": "VetTrust Kleintierpraxis Aabach Uster",
+    "description": "Your VetTrust small animal practice in Aabach Uster: Whether cat, dog or hamster, our vets will take care of your pet's health.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2JCfaJcKvUrqgChgZXSATY/51de5652a3b11bd296fecbe71df0a622/Uster.jpeg"
+  },
+  "/locations/kleintierklinik-am-damm-gossau": {
+    "title": "VetTrust Kleintierklinik am Damm Gossau",
+    "description": "The VetTrust small animal practice at Damm Gossau - whether cat, dog or canary, we care for the health of your pet. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4jgxjrZAAtZIWOtwGMLChK/aa48e664643a06484341eaebac46fc89/Gossau_Empfang__2_.jpg"
+  },
+  "/locations/zentrum-tiermedizin-klettgau": {
+    "title": "VetTrust Zentrum für Tiermedizin Klettgau",
+    "description": "The VetTrust Centre for Veterinary Medicine in Klettgau is there for you and your pet. We care for the health of your pet. Book an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/kVsz2Jad8xvtAdwg5M2fb/db49eb82af66b0d9da9eab711804db59/Klettgau_Aussen.jpg"
+  },
+  "/locations/kleintierpraxis-glattbrugg": {
+    "title": "VetTrust Kleintierpraxis Glattbrugg",
+    "description": "The VetTrust small animal practice in Glattbrugg offers comprehensive health care for your pet. Simply book an appointment online now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WnEsjYhMvF7So528732o7/2af39e4f1370ff501830362a93742b63/Platzhalter_3.JPEG"
+  },
+  "/locations/kleintierpraxis-zuzwil": {
+    "title": "VetTrust Kleintierpraxis Zuzwil",
+    "description": "The best for your pet's well-being. The vets at the VetTrust small animal practice in Zuzwil take care of your pet's health.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5YnK4bI7h3nLfqmnjHmujr/491fa744a23dcfa3e330b9f8729504e9/Zuzwil.jpeg"
+  },
+  "/locations/kleintierpraxis-therwil": {
+    "title": "VetTrust Kleintierpraxis Therwil",
+    "description": "The VetTrust small animal practice Therwil: your competent veterinary practice for the health of your pet. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WnEsjYhMvF7So528732o7/2af39e4f1370ff501830362a93742b63/Platzhalter_3.JPEG"
+  },
+  "/locations/kleintierpraxis-aarau": {
+    "title": "VetTrust Kleintierpraxis Telli Aarau",
+    "description": "The VetTrust small animal practice Telli Aarau - whether dog,cat or any other pet, our vets are there for you & your pet with heart.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1ZKbt36kq0YPKl7GeXvW3/f2e34f3e00add44d4529a0cab7c78db5/Aarau_Aussen.jpeg"
+  },
+  "/locations/petsalon-hundecoiffeur-zuzwil": {
+    "title": "VetTrust PetSalon Zuzwil",
+    "description": "For the medical and professional care of your dog or cat, we are here for you. Book an appointment directly online now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3Yytwo6szJ4Mq0eAkVwA3H/7773af1464a88f7e8ce3b90ab8cfe17c/ZuzwilPetSalon.jpeg"
+  },
+  "/locations/clinica-alpina-tierhotel-ramosch": {
+    "title": "Tierhotel Clinica Alpina Ramosch",
+    "description": "Welcome at Clinica Alpina pet hotel Ramosch! ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5P30Vgp5fR0TbcOKdeLd2W/22e65fb1fb8819235847c9df9ef04b58/HeroImage_Tierhotel_Ramosch_tinified.png"
+  },
+  "/locations/kleintierpraxis-guemligen": {
+    "title": "VetTrust Kleintierpraxis Gümligen",
+    "description": "Whether cat, dog or another pet, at the VetTrust small animal practice Gümligen you will find competent veterinarians for your four-legged friend.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/63dgoHufXVcW9mHBKjSJeN/c5589cd075a6239cc61987b851d982e8/Guemligen1_Web.jpg"
+  },
+  "/locations/kleintierpraxis-trimbach": {
+    "title": "VetTrust Kleintierpraxis Trimbach",
+    "description": "Only the best for your pet. The vets at the VetTrust small animal practice in Trimbach take care of the health of your cat, dog & co.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WWt0F8oJIDWt9LnLRriRu/42c875e283ead2699e261c4dc5cbe45b/Trimbach.JPEG"
+  },
+  "/locations/kleintierpraxis-turbenthal": {
+    "title": "VetTrust Kleintierpraxis Turbenthal",
+    "description": "VetTrust small animal practice Turbenthal: We are at your and your pet's side with competent veterinarians.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/S1uZmYpyscVgJlkwGx9ho/01c9dc6ed2588a8c77c1f0e468949268/Turbenthal.jpg"
+  },
+  "/locations/kleintierpraxis-faellanden/team": {
+    "title": "VetTrust Kleintierpraxis Fällanden - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/464Ow9IHCNpL9dqKowpcOz/fc3eff563626d736804640d5fc7da7b0/F__llanden.JPEG"
+  },
+  "/locations/kleintierpraxis-eschenbach/team": {
+    "title": "VetTrust Kleintierpraxis Bachmatt Eschenbach - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/68w3tnIbEKqPL7rFhdXc4z/a1c5a3f22a9631b39759a5c76c822c96/Platzhalter2.jpeg"
+  },
+  "/locations/tierklinik-nesslau/team": {
+    "title": "VetTrust Tierklinik Nesslau - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1bDmQKvKlsdSs41nB2d0hW/033bdf5273faca02b56206c21c735e3b/Nesslau.JPEG"
+  },
+  "/locations/tierklinik-zuerich-ost/team": {
+    "title": "VetTrust Tierklinik Zürich Ost - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1eAC6VAY3lZREDDjxZJnqD/345c164d71b6b1c44447099f8a107868/Z__rich_Ost.jpg"
+  },
+  "/locations/kleintierpraxis-st-gallen-ost/team": {
+    "title": "VetTrust Kleintierpraxis St. Gallen Ost - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2thnYz8rBIJ8AkizDaNXom/73f75bf129c2432afa957c52419ff345/StGallen.jpeg"
+  },
+  "/locations/tierklinik-basel/team": {
+    "title": "VetTrust Tierklinik Basel - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2hr6zmjbD2lY76n31M8hza/92bb0bb122d0d796ff7812dd14dd9ef3/My-Photo__MYP6058-2.jpg"
+  },
+  "/locations/kleintierpraxis-kuessnacht/team": {
+    "title": "VetTrust Kleintierpraxis Küssnacht am Rigi - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4ZTI1ZPGfjfYCyWp8rPmES/7bd5781080c1e739c28392f67c9f50f9/K__ssnacht_Praxis_verbessert-2.jpeg"
+  },
+  "/locations/kleintierpraxis-oftringen/team": {
+    "title": "VetTrust Kleintierpraxis Mühlebach Oftringen - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/27FXWGMxRsEmtfdxUuNHIm/98bd08921fd11b3f1822868e2b5fd839/Oftringen2.JPEG"
+  },
+  "/locations/kleintierpraxis-muenchenstein/team": {
+    "title": "VetTrust Kleintierpraxis Münchenstein  - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2hr6zmjbD2lY76n31M8hza/92bb0bb122d0d796ff7812dd14dd9ef3/My-Photo__MYP6058-2.jpg"
+  },
+  "/locations/katzenhotel-oensingen/team": {
+    "title": "VetTrust Katzenhotel Oensingen - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1W4R9H90IO8VuwOVCWsd1S/041deb979cd37357034897c1e961336e/MicrosoftTeams-image__8_.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-celerina/team": {
+    "title": "Tierklinik Clinica Alpina Celerina (former Samedan) - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2A5Uo3MOl0d6FBfNAUKyEG/69ea275648e60f4cc6a3acb1c7d16c5a/IMG_0504.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-scuol/team": {
+    "title": "Tierklinik Clinica Alpina Scuol - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/0QvC15IzGv4Vg7ohWAfLO/1b62207d73d9f7b0a0342f67df167545/ClinicaAlpinaGeb__ude3.JPG"
+  },
+  "/locations/kleintierpraxis-buelach/team": {
+    "title": "VetTrust Kleintierpraxis Bülach - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5HE6WkCauqNVBOTSe9QF9L/ddf55ac9a1ccc9fc0952b48a078cd173/Bu__lach_Empfang_1.jpeg"
+  },
+  "/locations/tierklinik-oberland-saland/team": {
+    "title": "VetTrust Tierklinik Oberland Saland - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1FzecsxOsn4cETZrD1c8bR/2de6cc003d4c9bc10a3e71339542aa90/Saland.jpeg"
+  },
+  "/locations/kleintierpraxis-regensdorf/team": {
+    "title": "VetTrust Kleintierpraxis Regensdorf - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1dR3KeEotCqtYRmA4RsaQP/8433b46e0bc2be3ff8d64c043d3f1930/Regensdorf.jpeg"
+  },
+  "/locations/kleintierpraxis-au/team": {
+    "title": "VetTrust Kleintierpraxis Au - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1SzYT9tXQrqgh9ZFOyFmT7/0e7d8f7f3094d3671abe01e98de86d1c/Au.jpeg"
+  },
+  "/locations/kleintierpraxis-winterthur-zentrum/team": {
+    "title": "VetTrust Kleintierpraxis Winterthur im Zentrum - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1bJRvIHAhticPDdXxbjwAr/731b74445a833d81e734214ee2620d0f/2T0A5819.jpg"
+  },
+  "/locations/kleintierpraxis-schlieren/team": {
+    "title": "VetTrust Kleintierpraxis Schlieren - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2gx7gD55zXLCkWXeTwEMIa/8bb7513089b5ba11b76c9b1cef2aed28/Schlieren.JPEG"
+  },
+  "/locations/flints-praxis-fuer-kleintiere/team": {
+    "title": "Flint's Praxis für Kleintiere - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/72vMcs7WH3aklLccytu2YF/50ffc45d9ac4fe4686c14b7fb6c4dabd/My-Photo__MYP1909-i-1__1_.jpg"
+  },
+  "/locations/kleintierpraxis-muri/team": {
+    "title": "VetTrust Kleintierpraxis Muri - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2VzzkolANmbEHV6RBloGGE/9fd957d8e571af8fe72c408e0fa6ce0d/Muri_Praxisfoto_Oktober_2022.jpeg"
+  },
+  "/locations/kleintierpraxis-zug/team": {
+    "title": "VetTrust Kleintierpraxis Zug - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1NKwZFvuSH73GLWjg2DTFL/0045f1bfdc10ea3143c55748c5550c67/Zug.JPEG"
+  },
+  "/locations/kleintierpraxis-basel-spalen/team": {
+    "title": "VetTrust Kleintierpraxis Basel Spalen - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1vms8ayyCnzRKKMc8smwC1/5cb5b86e92c0c76a88e577f40e89d6c2/Platzhalter.jpg"
+  },
+  "/locations/kleintierpraxis-stansstad/team": {
+    "title": "VetTrust Kleintierpraxis Stansstad - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6qS7TJMBdL3vNi1UsWj6X7/b3ec8e3e0d87df90c0b6bfca858ae2e8/Stansstad.JPEG"
+  },
+  "/locations/kleintierpraxis-oensingen/team": {
+    "title": "VetTrust Kleintierpraxis Oensingen - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6BTL7AwfFVA4QOmY1dVpEl/e7f8018fc49e74e0ade51c2010eaf6dd/Oensingen__2_.JPEG"
+  },
+  "/locations/kleintierpraxis-basel-central/team": {
+    "title": "VetTrust Kleintierpraxis Basel Central - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1AyygPhnKIWKudzyl2YnJM/c14126a454fd1373e8920bc8b9d89a82/Praxisfoto_Basel_Central-2.jpg"
+  },
+  "/locations/kleintierpraxis-wettingen/team": {
+    "title": "VetTrust Kleintierpraxis Wettingen - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5EByfjvR0hcb81Z6mTqMKE/1ef399a239d168a9a00da59d6b190f53/Wettingen_aussen.JPEG"
+  },
+  "/locations/petsalon-hundecoiffeur-kuessnacht/team": {
+    "title": "VetTrust PetSalon Küssnacht - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1vms8ayyCnzRKKMc8smwC1/5cb5b86e92c0c76a88e577f40e89d6c2/Platzhalter.jpg"
+  },
+  "/locations/petsalon-hundecoiffeur-zug/team": {
+    "title": "VetTrust PetSalon Zug - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/68w3tnIbEKqPL7rFhdXc4z/a1c5a3f22a9631b39759a5c76c822c96/Platzhalter2.jpeg"
+  },
+  "/locations/tierklinik-oberland-pfaeffikon/team": {
+    "title": "VetTrust Tierklinik Oberland Pfäffikon - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6OpGbANqOiobiq6486QBFx/24123a61730e9deb5d4ec23d8ba69d26/Pf__ffikon.JPEG"
+  },
+  "/locations/kleintierpraxis-aabach-uster/team": {
+    "title": "VetTrust Kleintierpraxis Aabach Uster - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2JCfaJcKvUrqgChgZXSATY/51de5652a3b11bd296fecbe71df0a622/Uster.jpeg"
+  },
+  "/locations/kleintierklinik-am-damm-gossau/team": {
+    "title": "VetTrust Kleintierklinik am Damm Gossau - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4jgxjrZAAtZIWOtwGMLChK/aa48e664643a06484341eaebac46fc89/Gossau_Empfang__2_.jpg"
+  },
+  "/locations/zentrum-tiermedizin-klettgau/team": {
+    "title": "VetTrust Zentrum für Tiermedizin Klettgau - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/kVsz2Jad8xvtAdwg5M2fb/db49eb82af66b0d9da9eab711804db59/Klettgau_Aussen.jpg"
+  },
+  "/locations/kleintierpraxis-glattbrugg/team": {
+    "title": "VetTrust Kleintierpraxis Glattbrugg - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WnEsjYhMvF7So528732o7/2af39e4f1370ff501830362a93742b63/Platzhalter_3.JPEG"
+  },
+  "/locations/kleintierpraxis-zuzwil/team": {
+    "title": "VetTrust Kleintierpraxis Zuzwil - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5YnK4bI7h3nLfqmnjHmujr/491fa744a23dcfa3e330b9f8729504e9/Zuzwil.jpeg"
+  },
+  "/locations/kleintierpraxis-therwil/team": {
+    "title": "VetTrust Kleintierpraxis Therwil - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WnEsjYhMvF7So528732o7/2af39e4f1370ff501830362a93742b63/Platzhalter_3.JPEG"
+  },
+  "/locations/kleintierpraxis-aarau/team": {
+    "title": "VetTrust Kleintierpraxis Telli Aarau - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1ZKbt36kq0YPKl7GeXvW3/f2e34f3e00add44d4529a0cab7c78db5/Aarau_Aussen.jpeg"
+  },
+  "/locations/petsalon-hundecoiffeur-zuzwil/team": {
+    "title": "VetTrust PetSalon Zuzwil - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3Yytwo6szJ4Mq0eAkVwA3H/7773af1464a88f7e8ce3b90ab8cfe17c/ZuzwilPetSalon.jpeg"
+  },
+  "/locations/clinica-alpina-tierhotel-ramosch/team": {
+    "title": "Tierhotel Clinica Alpina Ramosch - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5P30Vgp5fR0TbcOKdeLd2W/22e65fb1fb8819235847c9df9ef04b58/HeroImage_Tierhotel_Ramosch_tinified.png"
+  },
+  "/locations/kleintierpraxis-guemligen/team": {
+    "title": "VetTrust Kleintierpraxis Gümligen - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/63dgoHufXVcW9mHBKjSJeN/c5589cd075a6239cc61987b851d982e8/Guemligen1_Web.jpg"
+  },
+  "/locations/kleintierpraxis-trimbach/team": {
+    "title": "VetTrust Kleintierpraxis Trimbach - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WWt0F8oJIDWt9LnLRriRu/42c875e283ead2699e261c4dc5cbe45b/Trimbach.JPEG"
+  },
+  "/locations/kleintierpraxis-turbenthal/team": {
+    "title": "VetTrust Kleintierpraxis Turbenthal - Our Team",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/S1uZmYpyscVgJlkwGx9ho/01c9dc6ed2588a8c77c1f0e468949268/Turbenthal.jpg"
+  },
+  "/locations/kleintierpraxis-faellanden/services": {
+    "title": "VetTrust Kleintierpraxis Fällanden - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/464Ow9IHCNpL9dqKowpcOz/fc3eff563626d736804640d5fc7da7b0/F__llanden.JPEG"
+  },
+  "/locations/kleintierpraxis-eschenbach/services": {
+    "title": "VetTrust Kleintierpraxis Bachmatt Eschenbach - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/68w3tnIbEKqPL7rFhdXc4z/a1c5a3f22a9631b39759a5c76c822c96/Platzhalter2.jpeg"
+  },
+  "/locations/tierklinik-nesslau/services": {
+    "title": "VetTrust Tierklinik Nesslau - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1bDmQKvKlsdSs41nB2d0hW/033bdf5273faca02b56206c21c735e3b/Nesslau.JPEG"
+  },
+  "/locations/tierklinik-zuerich-ost/services": {
+    "title": "VetTrust Tierklinik Zürich Ost - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1eAC6VAY3lZREDDjxZJnqD/345c164d71b6b1c44447099f8a107868/Z__rich_Ost.jpg"
+  },
+  "/locations/kleintierpraxis-st-gallen-ost/services": {
+    "title": "VetTrust Kleintierpraxis St. Gallen Ost - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2thnYz8rBIJ8AkizDaNXom/73f75bf129c2432afa957c52419ff345/StGallen.jpeg"
+  },
+  "/locations/tierklinik-basel/services": {
+    "title": "VetTrust Tierklinik Basel - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2hr6zmjbD2lY76n31M8hza/92bb0bb122d0d796ff7812dd14dd9ef3/My-Photo__MYP6058-2.jpg"
+  },
+  "/locations/kleintierpraxis-kuessnacht/services": {
+    "title": "VetTrust Kleintierpraxis Küssnacht am Rigi - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4ZTI1ZPGfjfYCyWp8rPmES/7bd5781080c1e739c28392f67c9f50f9/K__ssnacht_Praxis_verbessert-2.jpeg"
+  },
+  "/locations/kleintierpraxis-oftringen/services": {
+    "title": "VetTrust Kleintierpraxis Mühlebach Oftringen - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/27FXWGMxRsEmtfdxUuNHIm/98bd08921fd11b3f1822868e2b5fd839/Oftringen2.JPEG"
+  },
+  "/locations/kleintierpraxis-muenchenstein/services": {
+    "title": "VetTrust Kleintierpraxis Münchenstein  - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2hr6zmjbD2lY76n31M8hza/92bb0bb122d0d796ff7812dd14dd9ef3/My-Photo__MYP6058-2.jpg"
+  },
+  "/locations/katzenhotel-oensingen/services": {
+    "title": "VetTrust Katzenhotel Oensingen - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1W4R9H90IO8VuwOVCWsd1S/041deb979cd37357034897c1e961336e/MicrosoftTeams-image__8_.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-celerina/services": {
+    "title": "Tierklinik Clinica Alpina Celerina (former Samedan) - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2A5Uo3MOl0d6FBfNAUKyEG/69ea275648e60f4cc6a3acb1c7d16c5a/IMG_0504.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-scuol/services": {
+    "title": "Tierklinik Clinica Alpina Scuol - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/0QvC15IzGv4Vg7ohWAfLO/1b62207d73d9f7b0a0342f67df167545/ClinicaAlpinaGeb__ude3.JPG"
+  },
+  "/locations/kleintierpraxis-buelach/services": {
+    "title": "VetTrust Kleintierpraxis Bülach - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5HE6WkCauqNVBOTSe9QF9L/ddf55ac9a1ccc9fc0952b48a078cd173/Bu__lach_Empfang_1.jpeg"
+  },
+  "/locations/tierklinik-oberland-saland/services": {
+    "title": "VetTrust Tierklinik Oberland Saland - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1FzecsxOsn4cETZrD1c8bR/2de6cc003d4c9bc10a3e71339542aa90/Saland.jpeg"
+  },
+  "/locations/kleintierpraxis-regensdorf/services": {
+    "title": "VetTrust Kleintierpraxis Regensdorf - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1dR3KeEotCqtYRmA4RsaQP/8433b46e0bc2be3ff8d64c043d3f1930/Regensdorf.jpeg"
+  },
+  "/locations/kleintierpraxis-au/services": {
+    "title": "VetTrust Kleintierpraxis Au - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1SzYT9tXQrqgh9ZFOyFmT7/0e7d8f7f3094d3671abe01e98de86d1c/Au.jpeg"
+  },
+  "/locations/kleintierpraxis-winterthur-zentrum/services": {
+    "title": "VetTrust Kleintierpraxis Winterthur im Zentrum - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1bJRvIHAhticPDdXxbjwAr/731b74445a833d81e734214ee2620d0f/2T0A5819.jpg"
+  },
+  "/locations/kleintierpraxis-schlieren/services": {
+    "title": "VetTrust Kleintierpraxis Schlieren - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2gx7gD55zXLCkWXeTwEMIa/8bb7513089b5ba11b76c9b1cef2aed28/Schlieren.JPEG"
+  },
+  "/locations/flints-praxis-fuer-kleintiere/services": {
+    "title": "Flint's Praxis für Kleintiere - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/72vMcs7WH3aklLccytu2YF/50ffc45d9ac4fe4686c14b7fb6c4dabd/My-Photo__MYP1909-i-1__1_.jpg"
+  },
+  "/locations/kleintierpraxis-muri/services": {
+    "title": "VetTrust Kleintierpraxis Muri - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2VzzkolANmbEHV6RBloGGE/9fd957d8e571af8fe72c408e0fa6ce0d/Muri_Praxisfoto_Oktober_2022.jpeg"
+  },
+  "/locations/kleintierpraxis-zug/services": {
+    "title": "VetTrust Kleintierpraxis Zug - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1NKwZFvuSH73GLWjg2DTFL/0045f1bfdc10ea3143c55748c5550c67/Zug.JPEG"
+  },
+  "/locations/kleintierpraxis-basel-spalen/services": {
+    "title": "VetTrust Kleintierpraxis Basel Spalen - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1vms8ayyCnzRKKMc8smwC1/5cb5b86e92c0c76a88e577f40e89d6c2/Platzhalter.jpg"
+  },
+  "/locations/kleintierpraxis-stansstad/services": {
+    "title": "VetTrust Kleintierpraxis Stansstad - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6qS7TJMBdL3vNi1UsWj6X7/b3ec8e3e0d87df90c0b6bfca858ae2e8/Stansstad.JPEG"
+  },
+  "/locations/kleintierpraxis-oensingen/services": {
+    "title": "VetTrust Kleintierpraxis Oensingen - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6BTL7AwfFVA4QOmY1dVpEl/e7f8018fc49e74e0ade51c2010eaf6dd/Oensingen__2_.JPEG"
+  },
+  "/locations/kleintierpraxis-basel-central/services": {
+    "title": "VetTrust Kleintierpraxis Basel Central - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1AyygPhnKIWKudzyl2YnJM/c14126a454fd1373e8920bc8b9d89a82/Praxisfoto_Basel_Central-2.jpg"
+  },
+  "/locations/kleintierpraxis-wettingen/services": {
+    "title": "VetTrust Kleintierpraxis Wettingen - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5EByfjvR0hcb81Z6mTqMKE/1ef399a239d168a9a00da59d6b190f53/Wettingen_aussen.JPEG"
+  },
+  "/locations/petsalon-hundecoiffeur-kuessnacht/services": {
+    "title": "VetTrust PetSalon Küssnacht - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1vms8ayyCnzRKKMc8smwC1/5cb5b86e92c0c76a88e577f40e89d6c2/Platzhalter.jpg"
+  },
+  "/locations/petsalon-hundecoiffeur-zug/services": {
+    "title": "VetTrust PetSalon Zug - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/68w3tnIbEKqPL7rFhdXc4z/a1c5a3f22a9631b39759a5c76c822c96/Platzhalter2.jpeg"
+  },
+  "/locations/tierklinik-oberland-pfaeffikon/services": {
+    "title": "VetTrust Tierklinik Oberland Pfäffikon - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6OpGbANqOiobiq6486QBFx/24123a61730e9deb5d4ec23d8ba69d26/Pf__ffikon.JPEG"
+  },
+  "/locations/kleintierpraxis-aabach-uster/services": {
+    "title": "VetTrust Kleintierpraxis Aabach Uster - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2JCfaJcKvUrqgChgZXSATY/51de5652a3b11bd296fecbe71df0a622/Uster.jpeg"
+  },
+  "/locations/kleintierklinik-am-damm-gossau/services": {
+    "title": "VetTrust Kleintierklinik am Damm Gossau - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4jgxjrZAAtZIWOtwGMLChK/aa48e664643a06484341eaebac46fc89/Gossau_Empfang__2_.jpg"
+  },
+  "/locations/zentrum-tiermedizin-klettgau/services": {
+    "title": "VetTrust Zentrum für Tiermedizin Klettgau - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/kVsz2Jad8xvtAdwg5M2fb/db49eb82af66b0d9da9eab711804db59/Klettgau_Aussen.jpg"
+  },
+  "/locations/kleintierpraxis-glattbrugg/services": {
+    "title": "VetTrust Kleintierpraxis Glattbrugg - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WnEsjYhMvF7So528732o7/2af39e4f1370ff501830362a93742b63/Platzhalter_3.JPEG"
+  },
+  "/locations/kleintierpraxis-zuzwil/services": {
+    "title": "VetTrust Kleintierpraxis Zuzwil - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5YnK4bI7h3nLfqmnjHmujr/491fa744a23dcfa3e330b9f8729504e9/Zuzwil.jpeg"
+  },
+  "/locations/kleintierpraxis-therwil/services": {
+    "title": "VetTrust Kleintierpraxis Therwil - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WnEsjYhMvF7So528732o7/2af39e4f1370ff501830362a93742b63/Platzhalter_3.JPEG"
+  },
+  "/locations/kleintierpraxis-aarau/services": {
+    "title": "VetTrust Kleintierpraxis Telli Aarau - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1ZKbt36kq0YPKl7GeXvW3/f2e34f3e00add44d4529a0cab7c78db5/Aarau_Aussen.jpeg"
+  },
+  "/locations/petsalon-hundecoiffeur-zuzwil/services": {
+    "title": "VetTrust PetSalon Zuzwil - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3Yytwo6szJ4Mq0eAkVwA3H/7773af1464a88f7e8ce3b90ab8cfe17c/ZuzwilPetSalon.jpeg"
+  },
+  "/locations/clinica-alpina-tierhotel-ramosch/services": {
+    "title": "Tierhotel Clinica Alpina Ramosch - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5P30Vgp5fR0TbcOKdeLd2W/22e65fb1fb8819235847c9df9ef04b58/HeroImage_Tierhotel_Ramosch_tinified.png"
+  },
+  "/locations/kleintierpraxis-guemligen/services": {
+    "title": "VetTrust Kleintierpraxis Gümligen - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/63dgoHufXVcW9mHBKjSJeN/c5589cd075a6239cc61987b851d982e8/Guemligen1_Web.jpg"
+  },
+  "/locations/kleintierpraxis-trimbach/services": {
+    "title": "VetTrust Kleintierpraxis Trimbach - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WWt0F8oJIDWt9LnLRriRu/42c875e283ead2699e261c4dc5cbe45b/Trimbach.JPEG"
+  },
+  "/locations/kleintierpraxis-turbenthal/services": {
+    "title": "VetTrust Kleintierpraxis Turbenthal - Our Services",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/S1uZmYpyscVgJlkwGx9ho/01c9dc6ed2588a8c77c1f0e468949268/Turbenthal.jpg"
+  },
+  "/locations/kleintierpraxis-faellanden/for-vets": {
+    "title": "VetTrust Kleintierpraxis Fällanden - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/464Ow9IHCNpL9dqKowpcOz/fc3eff563626d736804640d5fc7da7b0/F__llanden.JPEG"
+  },
+  "/locations/kleintierpraxis-eschenbach/for-vets": {
+    "title": "VetTrust Kleintierpraxis Bachmatt Eschenbach - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/68w3tnIbEKqPL7rFhdXc4z/a1c5a3f22a9631b39759a5c76c822c96/Platzhalter2.jpeg"
+  },
+  "/locations/tierklinik-nesslau/for-vets": {
+    "title": "VetTrust Tierklinik Nesslau - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1bDmQKvKlsdSs41nB2d0hW/033bdf5273faca02b56206c21c735e3b/Nesslau.JPEG"
+  },
+  "/locations/tierklinik-zuerich-ost/for-vets": {
+    "title": "VetTrust Tierklinik Zürich Ost - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1eAC6VAY3lZREDDjxZJnqD/345c164d71b6b1c44447099f8a107868/Z__rich_Ost.jpg"
+  },
+  "/locations/kleintierpraxis-st-gallen-ost/for-vets": {
+    "title": "VetTrust Kleintierpraxis St. Gallen Ost - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2thnYz8rBIJ8AkizDaNXom/73f75bf129c2432afa957c52419ff345/StGallen.jpeg"
+  },
+  "/locations/tierklinik-basel/for-vets": {
+    "title": "VetTrust Tierklinik Basel - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2hr6zmjbD2lY76n31M8hza/92bb0bb122d0d796ff7812dd14dd9ef3/My-Photo__MYP6058-2.jpg"
+  },
+  "/locations/kleintierpraxis-kuessnacht/for-vets": {
+    "title": "VetTrust Kleintierpraxis Küssnacht am Rigi - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4ZTI1ZPGfjfYCyWp8rPmES/7bd5781080c1e739c28392f67c9f50f9/K__ssnacht_Praxis_verbessert-2.jpeg"
+  },
+  "/locations/kleintierpraxis-oftringen/for-vets": {
+    "title": "VetTrust Kleintierpraxis Mühlebach Oftringen - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/27FXWGMxRsEmtfdxUuNHIm/98bd08921fd11b3f1822868e2b5fd839/Oftringen2.JPEG"
+  },
+  "/locations/kleintierpraxis-muenchenstein/for-vets": {
+    "title": "VetTrust Kleintierpraxis Münchenstein  - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2hr6zmjbD2lY76n31M8hza/92bb0bb122d0d796ff7812dd14dd9ef3/My-Photo__MYP6058-2.jpg"
+  },
+  "/locations/katzenhotel-oensingen/for-vets": {
+    "title": "VetTrust Katzenhotel Oensingen - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1W4R9H90IO8VuwOVCWsd1S/041deb979cd37357034897c1e961336e/MicrosoftTeams-image__8_.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-celerina/for-vets": {
+    "title": "Tierklinik Clinica Alpina Celerina (former Samedan) - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2A5Uo3MOl0d6FBfNAUKyEG/69ea275648e60f4cc6a3acb1c7d16c5a/IMG_0504.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-scuol/for-vets": {
+    "title": "Tierklinik Clinica Alpina Scuol - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/0QvC15IzGv4Vg7ohWAfLO/1b62207d73d9f7b0a0342f67df167545/ClinicaAlpinaGeb__ude3.JPG"
+  },
+  "/locations/kleintierpraxis-buelach/for-vets": {
+    "title": "VetTrust Kleintierpraxis Bülach - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5HE6WkCauqNVBOTSe9QF9L/ddf55ac9a1ccc9fc0952b48a078cd173/Bu__lach_Empfang_1.jpeg"
+  },
+  "/locations/tierklinik-oberland-saland/for-vets": {
+    "title": "VetTrust Tierklinik Oberland Saland - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1FzecsxOsn4cETZrD1c8bR/2de6cc003d4c9bc10a3e71339542aa90/Saland.jpeg"
+  },
+  "/locations/kleintierpraxis-regensdorf/for-vets": {
+    "title": "VetTrust Kleintierpraxis Regensdorf - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1dR3KeEotCqtYRmA4RsaQP/8433b46e0bc2be3ff8d64c043d3f1930/Regensdorf.jpeg"
+  },
+  "/locations/kleintierpraxis-au/for-vets": {
+    "title": "VetTrust Kleintierpraxis Au - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1SzYT9tXQrqgh9ZFOyFmT7/0e7d8f7f3094d3671abe01e98de86d1c/Au.jpeg"
+  },
+  "/locations/kleintierpraxis-winterthur-zentrum/for-vets": {
+    "title": "VetTrust Kleintierpraxis Winterthur im Zentrum - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1bJRvIHAhticPDdXxbjwAr/731b74445a833d81e734214ee2620d0f/2T0A5819.jpg"
+  },
+  "/locations/kleintierpraxis-schlieren/for-vets": {
+    "title": "VetTrust Kleintierpraxis Schlieren - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2gx7gD55zXLCkWXeTwEMIa/8bb7513089b5ba11b76c9b1cef2aed28/Schlieren.JPEG"
+  },
+  "/locations/flints-praxis-fuer-kleintiere/for-vets": {
+    "title": "Flint's Praxis für Kleintiere - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/72vMcs7WH3aklLccytu2YF/50ffc45d9ac4fe4686c14b7fb6c4dabd/My-Photo__MYP1909-i-1__1_.jpg"
+  },
+  "/locations/kleintierpraxis-muri/for-vets": {
+    "title": "VetTrust Kleintierpraxis Muri - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2VzzkolANmbEHV6RBloGGE/9fd957d8e571af8fe72c408e0fa6ce0d/Muri_Praxisfoto_Oktober_2022.jpeg"
+  },
+  "/locations/kleintierpraxis-zug/for-vets": {
+    "title": "VetTrust Kleintierpraxis Zug - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1NKwZFvuSH73GLWjg2DTFL/0045f1bfdc10ea3143c55748c5550c67/Zug.JPEG"
+  },
+  "/locations/kleintierpraxis-basel-spalen/for-vets": {
+    "title": "VetTrust Kleintierpraxis Basel Spalen - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1vms8ayyCnzRKKMc8smwC1/5cb5b86e92c0c76a88e577f40e89d6c2/Platzhalter.jpg"
+  },
+  "/locations/kleintierpraxis-stansstad/for-vets": {
+    "title": "VetTrust Kleintierpraxis Stansstad - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6qS7TJMBdL3vNi1UsWj6X7/b3ec8e3e0d87df90c0b6bfca858ae2e8/Stansstad.JPEG"
+  },
+  "/locations/kleintierpraxis-oensingen/for-vets": {
+    "title": "VetTrust Kleintierpraxis Oensingen - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6BTL7AwfFVA4QOmY1dVpEl/e7f8018fc49e74e0ade51c2010eaf6dd/Oensingen__2_.JPEG"
+  },
+  "/locations/kleintierpraxis-basel-central/for-vets": {
+    "title": "VetTrust Kleintierpraxis Basel Central - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1AyygPhnKIWKudzyl2YnJM/c14126a454fd1373e8920bc8b9d89a82/Praxisfoto_Basel_Central-2.jpg"
+  },
+  "/locations/kleintierpraxis-wettingen/for-vets": {
+    "title": "VetTrust Kleintierpraxis Wettingen - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5EByfjvR0hcb81Z6mTqMKE/1ef399a239d168a9a00da59d6b190f53/Wettingen_aussen.JPEG"
+  },
+  "/locations/petsalon-hundecoiffeur-kuessnacht/for-vets": {
+    "title": "VetTrust PetSalon Küssnacht - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1vms8ayyCnzRKKMc8smwC1/5cb5b86e92c0c76a88e577f40e89d6c2/Platzhalter.jpg"
+  },
+  "/locations/petsalon-hundecoiffeur-zug/for-vets": {
+    "title": "VetTrust PetSalon Zug - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/68w3tnIbEKqPL7rFhdXc4z/a1c5a3f22a9631b39759a5c76c822c96/Platzhalter2.jpeg"
+  },
+  "/locations/tierklinik-oberland-pfaeffikon/for-vets": {
+    "title": "VetTrust Tierklinik Oberland Pfäffikon - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6OpGbANqOiobiq6486QBFx/24123a61730e9deb5d4ec23d8ba69d26/Pf__ffikon.JPEG"
+  },
+  "/locations/kleintierpraxis-aabach-uster/for-vets": {
+    "title": "VetTrust Kleintierpraxis Aabach Uster - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2JCfaJcKvUrqgChgZXSATY/51de5652a3b11bd296fecbe71df0a622/Uster.jpeg"
+  },
+  "/locations/kleintierklinik-am-damm-gossau/for-vets": {
+    "title": "VetTrust Kleintierklinik am Damm Gossau - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4jgxjrZAAtZIWOtwGMLChK/aa48e664643a06484341eaebac46fc89/Gossau_Empfang__2_.jpg"
+  },
+  "/locations/zentrum-tiermedizin-klettgau/for-vets": {
+    "title": "VetTrust Zentrum für Tiermedizin Klettgau - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/kVsz2Jad8xvtAdwg5M2fb/db49eb82af66b0d9da9eab711804db59/Klettgau_Aussen.jpg"
+  },
+  "/locations/kleintierpraxis-glattbrugg/for-vets": {
+    "title": "VetTrust Kleintierpraxis Glattbrugg - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WnEsjYhMvF7So528732o7/2af39e4f1370ff501830362a93742b63/Platzhalter_3.JPEG"
+  },
+  "/locations/kleintierpraxis-zuzwil/for-vets": {
+    "title": "VetTrust Kleintierpraxis Zuzwil - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5YnK4bI7h3nLfqmnjHmujr/491fa744a23dcfa3e330b9f8729504e9/Zuzwil.jpeg"
+  },
+  "/locations/kleintierpraxis-therwil/for-vets": {
+    "title": "VetTrust Kleintierpraxis Therwil - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WnEsjYhMvF7So528732o7/2af39e4f1370ff501830362a93742b63/Platzhalter_3.JPEG"
+  },
+  "/locations/kleintierpraxis-aarau/for-vets": {
+    "title": "VetTrust Kleintierpraxis Telli Aarau - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1ZKbt36kq0YPKl7GeXvW3/f2e34f3e00add44d4529a0cab7c78db5/Aarau_Aussen.jpeg"
+  },
+  "/locations/petsalon-hundecoiffeur-zuzwil/for-vets": {
+    "title": "VetTrust PetSalon Zuzwil - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3Yytwo6szJ4Mq0eAkVwA3H/7773af1464a88f7e8ce3b90ab8cfe17c/ZuzwilPetSalon.jpeg"
+  },
+  "/locations/clinica-alpina-tierhotel-ramosch/for-vets": {
+    "title": "Tierhotel Clinica Alpina Ramosch - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5P30Vgp5fR0TbcOKdeLd2W/22e65fb1fb8819235847c9df9ef04b58/HeroImage_Tierhotel_Ramosch_tinified.png"
+  },
+  "/locations/kleintierpraxis-guemligen/for-vets": {
+    "title": "VetTrust Kleintierpraxis Gümligen - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/63dgoHufXVcW9mHBKjSJeN/c5589cd075a6239cc61987b851d982e8/Guemligen1_Web.jpg"
+  },
+  "/locations/kleintierpraxis-trimbach/for-vets": {
+    "title": "VetTrust Kleintierpraxis Trimbach - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WWt0F8oJIDWt9LnLRriRu/42c875e283ead2699e261c4dc5cbe45b/Trimbach.JPEG"
+  },
+  "/locations/kleintierpraxis-turbenthal/for-vets": {
+    "title": "VetTrust Kleintierpraxis Turbenthal - For referring practices",
+    "description": "At VetTrust we value the good cooperation with colleagues inside and outside our group. The welfare of the animal enjoys the highest priority, therefore referrals are not subject to any conditions. We look forward to any form of collaboration.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/S1uZmYpyscVgJlkwGx9ho/01c9dc6ed2588a8c77c1f0e468949268/Turbenthal.jpg"
+  },
+  "/locations/kleintierpraxis-faellanden/departments": {
+    "title": "VetTrust Kleintierpraxis Fällanden - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/464Ow9IHCNpL9dqKowpcOz/fc3eff563626d736804640d5fc7da7b0/F__llanden.JPEG"
+  },
+  "/locations/kleintierpraxis-eschenbach/departments": {
+    "title": "VetTrust Kleintierpraxis Bachmatt Eschenbach - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/68w3tnIbEKqPL7rFhdXc4z/a1c5a3f22a9631b39759a5c76c822c96/Platzhalter2.jpeg"
+  },
+  "/locations/tierklinik-nesslau/departments": {
+    "title": "VetTrust Tierklinik Nesslau - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1bDmQKvKlsdSs41nB2d0hW/033bdf5273faca02b56206c21c735e3b/Nesslau.JPEG"
+  },
+  "/locations/tierklinik-zuerich-ost/departments": {
+    "title": "VetTrust Tierklinik Zürich Ost - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1eAC6VAY3lZREDDjxZJnqD/345c164d71b6b1c44447099f8a107868/Z__rich_Ost.jpg"
+  },
+  "/locations/kleintierpraxis-st-gallen-ost/departments": {
+    "title": "VetTrust Kleintierpraxis St. Gallen Ost - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2thnYz8rBIJ8AkizDaNXom/73f75bf129c2432afa957c52419ff345/StGallen.jpeg"
+  },
+  "/locations/tierklinik-basel/departments": {
+    "title": "VetTrust Tierklinik Basel - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2hr6zmjbD2lY76n31M8hza/92bb0bb122d0d796ff7812dd14dd9ef3/My-Photo__MYP6058-2.jpg"
+  },
+  "/locations/kleintierpraxis-kuessnacht/departments": {
+    "title": "VetTrust Kleintierpraxis Küssnacht am Rigi - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4ZTI1ZPGfjfYCyWp8rPmES/7bd5781080c1e739c28392f67c9f50f9/K__ssnacht_Praxis_verbessert-2.jpeg"
+  },
+  "/locations/kleintierpraxis-oftringen/departments": {
+    "title": "VetTrust Kleintierpraxis Mühlebach Oftringen - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/27FXWGMxRsEmtfdxUuNHIm/98bd08921fd11b3f1822868e2b5fd839/Oftringen2.JPEG"
+  },
+  "/locations/kleintierpraxis-muenchenstein/departments": {
+    "title": "VetTrust Kleintierpraxis Münchenstein  - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2hr6zmjbD2lY76n31M8hza/92bb0bb122d0d796ff7812dd14dd9ef3/My-Photo__MYP6058-2.jpg"
+  },
+  "/locations/katzenhotel-oensingen/departments": {
+    "title": "VetTrust Katzenhotel Oensingen - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1W4R9H90IO8VuwOVCWsd1S/041deb979cd37357034897c1e961336e/MicrosoftTeams-image__8_.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-celerina/departments": {
+    "title": "Tierklinik Clinica Alpina Celerina (former Samedan) - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2A5Uo3MOl0d6FBfNAUKyEG/69ea275648e60f4cc6a3acb1c7d16c5a/IMG_0504.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-scuol/departments": {
+    "title": "Tierklinik Clinica Alpina Scuol - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/0QvC15IzGv4Vg7ohWAfLO/1b62207d73d9f7b0a0342f67df167545/ClinicaAlpinaGeb__ude3.JPG"
+  },
+  "/locations/kleintierpraxis-buelach/departments": {
+    "title": "VetTrust Kleintierpraxis Bülach - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5HE6WkCauqNVBOTSe9QF9L/ddf55ac9a1ccc9fc0952b48a078cd173/Bu__lach_Empfang_1.jpeg"
+  },
+  "/locations/tierklinik-oberland-saland/departments": {
+    "title": "VetTrust Tierklinik Oberland Saland - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1FzecsxOsn4cETZrD1c8bR/2de6cc003d4c9bc10a3e71339542aa90/Saland.jpeg"
+  },
+  "/locations/kleintierpraxis-regensdorf/departments": {
+    "title": "VetTrust Kleintierpraxis Regensdorf - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1dR3KeEotCqtYRmA4RsaQP/8433b46e0bc2be3ff8d64c043d3f1930/Regensdorf.jpeg"
+  },
+  "/locations/kleintierpraxis-au/departments": {
+    "title": "VetTrust Kleintierpraxis Au - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1SzYT9tXQrqgh9ZFOyFmT7/0e7d8f7f3094d3671abe01e98de86d1c/Au.jpeg"
+  },
+  "/locations/kleintierpraxis-winterthur-zentrum/departments": {
+    "title": "VetTrust Kleintierpraxis Winterthur im Zentrum - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1bJRvIHAhticPDdXxbjwAr/731b74445a833d81e734214ee2620d0f/2T0A5819.jpg"
+  },
+  "/locations/kleintierpraxis-schlieren/departments": {
+    "title": "VetTrust Kleintierpraxis Schlieren - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2gx7gD55zXLCkWXeTwEMIa/8bb7513089b5ba11b76c9b1cef2aed28/Schlieren.JPEG"
+  },
+  "/locations/flints-praxis-fuer-kleintiere/departments": {
+    "title": "Flint's Praxis für Kleintiere - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/72vMcs7WH3aklLccytu2YF/50ffc45d9ac4fe4686c14b7fb6c4dabd/My-Photo__MYP1909-i-1__1_.jpg"
+  },
+  "/locations/kleintierpraxis-muri/departments": {
+    "title": "VetTrust Kleintierpraxis Muri - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2VzzkolANmbEHV6RBloGGE/9fd957d8e571af8fe72c408e0fa6ce0d/Muri_Praxisfoto_Oktober_2022.jpeg"
+  },
+  "/locations/kleintierpraxis-zug/departments": {
+    "title": "VetTrust Kleintierpraxis Zug - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1NKwZFvuSH73GLWjg2DTFL/0045f1bfdc10ea3143c55748c5550c67/Zug.JPEG"
+  },
+  "/locations/kleintierpraxis-basel-spalen/departments": {
+    "title": "VetTrust Kleintierpraxis Basel Spalen - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1vms8ayyCnzRKKMc8smwC1/5cb5b86e92c0c76a88e577f40e89d6c2/Platzhalter.jpg"
+  },
+  "/locations/kleintierpraxis-stansstad/departments": {
+    "title": "VetTrust Kleintierpraxis Stansstad - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6qS7TJMBdL3vNi1UsWj6X7/b3ec8e3e0d87df90c0b6bfca858ae2e8/Stansstad.JPEG"
+  },
+  "/locations/kleintierpraxis-oensingen/departments": {
+    "title": "VetTrust Kleintierpraxis Oensingen - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6BTL7AwfFVA4QOmY1dVpEl/e7f8018fc49e74e0ade51c2010eaf6dd/Oensingen__2_.JPEG"
+  },
+  "/locations/kleintierpraxis-basel-central/departments": {
+    "title": "VetTrust Kleintierpraxis Basel Central - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1AyygPhnKIWKudzyl2YnJM/c14126a454fd1373e8920bc8b9d89a82/Praxisfoto_Basel_Central-2.jpg"
+  },
+  "/locations/kleintierpraxis-wettingen/departments": {
+    "title": "VetTrust Kleintierpraxis Wettingen - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5EByfjvR0hcb81Z6mTqMKE/1ef399a239d168a9a00da59d6b190f53/Wettingen_aussen.JPEG"
+  },
+  "/locations/petsalon-hundecoiffeur-kuessnacht/departments": {
+    "title": "VetTrust PetSalon Küssnacht - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1vms8ayyCnzRKKMc8smwC1/5cb5b86e92c0c76a88e577f40e89d6c2/Platzhalter.jpg"
+  },
+  "/locations/petsalon-hundecoiffeur-zug/departments": {
+    "title": "VetTrust PetSalon Zug - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/68w3tnIbEKqPL7rFhdXc4z/a1c5a3f22a9631b39759a5c76c822c96/Platzhalter2.jpeg"
+  },
+  "/locations/tierklinik-oberland-pfaeffikon/departments": {
+    "title": "VetTrust Tierklinik Oberland Pfäffikon - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6OpGbANqOiobiq6486QBFx/24123a61730e9deb5d4ec23d8ba69d26/Pf__ffikon.JPEG"
+  },
+  "/locations/kleintierpraxis-aabach-uster/departments": {
+    "title": "VetTrust Kleintierpraxis Aabach Uster - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2JCfaJcKvUrqgChgZXSATY/51de5652a3b11bd296fecbe71df0a622/Uster.jpeg"
+  },
+  "/locations/kleintierklinik-am-damm-gossau/departments": {
+    "title": "VetTrust Kleintierklinik am Damm Gossau - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4jgxjrZAAtZIWOtwGMLChK/aa48e664643a06484341eaebac46fc89/Gossau_Empfang__2_.jpg"
+  },
+  "/locations/zentrum-tiermedizin-klettgau/departments": {
+    "title": "VetTrust Zentrum für Tiermedizin Klettgau - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/kVsz2Jad8xvtAdwg5M2fb/db49eb82af66b0d9da9eab711804db59/Klettgau_Aussen.jpg"
+  },
+  "/locations/kleintierpraxis-glattbrugg/departments": {
+    "title": "VetTrust Kleintierpraxis Glattbrugg - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WnEsjYhMvF7So528732o7/2af39e4f1370ff501830362a93742b63/Platzhalter_3.JPEG"
+  },
+  "/locations/kleintierpraxis-zuzwil/departments": {
+    "title": "VetTrust Kleintierpraxis Zuzwil - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5YnK4bI7h3nLfqmnjHmujr/491fa744a23dcfa3e330b9f8729504e9/Zuzwil.jpeg"
+  },
+  "/locations/kleintierpraxis-therwil/departments": {
+    "title": "VetTrust Kleintierpraxis Therwil - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WnEsjYhMvF7So528732o7/2af39e4f1370ff501830362a93742b63/Platzhalter_3.JPEG"
+  },
+  "/locations/kleintierpraxis-aarau/departments": {
+    "title": "VetTrust Kleintierpraxis Telli Aarau - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1ZKbt36kq0YPKl7GeXvW3/f2e34f3e00add44d4529a0cab7c78db5/Aarau_Aussen.jpeg"
+  },
+  "/locations/petsalon-hundecoiffeur-zuzwil/departments": {
+    "title": "VetTrust PetSalon Zuzwil - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3Yytwo6szJ4Mq0eAkVwA3H/7773af1464a88f7e8ce3b90ab8cfe17c/ZuzwilPetSalon.jpeg"
+  },
+  "/locations/clinica-alpina-tierhotel-ramosch/departments": {
+    "title": "Tierhotel Clinica Alpina Ramosch - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5P30Vgp5fR0TbcOKdeLd2W/22e65fb1fb8819235847c9df9ef04b58/HeroImage_Tierhotel_Ramosch_tinified.png"
+  },
+  "/locations/kleintierpraxis-guemligen/departments": {
+    "title": "VetTrust Kleintierpraxis Gümligen - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/63dgoHufXVcW9mHBKjSJeN/c5589cd075a6239cc61987b851d982e8/Guemligen1_Web.jpg"
+  },
+  "/locations/kleintierpraxis-trimbach/departments": {
+    "title": "VetTrust Kleintierpraxis Trimbach - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WWt0F8oJIDWt9LnLRriRu/42c875e283ead2699e261c4dc5cbe45b/Trimbach.JPEG"
+  },
+  "/locations/kleintierpraxis-turbenthal/departments": {
+    "title": "VetTrust Kleintierpraxis Turbenthal - Our departments",
+    "description": "With more than 15 specialists, we are at your service with the utmost competence!",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/S1uZmYpyscVgJlkwGx9ho/01c9dc6ed2588a8c77c1f0e468949268/Turbenthal.jpg"
+  },
+  "/locations/kleintierpraxis-faellanden/contact": {
+    "title": "VetTrust Kleintierpraxis Fällanden - Contact",
+    "description": "VetTrust small animal practice Fällanden - your competent veterinarians for the health of your pet. Make an appointment now",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/464Ow9IHCNpL9dqKowpcOz/fc3eff563626d736804640d5fc7da7b0/F__llanden.JPEG"
+  },
+  "/locations/kleintierpraxis-eschenbach/contact": {
+    "title": "VetTrust Kleintierpraxis Bachmatt Eschenbach - Contact",
+    "description": "The VetTrust small animal practice Bachmatt Eschenbach offers the best health care for your pet. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/68w3tnIbEKqPL7rFhdXc4z/a1c5a3f22a9631b39759a5c76c822c96/Platzhalter2.jpeg"
+  },
+  "/locations/tierklinik-nesslau/contact": {
+    "title": "VetTrust Tierklinik Nesslau - Contact",
+    "description": "The VetTrust veterinary clinic in Nesslau takes care of your pet's health. Our vets are there for you and your pet.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1bDmQKvKlsdSs41nB2d0hW/033bdf5273faca02b56206c21c735e3b/Nesslau.JPEG"
+  },
+  "/locations/tierklinik-zuerich-ost/contact": {
+    "title": "VetTrust Tierklinik Zürich Ost - Contact",
+    "description": "Our VetTrust Veterinary Clinic Zurich East takes care of the health of your animals. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1eAC6VAY3lZREDDjxZJnqD/345c164d71b6b1c44447099f8a107868/Z__rich_Ost.jpg"
+  },
+  "/locations/kleintierpraxis-st-gallen-ost/contact": {
+    "title": "VetTrust Kleintierpraxis St. Gallen Ost - Contact",
+    "description": "VetTrust small animal practice St. Gallen East - the vets with a heart for every pet. We care for the health of your pet.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2thnYz8rBIJ8AkizDaNXom/73f75bf129c2432afa957c52419ff345/StGallen.jpeg"
+  },
+  "/locations/tierklinik-basel/contact": {
+    "title": "VetTrust Tierklinik Basel - Contact",
+    "description": "Our modern and specialised clinic focuses on emergency and specialist medicine and helps small and large patients get back on their paws.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2hr6zmjbD2lY76n31M8hza/92bb0bb122d0d796ff7812dd14dd9ef3/My-Photo__MYP6058-2.jpg"
+  },
+  "/locations/kleintierpraxis-kuessnacht/contact": {
+    "title": "VetTrust Kleintierpraxis Küssnacht am Rigi - Contact",
+    "description": "The VetTrust small animal practice Küssnacht am Rigi - our vets are there for the health of your pet. Book an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4ZTI1ZPGfjfYCyWp8rPmES/7bd5781080c1e739c28392f67c9f50f9/K__ssnacht_Praxis_verbessert-2.jpeg"
+  },
+  "/locations/kleintierpraxis-oftringen/contact": {
+    "title": "VetTrust Kleintierpraxis Mühlebach Oftringen - Contact",
+    "description": "The VetTrust small animal practice Mühlebach Oftringen, veterinarians for the well-being of your pet. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/27FXWGMxRsEmtfdxUuNHIm/98bd08921fd11b3f1822868e2b5fd839/Oftringen2.JPEG"
+  },
+  "/locations/kleintierpraxis-muenchenstein/contact": {
+    "title": "VetTrust Kleintierpraxis Münchenstein  - Contact",
+    "description": "The VetTrust small animal practice Münchenstein: Some of the best vets in Switzerland for your pet. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2hr6zmjbD2lY76n31M8hza/92bb0bb122d0d796ff7812dd14dd9ef3/My-Photo__MYP6058-2.jpg"
+  },
+  "/locations/katzenhotel-oensingen/contact": {
+    "title": "VetTrust Katzenhotel Oensingen - Contact",
+    "description": "The VetTrust cat hotel Oensingen. Cats feel at home with us.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1W4R9H90IO8VuwOVCWsd1S/041deb979cd37357034897c1e961336e/MicrosoftTeams-image__8_.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-celerina/contact": {
+    "title": "Tierklinik Clinica Alpina Celerina (ehem. Samedan) - Contact",
+    "description": "The best for your pet's well-being. The vets at the Clinica Alpina Celerina veterinary clinic take care of your pet's health.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2A5Uo3MOl0d6FBfNAUKyEG/69ea275648e60f4cc6a3acb1c7d16c5a/IMG_0504.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-scuol/contact": {
+    "title": "Tierklinik Clinica Alpina Scuol - Contact",
+    "description": "The best for your pet's well-being. The vets at the Clinica Alpina Scuol veterinary clinic take care of your pet's health.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/0QvC15IzGv4Vg7ohWAfLO/1b62207d73d9f7b0a0342f67df167545/ClinicaAlpinaGeb__ude3.JPG"
+  },
+  "/locations/kleintierpraxis-buelach/contact": {
+    "title": "VetTrust Kleintierpraxis Bülach - Contact",
+    "description": "At the VetTrust small animal practice Bülach, you can also easily book your appointment online. We take care of your pet's health.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5HE6WkCauqNVBOTSe9QF9L/ddf55ac9a1ccc9fc0952b48a078cd173/Bu__lach_Empfang_1.jpeg"
+  },
+  "/locations/tierklinik-oberland-saland/contact": {
+    "title": "VetTrust Tierklinik Oberland Saland - Contact",
+    "description": "Our VetTrust Animal Clinic Oberland Saland cares for the health of animals large and small. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1FzecsxOsn4cETZrD1c8bR/2de6cc003d4c9bc10a3e71339542aa90/Saland.jpeg"
+  },
+  "/locations/kleintierpraxis-regensdorf/contact": {
+    "title": "VetTrust Kleintierpraxis Regensdorf - Contact",
+    "description": "The VetTrust small animal practice Regensdorf - Our vets care for your pet's health with all their heart. Simply book your appointment online.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1dR3KeEotCqtYRmA4RsaQP/8433b46e0bc2be3ff8d64c043d3f1930/Regensdorf.jpeg"
+  },
+  "/locations/kleintierpraxis-au/contact": {
+    "title": "VetTrust Kleintierpraxis Au - Contact",
+    "description": "Our VetTrust small animal practice Au cares for the health of large and small animals. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1SzYT9tXQrqgh9ZFOyFmT7/0e7d8f7f3094d3671abe01e98de86d1c/Au.jpeg"
+  },
+  "/locations/kleintierpraxis-winterthur-zentrum/contact": {
+    "title": "VetTrust Kleintierpraxis Winterthur im Zentrum - Contact",
+    "description": "Our VetTrust small animal practice in the centre Winterthur offers your pet the best health care. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1bJRvIHAhticPDdXxbjwAr/731b74445a833d81e734214ee2620d0f/2T0A5819.jpg"
+  },
+  "/locations/kleintierpraxis-schlieren/contact": {
+    "title": "VetTrust Kleintierpraxis Schlieren - Contact",
+    "description": "Your VetTrust small animal practice in Schlieren is there for you and your pet. Simply book an appointment online now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2gx7gD55zXLCkWXeTwEMIa/8bb7513089b5ba11b76c9b1cef2aed28/Schlieren.JPEG"
+  },
+  "/locations/flints-praxis-fuer-kleintiere/contact": {
+    "title": "Flint's Praxis für Kleintiere - Contact",
+    "description": "At Flint's practice for small animals, competent veterinarians take care of your pet. Book an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/72vMcs7WH3aklLccytu2YF/50ffc45d9ac4fe4686c14b7fb6c4dabd/My-Photo__MYP1909-i-1__1_.jpg"
+  },
+  "/locations/kleintierpraxis-muri/contact": {
+    "title": "VetTrust Kleintierpraxis Muri - Contact",
+    "description": "The vets at the VetTrust small animal practice at the Muri location look after your pet's health with heart and passion. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2VzzkolANmbEHV6RBloGGE/9fd957d8e571af8fe72c408e0fa6ce0d/Muri_Praxisfoto_Oktober_2022.jpeg"
+  },
+  "/locations/kleintierpraxis-zug/contact": {
+    "title": "VetTrust Kleintierpraxis Zug - Contact",
+    "description": "VetTrust small animal practice Zug - our vets take care of your pet's health. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1NKwZFvuSH73GLWjg2DTFL/0045f1bfdc10ea3143c55748c5550c67/Zug.JPEG"
+  },
+  "/locations/kleintierpraxis-basel-spalen/contact": {
+    "title": "VetTrust Kleintierpraxis Basel Spalen - Contact",
+    "description": "The best for your pet's well-being. The vets at the VetTrust small animal practice Basel Spalen take care of your pet's health.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1vms8ayyCnzRKKMc8smwC1/5cb5b86e92c0c76a88e577f40e89d6c2/Platzhalter.jpg"
+  },
+  "/locations/kleintierpraxis-stansstad/contact": {
+    "title": "VetTrust Kleintierpraxis Stansstad - Contact",
+    "description": "VetTrust small animal practice Stansstad: Your pet is in good hands with us. Our competent vets look after the well-being of your four-legged friend.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6qS7TJMBdL3vNi1UsWj6X7/b3ec8e3e0d87df90c0b6bfca858ae2e8/Stansstad.JPEG"
+  },
+  "/locations/kleintierpraxis-oensingen/contact": {
+    "title": "VetTrust Kleintierpraxis Oensingen - Contact",
+    "description": "The VetTrust small animal practice & cat hotel Oensingen. We take care of your pet's health. Cats can also stay overnight with us.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6BTL7AwfFVA4QOmY1dVpEl/e7f8018fc49e74e0ade51c2010eaf6dd/Oensingen__2_.JPEG"
+  },
+  "/locations/kleintierpraxis-basel-central/contact": {
+    "title": "VetTrust Kleintierpraxis Basel Central - Contact",
+    "description": "Our VetTrust small animal practice in Basel offers your pet the best health care. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1AyygPhnKIWKudzyl2YnJM/c14126a454fd1373e8920bc8b9d89a82/Praxisfoto_Basel_Central-2.jpg"
+  },
+  "/locations/kleintierpraxis-wettingen/contact": {
+    "title": "VetTrust Kleintierpraxis Wettingen - Contact",
+    "description": "Your pet is close to our hearts. The VetTrust small animal practice in Wettingen convinces with its competent veterinarians.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5EByfjvR0hcb81Z6mTqMKE/1ef399a239d168a9a00da59d6b190f53/Wettingen_aussen.JPEG"
+  },
+  "/locations/petsalon-hundecoiffeur-kuessnacht/contact": {
+    "title": "VetTrust PetSalon Küssnacht - Contact",
+    "description": "The VetTrust PetSalon Küssnacht is your professional cat & dog groomer. We take care of your pet's grooming needs. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1vms8ayyCnzRKKMc8smwC1/5cb5b86e92c0c76a88e577f40e89d6c2/Platzhalter.jpg"
+  },
+  "/locations/petsalon-hundecoiffeur-zug/contact": {
+    "title": "VetTrust PetSalon Zug - Contact",
+    "description": "Our cat & dog groomers at VetTrust PetSalon in Zug offer professional grooming for your four-legged friend.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/68w3tnIbEKqPL7rFhdXc4z/a1c5a3f22a9631b39759a5c76c822c96/Platzhalter2.jpeg"
+  },
+  "/locations/tierklinik-oberland-pfaeffikon/contact": {
+    "title": "VetTrust Tierklinik Oberland Pfäffikon - Contact",
+    "description": "Whether large or small, at the VetTrust Veterinary Clinic Oberland Pfäffikon, competent veterinarians take care of your pet. Book an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6OpGbANqOiobiq6486QBFx/24123a61730e9deb5d4ec23d8ba69d26/Pf__ffikon.JPEG"
+  },
+  "/locations/kleintierpraxis-aabach-uster/contact": {
+    "title": "VetTrust Kleintierpraxis Aabach Uster - Contact",
+    "description": "Your VetTrust small animal practice in Aabach Uster: Whether cat, dog or hamster, our vets will take care of your pet's health.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2JCfaJcKvUrqgChgZXSATY/51de5652a3b11bd296fecbe71df0a622/Uster.jpeg"
+  },
+  "/locations/kleintierklinik-am-damm-gossau/contact": {
+    "title": "VetTrust Kleintierklinik am Damm Gossau - Contact",
+    "description": "The VetTrust small animal practice at Damm Gossau - whether cat, dog or canary, we care for the health of your pet. Make an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4jgxjrZAAtZIWOtwGMLChK/aa48e664643a06484341eaebac46fc89/Gossau_Empfang__2_.jpg"
+  },
+  "/locations/zentrum-tiermedizin-klettgau/contact": {
+    "title": "VetTrust Zentrum für Tiermedizin Klettgau - Contact",
+    "description": "The VetTrust Centre for Veterinary Medicine in Klettgau is there for you and your pet. We care for the health of your pet. Book an appointment now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/kVsz2Jad8xvtAdwg5M2fb/db49eb82af66b0d9da9eab711804db59/Klettgau_Aussen.jpg"
+  },
+  "/locations/kleintierpraxis-glattbrugg/contact": {
+    "title": "VetTrust Kleintierpraxis Glattbrugg - Contact",
+    "description": "The VetTrust small animal practice in Glattbrugg offers comprehensive health care for your pet. Simply book an appointment online now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WnEsjYhMvF7So528732o7/2af39e4f1370ff501830362a93742b63/Platzhalter_3.JPEG"
+  },
+  "/locations/kleintierpraxis-zuzwil/contact": {
+    "title": "VetTrust Kleintierpraxis Zuzwil - Contact",
+    "description": "The best for your pet's well-being. The vets at the VetTrust small animal practice in Zuzwil take care of your pet's health.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5YnK4bI7h3nLfqmnjHmujr/491fa744a23dcfa3e330b9f8729504e9/Zuzwil.jpeg"
+  },
+  "/locations/kleintierpraxis-therwil/contact": {
+    "title": "VetTrust Kleintierpraxis Therwil - Contact",
+    "description": "The VetTrust small animal practice Therwil: your competent veterinary practice for the health of your pet. ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WnEsjYhMvF7So528732o7/2af39e4f1370ff501830362a93742b63/Platzhalter_3.JPEG"
+  },
+  "/locations/kleintierpraxis-aarau/contact": {
+    "title": "VetTrust Kleintierpraxis Telli Aarau - Contact",
+    "description": "The VetTrust small animal practice Telli Aarau - whether dog,cat or any other pet, our vets are there for you & your pet with heart.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1ZKbt36kq0YPKl7GeXvW3/f2e34f3e00add44d4529a0cab7c78db5/Aarau_Aussen.jpeg"
+  },
+  "/locations/petsalon-hundecoiffeur-zuzwil/contact": {
+    "title": "VetTrust PetSalon Zuzwil - Contact",
+    "description": "For the medical and professional care of your dog or cat, we are here for you. Book an appointment directly online now.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3Yytwo6szJ4Mq0eAkVwA3H/7773af1464a88f7e8ce3b90ab8cfe17c/ZuzwilPetSalon.jpeg"
+  },
+  "/locations/clinica-alpina-tierhotel-ramosch/contact": {
+    "title": "Tierhotel Clinica Alpina Ramosch - Contact",
+    "description": "Welcome at Clinica Alpina pet hotel Ramosch! ",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5P30Vgp5fR0TbcOKdeLd2W/22e65fb1fb8819235847c9df9ef04b58/HeroImage_Tierhotel_Ramosch_tinified.png"
+  },
+  "/locations/kleintierpraxis-guemligen/contact": {
+    "title": "VetTrust Kleintierpraxis Gümligen - Contact",
+    "description": "Whether cat, dog or another pet, at the VetTrust small animal practice Gümligen you will find competent veterinarians for your four-legged friend.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/63dgoHufXVcW9mHBKjSJeN/c5589cd075a6239cc61987b851d982e8/Guemligen1_Web.jpg"
+  },
+  "/locations/kleintierpraxis-trimbach/contact": {
+    "title": "VetTrust Kleintierpraxis Trimbach - Contact",
+    "description": "Only the best for your pet. The vets at the VetTrust small animal practice in Trimbach take care of the health of your cat, dog & co.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WWt0F8oJIDWt9LnLRriRu/42c875e283ead2699e261c4dc5cbe45b/Trimbach.JPEG"
+  },
+  "/locations/kleintierpraxis-turbenthal/contact": {
+    "title": "VetTrust Kleintierpraxis Turbenthal - Contact",
+    "description": "VetTrust small animal practice Turbenthal: We are at your and your pet's side with competent veterinarians.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/S1uZmYpyscVgJlkwGx9ho/01c9dc6ed2588a8c77c1f0e468949268/Turbenthal.jpg"
+  },
+  "/locations/kleintierpraxis-faellanden/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Fällanden - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/464Ow9IHCNpL9dqKowpcOz/fc3eff563626d736804640d5fc7da7b0/F__llanden.JPEG"
+  },
+  "/locations/kleintierpraxis-eschenbach/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Bachmatt Eschenbach - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/68w3tnIbEKqPL7rFhdXc4z/a1c5a3f22a9631b39759a5c76c822c96/Platzhalter2.jpeg"
+  },
+  "/locations/tierklinik-nesslau/animal-rescue": {
+    "title": "VetTrust Tierklinik Nesslau - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1bDmQKvKlsdSs41nB2d0hW/033bdf5273faca02b56206c21c735e3b/Nesslau.JPEG"
+  },
+  "/locations/tierklinik-zuerich-ost/animal-rescue": {
+    "title": "VetTrust Tierklinik Zürich Ost - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1eAC6VAY3lZREDDjxZJnqD/345c164d71b6b1c44447099f8a107868/Z__rich_Ost.jpg"
+  },
+  "/locations/kleintierpraxis-st-gallen-ost/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis St. Gallen Ost - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2thnYz8rBIJ8AkizDaNXom/73f75bf129c2432afa957c52419ff345/StGallen.jpeg"
+  },
+  "/locations/tierklinik-basel/animal-rescue": {
+    "title": "VetTrust Tierklinik Basel - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2hr6zmjbD2lY76n31M8hza/92bb0bb122d0d796ff7812dd14dd9ef3/My-Photo__MYP6058-2.jpg"
+  },
+  "/locations/kleintierpraxis-kuessnacht/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Küssnacht am Rigi - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4ZTI1ZPGfjfYCyWp8rPmES/7bd5781080c1e739c28392f67c9f50f9/K__ssnacht_Praxis_verbessert-2.jpeg"
+  },
+  "/locations/kleintierpraxis-oftringen/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Mühlebach Oftringen - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/27FXWGMxRsEmtfdxUuNHIm/98bd08921fd11b3f1822868e2b5fd839/Oftringen2.JPEG"
+  },
+  "/locations/kleintierpraxis-muenchenstein/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Münchenstein  - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2hr6zmjbD2lY76n31M8hza/92bb0bb122d0d796ff7812dd14dd9ef3/My-Photo__MYP6058-2.jpg"
+  },
+  "/locations/katzenhotel-oensingen/animal-rescue": {
+    "title": "VetTrust Katzenhotel Oensingen - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1W4R9H90IO8VuwOVCWsd1S/041deb979cd37357034897c1e961336e/MicrosoftTeams-image__8_.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-celerina/animal-rescue": {
+    "title": "Tierklinik Clinica Alpina Celerina (ehem. Samedan) - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2A5Uo3MOl0d6FBfNAUKyEG/69ea275648e60f4cc6a3acb1c7d16c5a/IMG_0504.jpeg"
+  },
+  "/locations/tierklinik-clinica-alpina-scuol/animal-rescue": {
+    "title": "Tierklinik Clinica Alpina Scuol - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/0QvC15IzGv4Vg7ohWAfLO/1b62207d73d9f7b0a0342f67df167545/ClinicaAlpinaGeb__ude3.JPG"
+  },
+  "/locations/kleintierpraxis-buelach/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Bülach - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5HE6WkCauqNVBOTSe9QF9L/ddf55ac9a1ccc9fc0952b48a078cd173/Bu__lach_Empfang_1.jpeg"
+  },
+  "/locations/tierklinik-oberland-saland/animal-rescue": {
+    "title": "VetTrust Tierklinik Oberland Saland - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1FzecsxOsn4cETZrD1c8bR/2de6cc003d4c9bc10a3e71339542aa90/Saland.jpeg"
+  },
+  "/locations/kleintierpraxis-regensdorf/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Regensdorf - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1dR3KeEotCqtYRmA4RsaQP/8433b46e0bc2be3ff8d64c043d3f1930/Regensdorf.jpeg"
+  },
+  "/locations/kleintierpraxis-au/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Au - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1SzYT9tXQrqgh9ZFOyFmT7/0e7d8f7f3094d3671abe01e98de86d1c/Au.jpeg"
+  },
+  "/locations/kleintierpraxis-winterthur-zentrum/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Winterthur im Zentrum - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1bJRvIHAhticPDdXxbjwAr/731b74445a833d81e734214ee2620d0f/2T0A5819.jpg"
+  },
+  "/locations/kleintierpraxis-schlieren/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Schlieren - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2gx7gD55zXLCkWXeTwEMIa/8bb7513089b5ba11b76c9b1cef2aed28/Schlieren.JPEG"
+  },
+  "/locations/flints-praxis-fuer-kleintiere/animal-rescue": {
+    "title": "Flint's Praxis für Kleintiere - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/72vMcs7WH3aklLccytu2YF/50ffc45d9ac4fe4686c14b7fb6c4dabd/My-Photo__MYP1909-i-1__1_.jpg"
+  },
+  "/locations/kleintierpraxis-muri/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Muri - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2VzzkolANmbEHV6RBloGGE/9fd957d8e571af8fe72c408e0fa6ce0d/Muri_Praxisfoto_Oktober_2022.jpeg"
+  },
+  "/locations/kleintierpraxis-zug/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Zug - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1NKwZFvuSH73GLWjg2DTFL/0045f1bfdc10ea3143c55748c5550c67/Zug.JPEG"
+  },
+  "/locations/kleintierpraxis-basel-spalen/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Basel Spalen - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1vms8ayyCnzRKKMc8smwC1/5cb5b86e92c0c76a88e577f40e89d6c2/Platzhalter.jpg"
+  },
+  "/locations/kleintierpraxis-stansstad/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Stansstad - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6qS7TJMBdL3vNi1UsWj6X7/b3ec8e3e0d87df90c0b6bfca858ae2e8/Stansstad.JPEG"
+  },
+  "/locations/kleintierpraxis-oensingen/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Oensingen - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6BTL7AwfFVA4QOmY1dVpEl/e7f8018fc49e74e0ade51c2010eaf6dd/Oensingen__2_.JPEG"
+  },
+  "/locations/kleintierpraxis-basel-central/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Basel Central - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1AyygPhnKIWKudzyl2YnJM/c14126a454fd1373e8920bc8b9d89a82/Praxisfoto_Basel_Central-2.jpg"
+  },
+  "/locations/kleintierpraxis-wettingen/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Wettingen - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5EByfjvR0hcb81Z6mTqMKE/1ef399a239d168a9a00da59d6b190f53/Wettingen_aussen.JPEG"
+  },
+  "/locations/petsalon-hundecoiffeur-kuessnacht/animal-rescue": {
+    "title": "VetTrust PetSalon Küssnacht - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1vms8ayyCnzRKKMc8smwC1/5cb5b86e92c0c76a88e577f40e89d6c2/Platzhalter.jpg"
+  },
+  "/locations/petsalon-hundecoiffeur-zug/animal-rescue": {
+    "title": "VetTrust PetSalon Zug - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/68w3tnIbEKqPL7rFhdXc4z/a1c5a3f22a9631b39759a5c76c822c96/Platzhalter2.jpeg"
+  },
+  "/locations/tierklinik-oberland-pfaeffikon/animal-rescue": {
+    "title": "VetTrust Tierklinik Oberland Pfäffikon - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6OpGbANqOiobiq6486QBFx/24123a61730e9deb5d4ec23d8ba69d26/Pf__ffikon.JPEG"
+  },
+  "/locations/kleintierpraxis-aabach-uster/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Aabach Uster - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/2JCfaJcKvUrqgChgZXSATY/51de5652a3b11bd296fecbe71df0a622/Uster.jpeg"
+  },
+  "/locations/kleintierklinik-am-damm-gossau/animal-rescue": {
+    "title": "VetTrust Kleintierklinik am Damm Gossau - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4jgxjrZAAtZIWOtwGMLChK/aa48e664643a06484341eaebac46fc89/Gossau_Empfang__2_.jpg"
+  },
+  "/locations/zentrum-tiermedizin-klettgau/animal-rescue": {
+    "title": "VetTrust Zentrum für Tiermedizin Klettgau - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/kVsz2Jad8xvtAdwg5M2fb/db49eb82af66b0d9da9eab711804db59/Klettgau_Aussen.jpg"
+  },
+  "/locations/kleintierpraxis-glattbrugg/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Glattbrugg - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WnEsjYhMvF7So528732o7/2af39e4f1370ff501830362a93742b63/Platzhalter_3.JPEG"
+  },
+  "/locations/kleintierpraxis-zuzwil/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Zuzwil - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5YnK4bI7h3nLfqmnjHmujr/491fa744a23dcfa3e330b9f8729504e9/Zuzwil.jpeg"
+  },
+  "/locations/kleintierpraxis-therwil/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Therwil - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WnEsjYhMvF7So528732o7/2af39e4f1370ff501830362a93742b63/Platzhalter_3.JPEG"
+  },
+  "/locations/kleintierpraxis-aarau/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Telli Aarau - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/1ZKbt36kq0YPKl7GeXvW3/f2e34f3e00add44d4529a0cab7c78db5/Aarau_Aussen.jpeg"
+  },
+  "/locations/petsalon-hundecoiffeur-zuzwil/animal-rescue": {
+    "title": "VetTrust PetSalon Zuzwil - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/3Yytwo6szJ4Mq0eAkVwA3H/7773af1464a88f7e8ce3b90ab8cfe17c/ZuzwilPetSalon.jpeg"
+  },
+  "/locations/clinica-alpina-tierhotel-ramosch/animal-rescue": {
+    "title": "Tierhotel Clinica Alpina Ramosch - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/5P30Vgp5fR0TbcOKdeLd2W/22e65fb1fb8819235847c9df9ef04b58/HeroImage_Tierhotel_Ramosch_tinified.png"
+  },
+  "/locations/kleintierpraxis-guemligen/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Gümligen - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/63dgoHufXVcW9mHBKjSJeN/c5589cd075a6239cc61987b851d982e8/Guemligen1_Web.jpg"
+  },
+  "/locations/kleintierpraxis-trimbach/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Trimbach - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6WWt0F8oJIDWt9LnLRriRu/42c875e283ead2699e261c4dc5cbe45b/Trimbach.JPEG"
+  },
+  "/locations/kleintierpraxis-turbenthal/animal-rescue": {
+    "title": "VetTrust Kleintierpraxis Turbenthal - VetTrust Tierrettungsdienst",
+    "description": "Nicht nur Menschen haben Unfälle, medizinische Notfälle oder verletzen sich – auch Haustieren passiert das. Wenn der Hund angefahren wird oder die Katze im Fenster eingeklemmt ist, kann ab sofort unsere Tierrettung verständigt werden.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/S1uZmYpyscVgJlkwGx9ho/01c9dc6ed2588a8c77c1f0e468949268/Turbenthal.jpg"
+  },
+  "/about": {
+    "title": "About us",
+    "description": "Learn what makes VetTrust tick and what is important to us.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/4fiOlFFE0GzlzG2PmjVXdN/e8dac42e698739148d04cc87829a313c/C0003Re.jpg"
+  },
+  "/about/become-a-part-of-vettrust": {
+    "title": "Become a part of VetTrust",
+    "description": "We want to offer pets the best possible medical care through VetTrust. Become a part of it and be a part of the largest Swiss network of practices.",
+    "image": "https://images.ctfassets.net/j8uuqr1mvi3k/6uIIb9kKS3FyVAWdYW7uGP/5c23eed329440531a0e92a9fb272cfb8/Tierarzt_werden_hero__1_.jpg"
+  }
+}

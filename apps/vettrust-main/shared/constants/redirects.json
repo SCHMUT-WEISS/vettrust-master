@@ -1,0 +1,116 @@
+[
+  {
+    "from": "https://vettrust.ch/kleintierpraxis-dreispitz",
+    "to": "https://vettrust.ch/locations/kleintierpraxis-dreispitz",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/fr/kuessnacht",
+    "to": "https://vettrust.ch/en/locations/kleintierpraxis-kuessnacht",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/en/kuessnacht",
+    "to": "https://vettrust.ch/en/locations/kleintierpraxis-kuessnacht",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/fr/kleintierpraxiswinterthur",
+    "to": "https://vettrust.ch/locations/kleintierpraxis-winterthur-zentrum",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/fr/pfaeffikon",
+    "to": "https://vettrust.ch/locations/tierklinik-oberland-pfaeffikon",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/en/kleintierpraxiswinterthur",
+    "to": "https://vettrust.ch/locations/kleintierpraxis-winterthur-zentrum",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/en/pfaeffikon",
+    "to": "https://vettrust.ch/locations/tierklinik-oberland-pfaeffikon",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/fr/locations/clinica-alpina-tierhotel-ramosch",
+    "to": "https://clinica-alpina.ch/locations/clinica-alpina-tierhotel-ramosch",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/fr/locations/tierklinik-clinica-alpina-celerina",
+    "to": "https://clinica-alpina.ch/locations/tierklinik-clinica-alpina-celerina",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/fr/locations/tierklinik-clinica-alpina-scuol",
+    "to": "https://clinica-alpina.ch/locations/tierklinik-clinica-alpina-scuol",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/fr/locations/flints-praxis-fuer-kleintiere",
+    "to": "http://www.flints.ch",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/en/locations/clinica-alpina-tierhotel-ramosch",
+    "to": "https://clinica-alpina.ch/locations/clinica-alpina-tierhotel-ramosch",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/en/locations/tierklinik-clinica-alpina-celerina",
+    "to": "https://clinica-alpina.ch/locations/tierklinik-clinica-alpina-celerina",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/en/locations/tierklinik-clinica-alpina-scuol",
+    "to": "https://clinica-alpina.ch/locations/tierklinik-clinica-alpina-scuol",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/en/locations/flints-praxis-fuer-kleintiere",
+    "to": "http://www.flints.ch",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/locations/clinica-alpina-tierhotel-ramosch",
+    "to": "https://clinica-alpina.ch/locations/clinica-alpina-tierhotel-ramosch",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/locations/tierklinik-clinica-alpina-celerina",
+    "to": "https://clinica-alpina.ch/locations/tierklinik-clinica-alpina-celerina",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/locations/tierklinik-clinica-alpina-scuol",
+    "to": "https://clinica-alpina.ch/locations/tierklinik-clinica-alpina-scuol",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/locations/flints-praxis-fuer-kleintiere",
+    "to": "http://www.flints.ch/",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/kuessnacht",
+    "to": "https://vettrust.ch/locations/kleintierpraxis-kuessnacht",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/kleintierpraxiswinterthur",
+    "to": "https://vettrust.ch/locations/kleintierpraxis-winterthur-zentrum",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/pfaeffikon",
+    "to": "https://vettrust.ch/locations/tierklinik-oberland-pfaeffikon",
+    "permanent": true
+  },
+  {
+    "from": "https://vettrust.ch/smart-paws",
+    "permanent": false
+  }
+]

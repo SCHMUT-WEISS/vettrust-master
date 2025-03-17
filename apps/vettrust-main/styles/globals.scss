@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@import "../../../node_modules/@somethingcreative-agency/vettrust-design_system/src/styles/main";
+@tailwind utilities;
+
+// todo remove this in monorepo when access to everything exists
+@import "jobs-widget";
+
+table {
+  border-radius: 12px;
+  overflow: hidden;
+
+}
+
+tbody {
+  tr:last-child {
+    td {
+      border-bottom: 0;
+    }
+  }
+
+  tr {
+    td:first-child{
+      background: $darkBlue;
+      color: #FFFFFF
+    }
+
+    td:last-child {
+      border-right: 0;
+    }
+  }
+}
+
+.--rounded {
+  &:before {
+    content: '';
+    --tw-bg-opacity: 1;
+    background-color: rgb(213 47 137/var(--tw-bg-opacity));
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+    border-radius: 12px;
+  }
+  &.order-first{
+    &:before {
+      left: 6px;
+      -webkit-mask-image: radial-gradient(100% 110% at 25% 50%, rgb(255, 255, 255) 75%, rgba(0, 0, 0, 0) 75%);
+      mask-image: radial-gradient(100% 110% at 25% 50%, rgb(255, 255, 255) 75%, rgba(0, 0, 0, 0) 75%);
+    }
+    span {
+      mask-image: radial-gradient(100% 110% at 25% 50%, rgb(255, 255, 255) 75%, rgba(0, 0, 0, 0) 75%);
+      -webkit-mask-image: radial-gradient(100% 110% at 25% 50%, rgb(255, 255, 255) 75%, rgba(0, 0, 0, 0) 75%);
+    }
+  }
+  &.order-last{
+    &:before {
+      right: 6px;
+      -webkit-mask-image: radial-gradient(100% 110% at 75% 50%, rgb(255, 255, 255) 75%, rgba(0, 0, 0, 0) 75%);
+      mask-image: radial-gradient(100% 110% at 75% 50%, rgb(255, 255, 255) 75%, rgba(0, 0, 0, 0) 75%);
+    }
+    span {
+      mask-image: radial-gradient(100% 110% at 75% 50%, rgb(255, 255, 255) 75%, rgba(0, 0, 0, 0) 75%);
+      -webkit-mask-image: radial-gradient(100% 110% at 75% 50%, rgb(255, 255, 255) 75%, rgba(0, 0, 0, 0) 75%);
+    }
+  }
+}
+
+.bubble {
+  @apply
+    transition-colors
+    duration-300
+    aspect-square	
+    rounded-full
+    absolute
+    flex
+    items-center
+    z-10
+    top-4
+    right-4 
+    max-w-[90px]
+    py-[10px]
+    px-[20px]
+    text-center
+    leading-4
+    whitespace-normal	
+    bg-vtGold
+    text-white
+    hover:bg-sand-pressed
+    touch-none
+    select-none
+
+    sm:text-[20px]
+    sm:leading-[20px]
+    sm:right-8
+    sm:max-w-[130px]
+    lg:top-auto
+    lg:bottom-8;
+
+  font-family: "noto-sans-condensed", sans-serif !important;
+}
